@@ -3,7 +3,7 @@
 MedVH is a dataset for evaluating hallucination in large vision language models on medical visual question answering tasks, specifically with chest x-ray images. This repository provides part of the dataset, which is proposed in our paper "MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context". The whole dataset will be released on [Physionet](https://physionet.org/) upon the acceptance of this paper.
 
 
-![Overall](./medVH.png)
+![Overall](./images/medVH.png)
   
 ## Abstract  
   
