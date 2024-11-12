@@ -1,0 +1,5002 @@
+[
+    {
+        "question_id": 0,
+        "img_id": 459,
+        "img_name": "medvh_459.jpg",
+        "question": "is there lung opacity in the right middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "11ed15cd-969010c3-76f74677-ff33b73b-5d53c292"
+    },
+    {
+        "question_id": 1,
+        "img_id": 38,
+        "img_name": "medvh_38.jpg",
+        "question": "is there evidence of contusion in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9fb44ee9-e12ff0ea-9579c361-cba33e93-199b0a5a"
+    },
+    {
+        "question_id": 2,
+        "img_id": 267,
+        "img_name": "medvh_267.jpg",
+        "question": "is there lung opacity in the right basal area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "727b601b-4bcabd4a-78224da8-6c144cfb-56c5cf74"
+    },
+    {
+        "question_id": 3,
+        "img_id": 204,
+        "img_name": "medvh_204.jpg",
+        "question": "is there lung opacity in the right retrocardiac area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "57129443-f26cd71c-ff5e786b-b0341002-5434144c"
+    },
+    {
+        "question_id": 4,
+        "img_id": 132,
+        "img_name": "medvh_132.jpg",
+        "question": "is there tortuosity of the thoracic aorta?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ef03dfa8-25642c12-658a7076-81b0afa1-f308b82d"
+    },
+    {
+        "question_id": 5,
+        "img_id": 478,
+        "img_name": "medvh_478.jpg",
+        "question": "is there atelectasis in the upper lungs?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "218d232a-dcb4046c-37e583c0-c64b2b45-8e5dc56b"
+    },
+    {
+        "question_id": 6,
+        "img_id": 168,
+        "img_name": "medvh_168.jpg",
+        "question": "is there lung opacity in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1ed73542-e09c2e51-21341b9f-10420b39-14560a2d"
+    },
+    {
+        "question_id": 7,
+        "img_id": 146,
+        "img_name": "medvh_146.jpg",
+        "question": "is there lung opacity in the left base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ab71663d-e813c0a6-fd4ec34e-85eaa1f7-aa9d65ad"
+    },
+    {
+        "question_id": 8,
+        "img_id": 482,
+        "img_name": "medvh_482.jpg",
+        "question": "is there infection in the upper lungs?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "56402ebe-e890852d-4839818e-e21f0622-3e4677c1"
+    },
+    {
+        "question_id": 9,
+        "img_id": 449,
+        "img_name": "medvh_449.jpg",
+        "question": "is there pleural thickening in the left area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "261ba0f8-5fe0acf2-f54d49cb-de73d220-e8589d14"
+    },
+    {
+        "question_id": 10,
+        "img_id": 349,
+        "img_name": "medvh_349.jpg",
+        "question": "is there atelectasis in the left upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e536f174-891e33c2-a1f35ef8-89855f5a-b08d9d51"
+    },
+    {
+        "question_id": 11,
+        "img_id": 542,
+        "img_name": "medvh_542.jpg",
+        "question": "is there pneumonia in the right mid area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ff88f556-d14d5804-d15183e6-96819ec1-02479aca"
+    },
+    {
+        "question_id": 12,
+        "img_id": 437,
+        "img_name": "medvh_437.jpg",
+        "question": "is there pneumonia in the left middle lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d25a248d-ba372f46-f4441483-ba4eac04-f68e10ff"
+    },
+    {
+        "question_id": 13,
+        "img_id": 86,
+        "img_name": "medvh_86.jpg",
+        "question": "is there evidence of enlargement of the cardiac silhouette in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "cb84562e-f13c9530-fc642273-93065dd7-5ea96998"
+    },
+    {
+        "question_id": 14,
+        "img_id": 219,
+        "img_name": "medvh_219.jpg",
+        "question": "is there blunting of the costophrenic angle?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0fcfa5fb-22e9ec0e-b94d6536-93ad01e5-c860ed50"
+    },
+    {
+        "question_id": 15,
+        "img_id": 373,
+        "img_name": "medvh_373.jpg",
+        "question": "is there consolidation in the middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0cf23e89-e5bac447-dc46ca12-70fd889a-2a2c23c7"
+    },
+    {
+        "question_id": 16,
+        "img_id": 527,
+        "img_name": "medvh_527.jpg",
+        "question": "is there atelectasis in the left middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "351b9201-00f1eec1-5ab3113b-8dbc9fc9-e1807f3c"
+    },
+    {
+        "question_id": 17,
+        "img_id": 463,
+        "img_name": "medvh_463.jpg",
+        "question": "is there pleural thickening in the left apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "81479cf0-46b686c1-85fbd4c5-b3fa70eb-6fa6e285"
+    },
+    {
+        "question_id": 18,
+        "img_id": 526,
+        "img_name": "medvh_526.jpg",
+        "question": "is there fracture in the right right rib area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0b63d0b0-00c0ad4f-305a99b5-77f2d200-99ccbdf4"
+    },
+    {
+        "question_id": 19,
+        "img_id": 255,
+        "img_name": "medvh_255.jpg",
+        "question": "is there atelectasis in the left basal retrocardiac area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1b498cba-d71f367d-5cbb84bb-e6c73930-9bef09f0"
+    },
+    {
+        "question_id": 20,
+        "img_id": 0,
+        "img_name": "medvh_0.jpg",
+        "question": "is there evidence of pleural effusion in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "91523dbc-21e83656-219ab9a7-87524b28-cc8401b8"
+    },
+    {
+        "question_id": 21,
+        "img_id": 64,
+        "img_name": "medvh_64.jpg",
+        "question": "is there lung opacity in the lower lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8f624d41-e28e6eb3-8f34dcc7-c6e94342-63206dbb"
+    },
+    {
+        "question_id": 22,
+        "img_id": 550,
+        "img_name": "medvh_550.jpg",
+        "question": "is there calcification in the left middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f1f6fad4-527b47f8-adbc9259-0f732813-358d6543"
+    },
+    {
+        "question_id": 23,
+        "img_id": 17,
+        "img_name": "medvh_17.jpg",
+        "question": "is there evidence of heart failure in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a7430dba-ac5e0ad9-dced4b12-81721cda-7531238a"
+    },
+    {
+        "question_id": 24,
+        "img_id": 136,
+        "img_name": "medvh_136.jpg",
+        "question": "is there lung opacity in the right lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3b6caf9d-861f6227-6fa5a985-1607bcdd-1ac59115"
+    },
+    {
+        "question_id": 25,
+        "img_id": 114,
+        "img_name": "medvh_114.jpg",
+        "question": "is there fracture?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "cd29f994-54fa20bd-12f5223d-72bfce4c-1c91c0e2"
+    },
+    {
+        "question_id": 26,
+        "img_id": 13,
+        "img_name": "medvh_13.jpg",
+        "question": "is there pleural effusion in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6927a3f7-1b7e4b64-4142c777-ec786b07-9fc8011c"
+    },
+    {
+        "question_id": 27,
+        "img_id": 213,
+        "img_name": "medvh_213.jpg",
+        "question": "is there evidence of lung opacity in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "95dedcc5-67e7da95-74f1e150-ea5407f5-d338854d"
+    },
+    {
+        "question_id": 28,
+        "img_id": 382,
+        "img_name": "medvh_382.jpg",
+        "question": "is there lung opacity in the lower and probably also middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e2bff967-0821391a-6014b891-acf04bf1-20aac75a"
+    },
+    {
+        "question_id": 29,
+        "img_id": 412,
+        "img_name": "medvh_412.jpg",
+        "question": "is there infection in the right lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d9cf1a56-f9641d5a-ca49e975-6e0654dc-9c7eede0"
+    },
+    {
+        "question_id": 30,
+        "img_id": 317,
+        "img_name": "medvh_317.jpg",
+        "question": "is there consolidation in the right basal area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9a582f2b-28e86954-3653e14c-f30ce637-c5948567"
+    },
+    {
+        "question_id": 31,
+        "img_id": 314,
+        "img_name": "medvh_314.jpg",
+        "question": "is there lung opacity in the right lower lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0ddf7e8b-11058543-4448c9b3-14e9cc41-3750fbd3"
+    },
+    {
+        "question_id": 32,
+        "img_id": 222,
+        "img_name": "medvh_222.jpg",
+        "question": "is there lung opacity in the middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "90e0cdb3-7bb0c8ef-281635ba-620d57b5-16003cc2"
+    },
+    {
+        "question_id": 33,
+        "img_id": 438,
+        "img_name": "medvh_438.jpg",
+        "question": "is there atelectasis in the left mid lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "440fa6b8-8b4efd18-d7dbfcd6-8be2bc85-9086ee84"
+    },
+    {
+        "question_id": 34,
+        "img_id": 367,
+        "img_name": "medvh_367.jpg",
+        "question": "is there lung opacity in the upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "87243fee-5b956928-7f978e30-cc93ec73-b2cfd26d"
+    },
+    {
+        "question_id": 35,
+        "img_id": 552,
+        "img_name": "medvh_552.jpg",
+        "question": "is there atelectasis in the bibasilar left middle lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "89798b7d-d56bc959-e267b9af-d576b606-96f5c199"
+    },
+    {
+        "question_id": 36,
+        "img_id": 125,
+        "img_name": "medvh_125.jpg",
+        "question": "is there atelectasis in the soft tissues?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a56f0f6d-0e355c72-2bc50efc-6de885b3-4b2f76c7"
+    },
+    {
+        "question_id": 37,
+        "img_id": 185,
+        "img_name": "medvh_185.jpg",
+        "question": "is there pleural effusion in the right right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ae83741a-c8fae661-cfa7d416-42a24143-a0b48b32"
+    },
+    {
+        "question_id": 38,
+        "img_id": 7,
+        "img_name": "medvh_7.jpg",
+        "question": "is there evidence of calcification in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "64525689-ed4ce1cf-31e720ef-2dcd0e30-20de9d92"
+    },
+    {
+        "question_id": 39,
+        "img_id": 235,
+        "img_name": "medvh_235.jpg",
+        "question": "is there atelectasis in the left basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "31e602cd-efb79f58-5d0b4940-db1887e9-b9f8de12"
+    },
+    {
+        "question_id": 40,
+        "img_id": 493,
+        "img_name": "medvh_493.jpg",
+        "question": "is there edema in the left mid to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ff1a0fd1-160bb159-e2f8918a-3e40a2d1-c13108e3"
+    },
+    {
+        "question_id": 41,
+        "img_id": 172,
+        "img_name": "medvh_172.jpg",
+        "question": "is there enlargement of the cardiac silhouette?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f92f8eca-d4526790-a1842ee9-1c5b4666-a0e18256"
+    },
+    {
+        "question_id": 42,
+        "img_id": 45,
+        "img_name": "medvh_45.jpg",
+        "question": "is there evidence of fracture in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "cdc825e6-228d3d19-2564d7e0-4c12af54-7df5285e"
+    },
+    {
+        "question_id": 43,
+        "img_id": 563,
+        "img_name": "medvh_563.jpg",
+        "question": "is there granuloma in the left middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dcaa2eb7-6707c698-aac49786-2dfe1a2d-f7dd29c3"
+    },
+    {
+        "question_id": 44,
+        "img_id": 343,
+        "img_name": "medvh_343.jpg",
+        "question": "is there atelectasis in the upper lobes?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "46995c20-fe616847-dc82e45e-2a596cee-42d83c42"
+    },
+    {
+        "question_id": 45,
+        "img_id": 483,
+        "img_name": "medvh_483.jpg",
+        "question": "is there edema in the left mid to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "83986f63-730c36d0-246df84e-dd53cb7c-1394f2ba"
+    },
+    {
+        "question_id": 46,
+        "img_id": 148,
+        "img_name": "medvh_148.jpg",
+        "question": "is there scoliosis in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8ad3fa0b-8dc1877d-033ab595-c7f1c8a5-4a8fef56"
+    },
+    {
+        "question_id": 47,
+        "img_id": 306,
+        "img_name": "medvh_306.jpg",
+        "question": "is there atelectasis in the right mid lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f060e34f-6dd867fe-be1dd30d-040638ae-8cca579e"
+    },
+    {
+        "question_id": 48,
+        "img_id": 559,
+        "img_name": "medvh_559.jpg",
+        "question": "is there atelectasis in the left mid to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "37e82c89-4d8586dd-f209f96e-5a53f3ac-4a02e101"
+    },
+    {
+        "question_id": 49,
+        "img_id": 460,
+        "img_name": "medvh_460.jpg",
+        "question": "is there lung opacity in the left middle lung upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dd336a06-26af5522-19b0b652-00f11434-add540da"
+    },
+    {
+        "question_id": 50,
+        "img_id": 500,
+        "img_name": "medvh_500.jpg",
+        "question": "is there lung opacity in the middle upper area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c7c34932-3b152d02-136823aa-d46dbf76-403ea3dc"
+    },
+    {
+        "question_id": 51,
+        "img_id": 191,
+        "img_name": "medvh_191.jpg",
+        "question": "is there atelectasis in the left lower lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3a45d220-7b66ef09-5f1dac34-8bff9f8a-fe65552e"
+    },
+    {
+        "question_id": 52,
+        "img_id": 451,
+        "img_name": "medvh_451.jpg",
+        "question": "is there lung opacity in the right upper lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "380736fa-311b2987-3df78c24-1f49ac26-dd427063"
+    },
+    {
+        "question_id": 53,
+        "img_id": 186,
+        "img_name": "medvh_186.jpg",
+        "question": "is there pleural effusion in the right right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9bf493b9-9d46c467-c887e367-5d6fe104-967f933b"
+    },
+    {
+        "question_id": 54,
+        "img_id": 421,
+        "img_name": "medvh_421.jpg",
+        "question": "is there atelectasis in the right middle to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "820ec8b6-62da0e47-49971cee-99a1e8c8-225233f4"
+    },
+    {
+        "question_id": 55,
+        "img_id": 418,
+        "img_name": "medvh_418.jpg",
+        "question": "is there lung opacity in the right lower lung retrocardiac area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a8c18f7d-5151e77d-cf36b195-844eeb37-e186beba"
+    },
+    {
+        "question_id": 56,
+        "img_id": 227,
+        "img_name": "medvh_227.jpg",
+        "question": "is there atelectasis in the left lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9a62ad2a-37c34ff2-e3a65157-fea36cf1-8009005b"
+    },
+    {
+        "question_id": 57,
+        "img_id": 344,
+        "img_name": "medvh_344.jpg",
+        "question": "is there consolidation in the right lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "302649d4-90b4a22b-c40dd77d-35967fff-a143da09"
+    },
+    {
+        "question_id": 58,
+        "img_id": 348,
+        "img_name": "medvh_348.jpg",
+        "question": "is there atelectasis in the left upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "988b420c-539d5104-a08a765e-7c638240-ec5342ca"
+    },
+    {
+        "question_id": 59,
+        "img_id": 530,
+        "img_name": "medvh_530.jpg",
+        "question": "is there pneumothorax in the left upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "b18f46db-1a812b8f-8422240a-cd1d097d-17c7aa5a"
+    },
+    {
+        "question_id": 60,
+        "img_id": 397,
+        "img_name": "medvh_397.jpg",
+        "question": "is there lung opacity in the right lower lung right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "bc24042b-65898675-d6e2557c-a91ebed2-084787cf"
+    },
+    {
+        "question_id": 61,
+        "img_id": 522,
+        "img_name": "medvh_522.jpg",
+        "question": "is there lung opacity in the upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "001d28f4-f4827556-cf396239-f298aaf4-368de437"
+    },
+    {
+        "question_id": 62,
+        "img_id": 345,
+        "img_name": "medvh_345.jpg",
+        "question": "is there consolidation in the right lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5f4d4afc-b35a4aab-10212b13-177089dd-d02aa972"
+    },
+    {
+        "question_id": 63,
+        "img_id": 34,
+        "img_name": "medvh_34.jpg",
+        "question": "is there pleural effusion in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "333ab51e-218306a3-efc4a241-b8532059-f3be91c8"
+    },
+    {
+        "question_id": 64,
+        "img_id": 127,
+        "img_name": "medvh_127.jpg",
+        "question": "is there tortuosity of the descending aorta ?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ae08168a-683697c4-5462c49a-71df5681-476da6c4"
+    },
+    {
+        "question_id": 65,
+        "img_id": 474,
+        "img_name": "medvh_474.jpg",
+        "question": "is there consolidation in the right middle lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3df7de74-99d9974d-503eb58c-131720f8-5108fef3"
+    },
+    {
+        "question_id": 66,
+        "img_id": 401,
+        "img_name": "medvh_401.jpg",
+        "question": "is there lung opacity in the right basilar right lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0a8831b7-0ebfc082-4b2880a9-c0ca9e9b-11533169"
+    },
+    {
+        "question_id": 67,
+        "img_id": 417,
+        "img_name": "medvh_417.jpg",
+        "question": "is there pneumonia in the right lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "117eb2b7-898e9ead-83d83cb1-c1bd5852-60ba72f4"
+    },
+    {
+        "question_id": 68,
+        "img_id": 420,
+        "img_name": "medvh_420.jpg",
+        "question": "is there lung opacity in the upper lungs?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3d9fd87d-06b5ade0-fbb73b35-15f330f1-e458e22f"
+    },
+    {
+        "question_id": 69,
+        "img_id": 442,
+        "img_name": "medvh_442.jpg",
+        "question": "is there atelectasis in the upper right lower lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "4f8526a5-7c367539-7e12c6ca-b0a115f6-e8873d1c"
+    },
+    {
+        "question_id": 70,
+        "img_id": 30,
+        "img_name": "medvh_30.jpg",
+        "question": "is there vascular congestion?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "14805280-082b34cf-4c697825-692c196e-2f889b05"
+    },
+    {
+        "question_id": 71,
+        "img_id": 523,
+        "img_name": "medvh_523.jpg",
+        "question": "is there atelectasis in the lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "bdf2a91e-be604076-b257aa74-ff865e4d-26890a56"
+    },
+    {
+        "question_id": 72,
+        "img_id": 274,
+        "img_name": "medvh_274.jpg",
+        "question": "is there atelectasis in the upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "855b9f4c-e7f477e2-5a4d2a8d-f804ba4b-fbbaad28"
+    },
+    {
+        "question_id": 73,
+        "img_id": 372,
+        "img_name": "medvh_372.jpg",
+        "question": "is there consolidation in the middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f8bd758d-b099914d-3c66432c-de0983dd-b0c01ba7"
+    },
+    {
+        "question_id": 74,
+        "img_id": 221,
+        "img_name": "medvh_221.jpg",
+        "question": "is there atelectasis in the lung right basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "33567e10-aba2db9c-18b6ac66-24538a26-1f0c02f6"
+    },
+    {
+        "question_id": 75,
+        "img_id": 53,
+        "img_name": "medvh_53.jpg",
+        "question": "is there hernia?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "11c864ad-18239b48-37b8f7b5-a408fa21-80f247d6"
+    },
+    {
+        "question_id": 76,
+        "img_id": 486,
+        "img_name": "medvh_486.jpg",
+        "question": "is there atelectasis in the left mid to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7c1aa658-c1938a8f-ab3e019f-98e62de1-170975bd"
+    },
+    {
+        "question_id": 77,
+        "img_id": 11,
+        "img_name": "medvh_11.jpg",
+        "question": "is there pneumothorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0fbc5f21-1522e19e-da3a2c7e-f5f2d637-6bdfc312"
+    },
+    {
+        "question_id": 78,
+        "img_id": 78,
+        "img_name": "medvh_78.jpg",
+        "question": "is there lung opacity in the lung bases?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "46f0f04e-f8267617-6db3402a-8b984443-10465c23"
+    },
+    {
+        "question_id": 79,
+        "img_id": 503,
+        "img_name": "medvh_503.jpg",
+        "question": "is there edema in the lower area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6501c2f1-6478d627-d70ffb9b-94abf3e5-aec9fb89"
+    },
+    {
+        "question_id": 80,
+        "img_id": 21,
+        "img_name": "medvh_21.jpg",
+        "question": "is there evidence of hernia in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8c889e92-81c27b78-aa537aed-74643479-57f33cba"
+    },
+    {
+        "question_id": 81,
+        "img_id": 337,
+        "img_name": "medvh_337.jpg",
+        "question": "is there lung opacity in the left upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8fe407b2-bfaf7043-683f2188-4e278c63-2e11c85f"
+    },
+    {
+        "question_id": 82,
+        "img_id": 562,
+        "img_name": "medvh_562.jpg",
+        "question": "is there emphysema in the left lower lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1ca067f8-c7e2c132-70a8d1d5-a3619b7a-6fc2a31f"
+    },
+    {
+        "question_id": 83,
+        "img_id": 220,
+        "img_name": "medvh_220.jpg",
+        "question": "is there blunting of the costophrenic angle?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8eff0a1e-3ef02b25-3415c6c5-0d58f5b1-e8c849a0"
+    },
+    {
+        "question_id": 84,
+        "img_id": 240,
+        "img_name": "medvh_240.jpg",
+        "question": "is there lung opacity in the right basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c76ab4d2-c7114668-32da2494-8c70d6ce-fc8c91a4"
+    },
+    {
+        "question_id": 85,
+        "img_id": 387,
+        "img_name": "medvh_387.jpg",
+        "question": "is there granuloma in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "30293fc4-16492c3d-27a6aee8-e2f28fa5-45855120"
+    },
+    {
+        "question_id": 86,
+        "img_id": 163,
+        "img_name": "medvh_163.jpg",
+        "question": "is there fracture in the upper area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7d8d8343-6235b9ea-082a2fb9-13b4fbd6-2dd736c8"
+    },
+    {
+        "question_id": 87,
+        "img_id": 339,
+        "img_name": "medvh_339.jpg",
+        "question": "is there consolidation in the soft tissues?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "976e0f77-992766b0-8ee9cbda-a2872427-36e97deb"
+    },
+    {
+        "question_id": 88,
+        "img_id": 433,
+        "img_name": "medvh_433.jpg",
+        "question": "is there atelectasis in the left middle to lower hemithorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a8e861ec-4e52ac55-5c125879-5912c87c-9202b168"
+    },
+    {
+        "question_id": 89,
+        "img_id": 520,
+        "img_name": "medvh_520.jpg",
+        "question": "is there consolidation in the left lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "548e0140-64adce39-4ee0a545-e7421fac-b9e4028f"
+    },
+    {
+        "question_id": 90,
+        "img_id": 241,
+        "img_name": "medvh_241.jpg",
+        "question": "is there lung opacity in the right basilar area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "eb6ad037-f850e664-bfefcdd0-bf5a2aba-d237f668"
+    },
+    {
+        "question_id": 91,
+        "img_id": 335,
+        "img_name": "medvh_335.jpg",
+        "question": "is there lung opacity in the right base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "812b531f-70ea4714-c00b8dcd-059fade9-63382e90"
+    },
+    {
+        "question_id": 92,
+        "img_id": 129,
+        "img_name": "medvh_129.jpg",
+        "question": "is there evidence of gastric distention in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "73b64afb-083a88e5-b5c963fb-bf2d59ea-5e5576fd"
+    },
+    {
+        "question_id": 93,
+        "img_id": 422,
+        "img_name": "medvh_422.jpg",
+        "question": "is there atelectasis in the right middle to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "041b0b64-629a61c3-970da119-1ae83539-63bda055"
+    },
+    {
+        "question_id": 94,
+        "img_id": 159,
+        "img_name": "medvh_159.jpg",
+        "question": "is there atelectasis in the lower and probably also middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "78b24581-c8c9fbf4-a4b4a490-81eaf88d-79267ce0"
+    },
+    {
+        "question_id": 95,
+        "img_id": 300,
+        "img_name": "medvh_300.jpg",
+        "question": "is there pleural effusion in the lower lung left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "260573b9-b1ec9f8d-0e37bfdf-7c2613f2-d9bd102c"
+    },
+    {
+        "question_id": 96,
+        "img_id": 91,
+        "img_name": "medvh_91.jpg",
+        "question": "is there evidence of hilar congestion in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f1712320-641c7a7d-56051ed7-3cf57741-429bcfef"
+    },
+    {
+        "question_id": 97,
+        "img_id": 461,
+        "img_name": "medvh_461.jpg",
+        "question": "is there pleural effusion in the lung bases?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "74e86a27-3bb4452f-02b7db19-a0a7bd51-a565abc2"
+    },
+    {
+        "question_id": 98,
+        "img_id": 134,
+        "img_name": "medvh_134.jpg",
+        "question": "is there pleural thickening?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "68347874-9224f694-93595d73-852e6766-ae9cc4eb"
+    },
+    {
+        "question_id": 99,
+        "img_id": 268,
+        "img_name": "medvh_268.jpg",
+        "question": "is there lung opacity in the right basal area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "29d1f00f-baa2f79a-1660d7c7-cf5b0065-17e28950"
+    },
+    {
+        "question_id": 100,
+        "img_id": 72,
+        "img_name": "medvh_72.jpg",
+        "question": "is there atelectasis in the right basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a3d9163a-f8b63344-dbf1b977-124b0b03-db394c4e"
+    },
+    {
+        "question_id": 101,
+        "img_id": 398,
+        "img_name": "medvh_398.jpg",
+        "question": "is there pleural effusion in the pleural left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "aa736bb5-84c00986-b7e76eed-3ccff7ba-b2c00bbf"
+    },
+    {
+        "question_id": 102,
+        "img_id": 282,
+        "img_name": "medvh_282.jpg",
+        "question": "is there pneumonia in the left upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "da708e12-bdd811f2-c403a00e-72d75464-3483b20c"
+    },
+    {
+        "question_id": 103,
+        "img_id": 200,
+        "img_name": "medvh_200.jpg",
+        "question": "is there atelectasis in the right lower lung right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "87b5d0bc-1874036d-cf3383b5-d5aa3ff3-ca32cd3d"
+    },
+    {
+        "question_id": 104,
+        "img_id": 487,
+        "img_name": "medvh_487.jpg",
+        "question": "is there consolidation in the lower and probably also middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f776e957-4affe710-5cb9196e-27f1f7a9-69d9bcdd"
+    },
+    {
+        "question_id": 105,
+        "img_id": 428,
+        "img_name": "medvh_428.jpg",
+        "question": "is there pneumonia in the right lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "51469e0c-0705cb0b-6f12b8ee-1af3390e-7f622bb7"
+    },
+    {
+        "question_id": 106,
+        "img_id": 229,
+        "img_name": "medvh_229.jpg",
+        "question": "is there hematoma?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "27cae26a-3fd5c8ef-a7bec221-97604195-dd4d264d"
+    },
+    {
+        "question_id": 107,
+        "img_id": 234,
+        "img_name": "medvh_234.jpg",
+        "question": "is there atelectasis in the lower and probably also middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "bc96dda9-7a991e42-978f68c4-16f9a252-208dc783"
+    },
+    {
+        "question_id": 108,
+        "img_id": 60,
+        "img_name": "medvh_60.jpg",
+        "question": "is there evidence of tortuosity of the thoracic aorta in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "084c0866-4dae9c36-6b4bb195-a7dcf736-36dc5471"
+    },
+    {
+        "question_id": 109,
+        "img_id": 514,
+        "img_name": "medvh_514.jpg",
+        "question": "is there atelectasis in the lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "08cff255-e5326ad7-dd12c6da-fec53186-a7f549f3"
+    },
+    {
+        "question_id": 110,
+        "img_id": 264,
+        "img_name": "medvh_264.jpg",
+        "question": "is there consolidation in the apical region?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "fb142146-985d5470-846ff8c2-0614f960-fc89bd6f"
+    },
+    {
+        "question_id": 111,
+        "img_id": 100,
+        "img_name": "medvh_100.jpg",
+        "question": "is there consolidation in the medial left lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "22034bce-f687741f-7a4ecf5a-b3c3c710-895f956f"
+    },
+    {
+        "question_id": 112,
+        "img_id": 535,
+        "img_name": "medvh_535.jpg",
+        "question": "is there lung opacity in the middle to lower left lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7dbb36bf-bd190cd4-924b398e-ac741f08-b8a2135f"
+    },
+    {
+        "question_id": 113,
+        "img_id": 236,
+        "img_name": "medvh_236.jpg",
+        "question": "is there atelectasis in the left basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "db2d85b9-5ff2967a-9d85e820-d53520f8-b3021af1"
+    },
+    {
+        "question_id": 114,
+        "img_id": 515,
+        "img_name": "medvh_515.jpg",
+        "question": "is there lung opacity in the right apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c96a0abf-fd8601b2-3ff0c723-b71854f1-7f1a8819"
+    },
+    {
+        "question_id": 115,
+        "img_id": 174,
+        "img_name": "medvh_174.jpg",
+        "question": "is there lung opacity in the right lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "babac201-eb26b5a9-cca07add-b624e6a5-280be326"
+    },
+    {
+        "question_id": 116,
+        "img_id": 97,
+        "img_name": "medvh_97.jpg",
+        "question": "is there consolidation in the upper lobes?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6b5205e6-3fc6641b-0965ccb6-45a1cfff-817407f1"
+    },
+    {
+        "question_id": 117,
+        "img_id": 327,
+        "img_name": "medvh_327.jpg",
+        "question": "is there atelectasis in the right lung base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "642b06b2-2b44bdf6-5e2f3ca1-eab8eab1-22fcabca"
+    },
+    {
+        "question_id": 118,
+        "img_id": 52,
+        "img_name": "medvh_52.jpg",
+        "question": "is there hernia?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ac8bba7a-184113cb-c894eab3-585a6f90-35aff973"
+    },
+    {
+        "question_id": 119,
+        "img_id": 415,
+        "img_name": "medvh_415.jpg",
+        "question": "is there vascular congestion in the left base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e0838089-5eb306fa-0f8afd3c-da36585f-9219dfef"
+    },
+    {
+        "question_id": 120,
+        "img_id": 199,
+        "img_name": "medvh_199.jpg",
+        "question": "is there atelectasis in the right lower lung right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ea4df663-a6a9ace7-6ac1fac4-4a0d9136-908cbbfe"
+    },
+    {
+        "question_id": 121,
+        "img_id": 54,
+        "img_name": "medvh_54.jpg",
+        "question": "is there evidence of pneumonia in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dde2efa3-25408251-48691280-17efa199-e0278b5b"
+    },
+    {
+        "question_id": 122,
+        "img_id": 277,
+        "img_name": "medvh_277.jpg",
+        "question": "is there infection in the left middle to lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5625a056-9ff088a1-318b3f74-761d82eb-8eca44b2"
+    },
+    {
+        "question_id": 123,
+        "img_id": 153,
+        "img_name": "medvh_153.jpg",
+        "question": "is there atelectasis in the right middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a40ffdca-2963a002-a8bd6459-2d95802c-f9ea0be2"
+    },
+    {
+        "question_id": 124,
+        "img_id": 166,
+        "img_name": "medvh_166.jpg",
+        "question": "is there air collection?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "16f22136-d9716561-bc861ada-57e1c169-17498513"
+    },
+    {
+        "question_id": 125,
+        "img_id": 525,
+        "img_name": "medvh_525.jpg",
+        "question": "is there atelectasis in the right mid lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8fb48e8b-3d1f032b-5d93c26e-7c7f09e7-50c54afc"
+    },
+    {
+        "question_id": 126,
+        "img_id": 431,
+        "img_name": "medvh_431.jpg",
+        "question": "is there consolidation in the right apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "09e9bb90-74f22b58-1d5c97f4-4e5056a0-4a944b92"
+    },
+    {
+        "question_id": 127,
+        "img_id": 216,
+        "img_name": "medvh_216.jpg",
+        "question": "is there lung opacity in the left mid lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5eb19a63-6a000830-b41bbb46-f9f5fc1f-4ad6e278"
+    },
+    {
+        "question_id": 128,
+        "img_id": 312,
+        "img_name": "medvh_312.jpg",
+        "question": "is there atelectasis in the right upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2b82e3b6-ffff1660-ebb914e2-b7e93413-d677b157"
+    },
+    {
+        "question_id": 129,
+        "img_id": 529,
+        "img_name": "medvh_529.jpg",
+        "question": "is there consolidation in the left lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ff1a21e7-453d4f60-95aaa2f2-76bcd93e-8debb861"
+    },
+    {
+        "question_id": 130,
+        "img_id": 43,
+        "img_name": "medvh_43.jpg",
+        "question": "is there edema in the middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ed8d9711-cf17a511-09ff5709-731d5b7f-b337ade2"
+    },
+    {
+        "question_id": 131,
+        "img_id": 375,
+        "img_name": "medvh_375.jpg",
+        "question": "is there atelectasis in the upper lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dd93eb92-50656f47-61627260-f5ac9009-9a8b5c52"
+    },
+    {
+        "question_id": 132,
+        "img_id": 497,
+        "img_name": "medvh_497.jpg",
+        "question": "is there consolidation in the apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "bcc4421f-9b8a4538-a48ab1b3-97593757-31d5d67a"
+    },
+    {
+        "question_id": 133,
+        "img_id": 291,
+        "img_name": "medvh_291.jpg",
+        "question": "is there atelectasis in the left basal area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "776adcf5-ec61d3d3-901ffbe9-df8b7677-6f22f05a"
+    },
+    {
+        "question_id": 134,
+        "img_id": 440,
+        "img_name": "medvh_440.jpg",
+        "question": "is there lung opacity in the left middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5728bc44-fa908372-1b769438-80fd7686-79ee873e"
+    },
+    {
+        "question_id": 135,
+        "img_id": 175,
+        "img_name": "medvh_175.jpg",
+        "question": "is there lung opacity in the right lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1668e87f-ac8be1a3-7e63ab13-bf3f5526-c32fd02a"
+    },
+    {
+        "question_id": 136,
+        "img_id": 101,
+        "img_name": "medvh_101.jpg",
+        "question": "is there consolidation in the medial left lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c205dd00-ad072cd5-4fea7aa7-aedac69e-f16cfe12"
+    },
+    {
+        "question_id": 137,
+        "img_id": 265,
+        "img_name": "medvh_265.jpg",
+        "question": "is there consolidation in the apical region?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "24ad0722-e12c1be0-0e462d94-d891eca0-8b10b625"
+    },
+    {
+        "question_id": 138,
+        "img_id": 366,
+        "img_name": "medvh_366.jpg",
+        "question": "is there lung opacity in the upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1c875d85-8a33465f-e48762de-0b115986-9de0db3c"
+    },
+    {
+        "question_id": 139,
+        "img_id": 381,
+        "img_name": "medvh_381.jpg",
+        "question": "is there lung opacity in the left upper lung lower area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8f10c654-f0be3149-dbc733af-44bace96-bf739128"
+    },
+    {
+        "question_id": 140,
+        "img_id": 464,
+        "img_name": "medvh_464.jpg",
+        "question": "is there atelectasis in the left middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a7c16a2d-ac6dd020-fc0b4d6e-fa86b4d8-c00641e3"
+    },
+    {
+        "question_id": 141,
+        "img_id": 283,
+        "img_name": "medvh_283.jpg",
+        "question": "is there pneumonia in the left upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "048b6555-7a118ec1-cb43775c-109bdcb0-67cdc56e"
+    },
+    {
+        "question_id": 142,
+        "img_id": 505,
+        "img_name": "medvh_505.jpg",
+        "question": "is there lung opacity in the left middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3b7829ce-98c8a4a8-7e3fb999-679041f5-600f1de5"
+    },
+    {
+        "question_id": 143,
+        "img_id": 109,
+        "img_name": "medvh_109.jpg",
+        "question": "is there lung opacity in the left upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ee7e9975-06c89cfd-915825ac-55e50940-7517ccb2"
+    },
+    {
+        "question_id": 144,
+        "img_id": 363,
+        "img_name": "medvh_363.jpg",
+        "question": "is there atelectasis in the left upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "108724fb-8cda5db2-932894a1-edaf1ddc-2213d81a"
+    },
+    {
+        "question_id": 145,
+        "img_id": 193,
+        "img_name": "medvh_193.jpg",
+        "question": "is there fracture in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8b536a89-d2f1ca20-9e197129-59cdd013-c3c30b81"
+    },
+    {
+        "question_id": 146,
+        "img_id": 547,
+        "img_name": "medvh_547.jpg",
+        "question": "is there atelectasis in the right right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "087f986a-7f935450-f1693b41-eaeebfa6-ca46b165"
+    },
+    {
+        "question_id": 147,
+        "img_id": 62,
+        "img_name": "medvh_62.jpg",
+        "question": "is there contusion?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "354358b4-f7042a92-b61535e7-4a684619-131f959f"
+    },
+    {
+        "question_id": 148,
+        "img_id": 202,
+        "img_name": "medvh_202.jpg",
+        "question": "is there evidence of pleural thickening in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "756281d0-562022b8-15578050-41b66a30-51d2e0f4"
+    },
+    {
+        "question_id": 149,
+        "img_id": 389,
+        "img_name": "medvh_389.jpg",
+        "question": "is there pleural effusion in the lower lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f3ba372a-dca4c280-94f27a7e-512a4a9c-bd595f7c"
+    },
+    {
+        "question_id": 150,
+        "img_id": 119,
+        "img_name": "medvh_119.jpg",
+        "question": "is there granuloma?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5e577c2b-d1edad97-b6d568de-86e6ba24-621892e2"
+    },
+    {
+        "question_id": 151,
+        "img_id": 74,
+        "img_name": "medvh_74.jpg",
+        "question": "is there lung opacity in the right mid lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2870e388-288726ec-64ba347f-67dbc42c-35792335"
+    },
+    {
+        "question_id": 152,
+        "img_id": 467,
+        "img_name": "medvh_467.jpg",
+        "question": "is there atelectasis in the right upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3b255d7f-06efffaf-7591f716-a9507b53-ec2d0dab"
+    },
+    {
+        "question_id": 153,
+        "img_id": 104,
+        "img_name": "medvh_104.jpg",
+        "question": "is there pneumomediastinum?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "16fb1c54-fa5704a5-2f7be2e2-a7d995df-90ccb8b5"
+    },
+    {
+        "question_id": 154,
+        "img_id": 488,
+        "img_name": "medvh_488.jpg",
+        "question": "is there pneumonia in the lower lobes?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2fce37c9-e8e374e1-e34de260-7f117eaf-ebdc98dc"
+    },
+    {
+        "question_id": 155,
+        "img_id": 66,
+        "img_name": "medvh_66.jpg",
+        "question": "is there evidence of hypertensive heart disease in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ce3d79cb-e2b3138c-b008ec9b-54d3c4df-85ce3a55"
+    },
+    {
+        "question_id": 156,
+        "img_id": 533,
+        "img_name": "medvh_533.jpg",
+        "question": "is there lung opacity in the middle lung upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1f830480-caf033de-80fe9f69-1aadd1ca-67c363b5"
+    },
+    {
+        "question_id": 157,
+        "img_id": 287,
+        "img_name": "medvh_287.jpg",
+        "question": "is there atelectasis in the right apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "05092f30-9327e084-f80749a3-7114e430-1784bbb8"
+    },
+    {
+        "question_id": 158,
+        "img_id": 18,
+        "img_name": "medvh_18.jpg",
+        "question": "is there evidence of heart failure in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1ddbf51a-0f8dd9fc-92ca1807-60c37244-1186f19e"
+    },
+    {
+        "question_id": 159,
+        "img_id": 19,
+        "img_name": "medvh_19.jpg",
+        "question": "is there edema?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c80f786a-950ed3b3-018e89d4-a5c1a624-0ac07089"
+    },
+    {
+        "question_id": 160,
+        "img_id": 224,
+        "img_name": "medvh_224.jpg",
+        "question": "is there lung opacity in the right upper pleural area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e858456c-6f81da79-25669a34-ef2ca01d-f4a2723f"
+    },
+    {
+        "question_id": 161,
+        "img_id": 374,
+        "img_name": "medvh_374.jpg",
+        "question": "is there pneumothorax in the right mid to lower hemithorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dc1eebaf-deb7e176-f0d2172e-6e10be03-fcb04f45"
+    },
+    {
+        "question_id": 162,
+        "img_id": 253,
+        "img_name": "medvh_253.jpg",
+        "question": "is there fracture in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "715ecf46-a6fb7c45-99a64f78-20a698a4-dce8a350"
+    },
+    {
+        "question_id": 163,
+        "img_id": 286,
+        "img_name": "medvh_286.jpg",
+        "question": "is there air collection in the right middle to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6a3c6304-12e44150-34bfc348-5ada6ace-62386ccf"
+    },
+    {
+        "question_id": 164,
+        "img_id": 539,
+        "img_name": "medvh_539.jpg",
+        "question": "is there granuloma in the right lower lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ce6d3e7a-e0b6c90a-defeed47-4ad62456-45ad9153"
+    },
+    {
+        "question_id": 165,
+        "img_id": 226,
+        "img_name": "medvh_226.jpg",
+        "question": "is there lung opacity in the left apical region?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "67790e8d-f5fd9f93-a6758ec0-3eab76ad-aa114276"
+    },
+    {
+        "question_id": 166,
+        "img_id": 231,
+        "img_name": "medvh_231.jpg",
+        "question": "is there pneumothorax in the right apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "503ccd3f-a896da6f-3b36cafd-7531514e-fa051284"
+    },
+    {
+        "question_id": 167,
+        "img_id": 212,
+        "img_name": "medvh_212.jpg",
+        "question": "is there pneumonia in the right basilar area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "16536ea0-ba5cb00d-f17c2f31-1d7ce271-512c217e"
+    },
+    {
+        "question_id": 168,
+        "img_id": 427,
+        "img_name": "medvh_427.jpg",
+        "question": "is there pneumonia in the right lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "cbfaeb87-cc7333c1-ad13f422-82cc6eb2-62eb7609"
+    },
+    {
+        "question_id": 169,
+        "img_id": 445,
+        "img_name": "medvh_445.jpg",
+        "question": "is there atelectasis in the right apical region?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ac5b68ae-881578d2-68758ff6-1d99c0f7-86037897"
+    },
+    {
+        "question_id": 170,
+        "img_id": 435,
+        "img_name": "medvh_435.jpg",
+        "question": "is there lung opacity in the bilateral upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "db6ac921-0e04d4f8-5ed19eba-3ec3d67d-100d1c89"
+    },
+    {
+        "question_id": 171,
+        "img_id": 392,
+        "img_name": "medvh_392.jpg",
+        "question": "is there lung opacity in the right lower area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f8035c7f-86e63032-c4e3abc5-c309191b-7ad13174"
+    },
+    {
+        "question_id": 172,
+        "img_id": 252,
+        "img_name": "medvh_252.jpg",
+        "question": "is there lung opacity in the middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "076a57a4-d29033f0-81ee3592-cdc8cec1-a5df9f12"
+    },
+    {
+        "question_id": 173,
+        "img_id": 270,
+        "img_name": "medvh_270.jpg",
+        "question": "is there vascular congestion in the left apical region?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c00564fb-99620afc-7d746182-15461284-20032274"
+    },
+    {
+        "question_id": 174,
+        "img_id": 154,
+        "img_name": "medvh_154.jpg",
+        "question": "is there atelectasis in the right middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c18891a3-1e6a6bc2-11d91642-52b98355-79e3c491"
+    },
+    {
+        "question_id": 175,
+        "img_id": 217,
+        "img_name": "medvh_217.jpg",
+        "question": "is there lung opacity in the right apical region?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "fff2abad-f1de8c31-b9282ceb-79487d26-1fdf6514"
+    },
+    {
+        "question_id": 176,
+        "img_id": 388,
+        "img_name": "medvh_388.jpg",
+        "question": "is there pleural effusion in the lower lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e9385087-cc4b3f14-6e48ba5b-3ca72ec0-f4ba55c3"
+    },
+    {
+        "question_id": 177,
+        "img_id": 357,
+        "img_name": "medvh_357.jpg",
+        "question": "is there lung opacity in the middle upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d99bea71-d7d61c28-87aa5c8b-34ea9a95-96c62c11"
+    },
+    {
+        "question_id": 178,
+        "img_id": 557,
+        "img_name": "medvh_557.jpg",
+        "question": "is there consolidation in the lung bases?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dbd77b96-c3940f6b-230c9df9-fba56c8d-3d528144"
+    },
+    {
+        "question_id": 179,
+        "img_id": 266,
+        "img_name": "medvh_266.jpg",
+        "question": "is there consolidation in the lower lobes?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "52c2c7c9-a3e95441-698f29cd-d17d7e10-b6820f91"
+    },
+    {
+        "question_id": 180,
+        "img_id": 423,
+        "img_name": "medvh_423.jpg",
+        "question": "is there consolidation in the left upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "572b7da7-71963ee6-588a591b-fd039ca1-33c7972b"
+    },
+    {
+        "question_id": 181,
+        "img_id": 502,
+        "img_name": "medvh_502.jpg",
+        "question": "is there consolidation in the left basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f76416a8-a9e408c5-503b3da8-84f923a5-9a162d93"
+    },
+    {
+        "question_id": 182,
+        "img_id": 187,
+        "img_name": "medvh_187.jpg",
+        "question": "is there consolidation in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e2936b63-2f5acd1c-48fc329d-3b5e5193-98327dd0"
+    },
+    {
+        "question_id": 183,
+        "img_id": 379,
+        "img_name": "medvh_379.jpg",
+        "question": "is there pleural effusion in the lung left area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "47346504-68e34a61-d638cd24-9e34f8e6-5a741de3"
+    },
+    {
+        "question_id": 184,
+        "img_id": 351,
+        "img_name": "medvh_351.jpg",
+        "question": "is there lung opacity in the right right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "588282f7-64cef96d-723bb595-4ef028ea-f2840e29"
+    },
+    {
+        "question_id": 185,
+        "img_id": 458,
+        "img_name": "medvh_458.jpg",
+        "question": "is there lung opacity in the right middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f3572e71-8d6cd30e-31f2df12-e45af505-dd76c76f"
+    },
+    {
+        "question_id": 186,
+        "img_id": 183,
+        "img_name": "medvh_183.jpg",
+        "question": "is there atelectasis in the left apical region?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9263f80f-e3742d59-74c5451e-e359910d-3524c977"
+    },
+    {
+        "question_id": 187,
+        "img_id": 479,
+        "img_name": "medvh_479.jpg",
+        "question": "is there atelectasis in the upper lungs?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "fa90d644-a22f7796-39e37d12-f762ca65-c59c7547"
+    },
+    {
+        "question_id": 188,
+        "img_id": 14,
+        "img_name": "medvh_14.jpg",
+        "question": "is there pleural effusion in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "90f1438d-60656f39-afb3fd55-f13a5070-32411d0c"
+    },
+    {
+        "question_id": 189,
+        "img_id": 49,
+        "img_name": "medvh_49.jpg",
+        "question": "is there evidence of vascular congestion in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "67cee155-ea0e64cf-a4ca82ce-781deea9-b7bb25ad"
+    },
+    {
+        "question_id": 190,
+        "img_id": 399,
+        "img_name": "medvh_399.jpg",
+        "question": "is there atelectasis in the basal left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5056b329-96e1d09f-2505fa51-ffd83c24-355a7de4"
+    },
+    {
+        "question_id": 191,
+        "img_id": 23,
+        "img_name": "medvh_23.jpg",
+        "question": "is there atelectasis in the right mid to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8d7b7911-0d33ef2d-fb258bc1-3647cd3b-47cf7ddf"
+    },
+    {
+        "question_id": 192,
+        "img_id": 462,
+        "img_name": "medvh_462.jpg",
+        "question": "is there pleural thickening in the left apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6bdc46af-17aad841-074467d6-6d060827-48dc3860"
+    },
+    {
+        "question_id": 193,
+        "img_id": 8,
+        "img_name": "medvh_8.jpg",
+        "question": "is there evidence of calcification in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "08954bc5-b6dc988b-ae42611a-166367dc-94d53b1f"
+    },
+    {
+        "question_id": 194,
+        "img_id": 201,
+        "img_name": "medvh_201.jpg",
+        "question": "is there evidence of pleural thickening in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dca2f97a-be00ddc1-3a7914ab-ff6afeed-9cf4ba77"
+    },
+    {
+        "question_id": 195,
+        "img_id": 145,
+        "img_name": "medvh_145.jpg",
+        "question": "is there lung opacity in the left base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c94367cf-6e1fee2a-65411147-99096b99-001c4f5b"
+    },
+    {
+        "question_id": 196,
+        "img_id": 144,
+        "img_name": "medvh_144.jpg",
+        "question": "is there evidence of hematoma in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a279e8d1-2d010a86-c3c7f5b8-346038d2-a402b3b5"
+    },
+    {
+        "question_id": 197,
+        "img_id": 364,
+        "img_name": "medvh_364.jpg",
+        "question": "is there atelectasis in the left upper lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "21df93c3-88c31597-05f1d07c-fd3a856e-55dd6d3c"
+    },
+    {
+        "question_id": 198,
+        "img_id": 362,
+        "img_name": "medvh_362.jpg",
+        "question": "is there atelectasis in the right upper lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "430e8618-48945ca3-57e159e0-76378487-8e982eb2"
+    },
+    {
+        "question_id": 199,
+        "img_id": 534,
+        "img_name": "medvh_534.jpg",
+        "question": "is there consolidation in the right basal right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d5d33a33-081b689a-1cf6703c-10e43b1b-263646ab"
+    },
+    {
+        "question_id": 200,
+        "img_id": 407,
+        "img_name": "medvh_407.jpg",
+        "question": "is there emphysema in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "49133943-87e182e5-cb79d0cb-e3b111d6-47a79f6c"
+    },
+    {
+        "question_id": 201,
+        "img_id": 258,
+        "img_name": "medvh_258.jpg",
+        "question": "is there atelectasis in the apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "44f9cd1c-a10bc81c-90fdfe7d-4a1df9eb-9bdbe59b"
+    },
+    {
+        "question_id": 202,
+        "img_id": 276,
+        "img_name": "medvh_276.jpg",
+        "question": "is there atelectasis in the middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f47ffb85-0da1141e-9fef5aa5-dad4a9ee-3acae7a3"
+    },
+    {
+        "question_id": 203,
+        "img_id": 444,
+        "img_name": "medvh_444.jpg",
+        "question": "is there lung opacity in the left lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "532b41c5-aa84f4e3-0680a169-3354c664-82013589"
+    },
+    {
+        "question_id": 204,
+        "img_id": 96,
+        "img_name": "medvh_96.jpg",
+        "question": "is there consolidation in the upper lobes?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6ae62c69-fc76232c-3285cb7a-f26b800b-76ff5113"
+    },
+    {
+        "question_id": 205,
+        "img_id": 511,
+        "img_name": "medvh_511.jpg",
+        "question": "is there edema in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "44acadf3-5e851482-cf3b7cbf-aaefa825-6e5642ad"
+    },
+    {
+        "question_id": 206,
+        "img_id": 131,
+        "img_name": "medvh_131.jpg",
+        "question": "is there lung opacity in the right upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f97e6be6-7b80e7db-433a9792-c7928cd4-5a4571fc"
+    },
+    {
+        "question_id": 207,
+        "img_id": 48,
+        "img_name": "medvh_48.jpg",
+        "question": "is there evidence of vascular congestion in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5b20ef9a-8f6998ce-daf92729-77490c2f-83110940"
+    },
+    {
+        "question_id": 208,
+        "img_id": 484,
+        "img_name": "medvh_484.jpg",
+        "question": "is there atelectasis in the retrocardiac left basilar area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1098429e-b723c1f7-13419e1b-646d0c6b-13f08264"
+    },
+    {
+        "question_id": 209,
+        "img_id": 155,
+        "img_name": "medvh_155.jpg",
+        "question": "is there gastric distention?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "302ddd3a-8e148479-76b506dc-8b029800-5633f784"
+    },
+    {
+        "question_id": 210,
+        "img_id": 73,
+        "img_name": "medvh_73.jpg",
+        "question": "is there atelectasis in the right basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8bc6263b-3c5bd055-e608b72a-7f562e4b-1c1989d7"
+    },
+    {
+        "question_id": 211,
+        "img_id": 171,
+        "img_name": "medvh_171.jpg",
+        "question": "is there atelectasis in the right middle lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7658447b-ab89bec1-c5ce89a9-3588752c-efed3969"
+    },
+    {
+        "question_id": 212,
+        "img_id": 524,
+        "img_name": "medvh_524.jpg",
+        "question": "is there atelectasis in the lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "54cff395-d4f42107-bab7851d-16a84a10-db91a4ed"
+    },
+    {
+        "question_id": 213,
+        "img_id": 549,
+        "img_name": "medvh_549.jpg",
+        "question": "is there consolidation in the middle upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7134e3a8-c1b8a9ee-e8ae951f-d47d3a50-b0d8e71e"
+    },
+    {
+        "question_id": 214,
+        "img_id": 232,
+        "img_name": "medvh_232.jpg",
+        "question": "is there pneumothorax in the right apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "43556e8b-2ee9efa7-b4495921-421e6a45-b807fe5f"
+    },
+    {
+        "question_id": 215,
+        "img_id": 250,
+        "img_name": "medvh_250.jpg",
+        "question": "is there pneumothorax in the left apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "660012d4-5a8286fa-335bf394-9b142855-229dd1fa"
+    },
+    {
+        "question_id": 216,
+        "img_id": 55,
+        "img_name": "medvh_55.jpg",
+        "question": "is there evidence of pneumonia in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2cb924e3-bd40018d-b9f4a961-eae0bac2-94b55ea0"
+    },
+    {
+        "question_id": 217,
+        "img_id": 118,
+        "img_name": "medvh_118.jpg",
+        "question": "is there granuloma?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "85cf356f-bf9b8624-8e257824-6039b110-cea1c32d"
+    },
+    {
+        "question_id": 218,
+        "img_id": 536,
+        "img_name": "medvh_536.jpg",
+        "question": "is there atelectasis in the left upper middle lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c0f2375f-1efec92b-b3a07fa8-86fd396f-48949c3d"
+    },
+    {
+        "question_id": 219,
+        "img_id": 457,
+        "img_name": "medvh_457.jpg",
+        "question": "is there lung opacity in the lower and probably also middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "99fd1c77-e3988ca7-e758e5e1-859eb54c-68514c12"
+    },
+    {
+        "question_id": 220,
+        "img_id": 426,
+        "img_name": "medvh_426.jpg",
+        "question": "is there pneumonia in the right upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8a60a61b-f6d51cc1-2910c819-bcaee4ff-c654ff16"
+    },
+    {
+        "question_id": 221,
+        "img_id": 331,
+        "img_name": "medvh_331.jpg",
+        "question": "is there lung opacity in the apical region?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "60467f36-50710ea9-e906177c-7ccca7c3-b5dc493c"
+    },
+    {
+        "question_id": 222,
+        "img_id": 545,
+        "img_name": "medvh_545.jpg",
+        "question": "is there cardiomegaly in the right lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5c38c9e0-f6686f2d-366bd70d-2a24a0ef-35559a4f"
+    },
+    {
+        "question_id": 223,
+        "img_id": 98,
+        "img_name": "medvh_98.jpg",
+        "question": "is there evidence of granuloma in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a07ff955-ea598d7d-7bab45c6-81b02fd4-ffbfa09a"
+    },
+    {
+        "question_id": 224,
+        "img_id": 315,
+        "img_name": "medvh_315.jpg",
+        "question": "is there lung opacity in the right lower lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "40526e7e-2101e34f-30ce3055-6b3bd1cc-50f6025b"
+    },
+    {
+        "question_id": 225,
+        "img_id": 205,
+        "img_name": "medvh_205.jpg",
+        "question": "is there lung opacity in the right retrocardiac area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "28e08ca7-74994b42-6228df85-719335be-ca237f9d"
+    },
+    {
+        "question_id": 226,
+        "img_id": 504,
+        "img_name": "medvh_504.jpg",
+        "question": "is there lung opacity in the left middle lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "af3c665a-09461459-e4806731-8bf50840-6ad0b59c"
+    },
+    {
+        "question_id": 227,
+        "img_id": 15,
+        "img_name": "medvh_15.jpg",
+        "question": "is there evidence of edema in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "50e16d02-755a5d33-3072c4e8-e2737be9-298249e6"
+    },
+    {
+        "question_id": 228,
+        "img_id": 322,
+        "img_name": "medvh_322.jpg",
+        "question": "is there lung opacity in the upper lobes?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "82ef54ba-991e5e78-caad1f0e-02ebf251-144b9927"
+    },
+    {
+        "question_id": 229,
+        "img_id": 90,
+        "img_name": "medvh_90.jpg",
+        "question": "is there evidence of hilar congestion in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8d0a6117-80ae9707-b56c4272-9ec57558-de5dee6f"
+    },
+    {
+        "question_id": 230,
+        "img_id": 561,
+        "img_name": "medvh_561.jpg",
+        "question": "is there pleural effusion in the apical region?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6c653974-1e8b13b9-68fe49e8-16d8fad2-28045598"
+    },
+    {
+        "question_id": 231,
+        "img_id": 149,
+        "img_name": "medvh_149.jpg",
+        "question": "is there pneumonia in the left lower lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "4d3706e6-32e6c528-8721a559-4522175f-4b49f6ed"
+    },
+    {
+        "question_id": 232,
+        "img_id": 436,
+        "img_name": "medvh_436.jpg",
+        "question": "is there pneumonia in the left middle lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3c60944d-d1261136-d6868b5c-e71d5ddc-db30b6d4"
+    },
+    {
+        "question_id": 233,
+        "img_id": 336,
+        "img_name": "medvh_336.jpg",
+        "question": "is there lung opacity in the right base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7cd19d39-584676a6-33e8fb24-6e5b850d-ab370425"
+    },
+    {
+        "question_id": 234,
+        "img_id": 383,
+        "img_name": "medvh_383.jpg",
+        "question": "is there lung opacity in the lower and probably also middle lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a6f7cd14-33b2963d-395f20f6-2df13cd3-4ff070ef"
+    },
+    {
+        "question_id": 235,
+        "img_id": 88,
+        "img_name": "medvh_88.jpg",
+        "question": "is there emphysema?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "b71170c5-0b93647b-0d8a4658-c0cd59c8-fa5bbe5d"
+    },
+    {
+        "question_id": 236,
+        "img_id": 223,
+        "img_name": "medvh_223.jpg",
+        "question": "is there lung opacity in the middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "fa380b4e-2e69b385-116db590-8fc75d38-4f1b4fdf"
+    },
+    {
+        "question_id": 237,
+        "img_id": 430,
+        "img_name": "medvh_430.jpg",
+        "question": "is there consolidation in the right middle to lower hemithorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "40b61743-80420473-99d1110f-7fed4914-bc5223b0"
+    },
+    {
+        "question_id": 238,
+        "img_id": 1,
+        "img_name": "medvh_1.jpg",
+        "question": "is there evidence of pleural effusion in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8caf027f-bf0ba935-59de23b5-424ebd42-78245b68"
+    },
+    {
+        "question_id": 239,
+        "img_id": 540,
+        "img_name": "medvh_540.jpg",
+        "question": "is there lung opacity in the left lung base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "33674c8f-f6617a3d-48e3a528-f2c47c2f-fc2ae608"
+    },
+    {
+        "question_id": 240,
+        "img_id": 350,
+        "img_name": "medvh_350.jpg",
+        "question": "is there lung opacity in the right right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "67101232-169cbb05-c9f13720-903af785-f5a90cce"
+    },
+    {
+        "question_id": 241,
+        "img_id": 95,
+        "img_name": "medvh_95.jpg",
+        "question": "is there atelectasis in the right lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1ec66490-a216afcd-0074b806-b64a21c7-661535d8"
+    },
+    {
+        "question_id": 242,
+        "img_id": 510,
+        "img_name": "medvh_510.jpg",
+        "question": "is there contusion in the right lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "813a6ddf-d20f8103-e2992d90-9637daff-20b89934"
+    },
+    {
+        "question_id": 243,
+        "img_id": 455,
+        "img_name": "medvh_455.jpg",
+        "question": "is there pleural effusion in the right middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9d1d6f78-0580d896-37d39e73-518b3649-0c8c681d"
+    },
+    {
+        "question_id": 244,
+        "img_id": 65,
+        "img_name": "medvh_65.jpg",
+        "question": "is there lung opacity in the lower lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6c49ef5b-a77dcb2c-08b102ba-951406ef-a127c7eb"
+    },
+    {
+        "question_id": 245,
+        "img_id": 243,
+        "img_name": "medvh_243.jpg",
+        "question": "is there infection?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "11e02844-5ec9d13e-06f71bd4-e3468859-018fb936"
+    },
+    {
+        "question_id": 246,
+        "img_id": 139,
+        "img_name": "medvh_139.jpg",
+        "question": "is there evidence of tortuosity of the descending aorta  in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "74eca535-6e23384f-a1cd879e-66dc55f5-518b1b6c"
+    },
+    {
+        "question_id": 247,
+        "img_id": 347,
+        "img_name": "medvh_347.jpg",
+        "question": "is there lung opacity in the left middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6870172f-4fdc7728-bd48ec1b-11b857e3-747deb41"
+    },
+    {
+        "question_id": 248,
+        "img_id": 495,
+        "img_name": "medvh_495.jpg",
+        "question": "is there consolidation in the upper lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "055e5e6d-17ea7112-58f2df9e-3741cdd0-3080e428"
+    },
+    {
+        "question_id": 249,
+        "img_id": 80,
+        "img_name": "medvh_80.jpg",
+        "question": "is there evidence of scoliosis in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1b46a2bf-8903d747-0bbf6d30-cad34c7b-c0099120"
+    },
+    {
+        "question_id": 250,
+        "img_id": 263,
+        "img_name": "medvh_263.jpg",
+        "question": "is there lung opacity in the left area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "532ae08d-31d0b7a8-1ba2b989-1db2b40d-4a2cf59a"
+    },
+    {
+        "question_id": 251,
+        "img_id": 214,
+        "img_name": "medvh_214.jpg",
+        "question": "is there evidence of lung opacity in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "aa637218-76977ffc-136b2b73-c745ce19-c372b566"
+    },
+    {
+        "question_id": 252,
+        "img_id": 256,
+        "img_name": "medvh_256.jpg",
+        "question": "is there atelectasis in the left basal retrocardiac area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e55bdada-f06e7910-83afcb26-fe61714e-81be5b07"
+    },
+    {
+        "question_id": 253,
+        "img_id": 541,
+        "img_name": "medvh_541.jpg",
+        "question": "is there lung opacity in the left lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2e7d8d48-7a820067-107e463a-b3a2c014-a0715332"
+    },
+    {
+        "question_id": 254,
+        "img_id": 447,
+        "img_name": "medvh_447.jpg",
+        "question": "is there pleural effusion in the right middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0c63dabf-b8648261-4eb2db45-aa46b736-e50c2e9b"
+    },
+    {
+        "question_id": 255,
+        "img_id": 228,
+        "img_name": "medvh_228.jpg",
+        "question": "is there atelectasis in the left apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c390e8b6-088fe7a8-5edd4db6-aa721ae1-f76d52a7"
+    },
+    {
+        "question_id": 256,
+        "img_id": 320,
+        "img_name": "medvh_320.jpg",
+        "question": "is there lung opacity in the left apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c81fb91a-477b9fe1-a91b4130-5044a076-96ab0a6c"
+    },
+    {
+        "question_id": 257,
+        "img_id": 385,
+        "img_name": "medvh_385.jpg",
+        "question": "is there lung opacity in the upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "14f7e0b7-9240bf85-656b5eb9-012349a2-23c78134"
+    },
+    {
+        "question_id": 258,
+        "img_id": 24,
+        "img_name": "medvh_24.jpg",
+        "question": "is there atelectasis in the right mid to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "67cbed6e-c8d2da24-1bef3688-8585174e-b4133192"
+    },
+    {
+        "question_id": 259,
+        "img_id": 551,
+        "img_name": "medvh_551.jpg",
+        "question": "is there atelectasis in the bibasilar right right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "91daaaec-a0d83fcf-957fd5e4-1e10d282-4345816a"
+    },
+    {
+        "question_id": 260,
+        "img_id": 110,
+        "img_name": "medvh_110.jpg",
+        "question": "is there evidence of pneumomediastinum in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6c347861-3cb9043c-e6c339f0-6d570dfd-d36922f8"
+    },
+    {
+        "question_id": 261,
+        "img_id": 356,
+        "img_name": "medvh_356.jpg",
+        "question": "is there consolidation in the left lower lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e00c7b63-70cc33d8-a20ff9a3-a0372724-8b40638e"
+    },
+    {
+        "question_id": 262,
+        "img_id": 546,
+        "img_name": "medvh_546.jpg",
+        "question": "is there air collection in the left mid to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7e70faa1-e99397cf-0b36f706-6a4be900-26e4caa2"
+    },
+    {
+        "question_id": 263,
+        "img_id": 355,
+        "img_name": "medvh_355.jpg",
+        "question": "is there consolidation in the left lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7e6fba69-f71b0a7a-4437e8fd-1e52724a-ae95eabd"
+    },
+    {
+        "question_id": 264,
+        "img_id": 498,
+        "img_name": "medvh_498.jpg",
+        "question": "is there consolidation in the apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a6355585-864c8b2b-741c2a88-02aa764f-e3798530"
+    },
+    {
+        "question_id": 265,
+        "img_id": 128,
+        "img_name": "medvh_128.jpg",
+        "question": "is there evidence of gastric distention in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f2a77f79-c42e70df-40bfbf5f-5e933a2c-c92fe8b9"
+    },
+    {
+        "question_id": 266,
+        "img_id": 531,
+        "img_name": "medvh_531.jpg",
+        "question": "is there lung opacity in the left lower upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d471c1b2-d6b4d31e-a1af0fba-8034b77d-4eff9f94"
+    },
+    {
+        "question_id": 267,
+        "img_id": 190,
+        "img_name": "medvh_190.jpg",
+        "question": "is there pneumonia in the lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a313d310-559b7c75-b394197e-7614f158-a40f52ad"
+    },
+    {
+        "question_id": 268,
+        "img_id": 160,
+        "img_name": "medvh_160.jpg",
+        "question": "is there atelectasis in the lower and probably also middle lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "b980f1f8-dafa4046-9e879fc8-1debe02b-40385c5c"
+    },
+    {
+        "question_id": 269,
+        "img_id": 70,
+        "img_name": "medvh_70.jpg",
+        "question": "is there lung opacity in the lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6acb1d9f-c6550f88-03c6298f-563395d2-fbb64a14"
+    },
+    {
+        "question_id": 270,
+        "img_id": 378,
+        "img_name": "medvh_378.jpg",
+        "question": "is there granuloma in the lung right upper area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "91f74bad-9a25d2f0-c596727b-31bced17-4d9c55f1"
+    },
+    {
+        "question_id": 271,
+        "img_id": 284,
+        "img_name": "medvh_284.jpg",
+        "question": "is there atelectasis in the left lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "83914d7f-11a6fdec-87938eda-00618eec-8fcca6b3"
+    },
+    {
+        "question_id": 272,
+        "img_id": 513,
+        "img_name": "medvh_513.jpg",
+        "question": "is there pneumonia in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "951b3089-bf4f9b76-e5185586-9a08ee06-0170e842"
+    },
+    {
+        "question_id": 273,
+        "img_id": 262,
+        "img_name": "medvh_262.jpg",
+        "question": "is there lung opacity in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "42ae6847-469710af-8b17ffef-6b642ea1-7daef8ad"
+    },
+    {
+        "question_id": 274,
+        "img_id": 470,
+        "img_name": "medvh_470.jpg",
+        "question": "is there consolidation in the left basal area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7f393e8b-2c6f9577-7347218f-dec508fe-8eebe064"
+    },
+    {
+        "question_id": 275,
+        "img_id": 538,
+        "img_name": "medvh_538.jpg",
+        "question": "is there granuloma in the apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f2e3cff1-fefdec42-d800592d-335761a4-252ec701"
+    },
+    {
+        "question_id": 276,
+        "img_id": 211,
+        "img_name": "medvh_211.jpg",
+        "question": "is there atelectasis in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "61449933-877d4bc4-1ca8b544-c61eb0f6-30e40241"
+    },
+    {
+        "question_id": 277,
+        "img_id": 342,
+        "img_name": "medvh_342.jpg",
+        "question": "is there atelectasis in the upper lobes?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a299e940-f9d844b7-ff0070f4-4711dbb0-0bf27459"
+    },
+    {
+        "question_id": 278,
+        "img_id": 558,
+        "img_name": "medvh_558.jpg",
+        "question": "is there atelectasis in the lung left middle area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "23aaf600-086b45df-795debf1-0a1ffb79-6cd2c0ca"
+    },
+    {
+        "question_id": 279,
+        "img_id": 307,
+        "img_name": "medvh_307.jpg",
+        "question": "is there lung opacity in the medial left lung base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c1f53d7d-9d790f6f-5e428912-212d8aef-33f80d9e"
+    },
+    {
+        "question_id": 280,
+        "img_id": 137,
+        "img_name": "medvh_137.jpg",
+        "question": "is there lung opacity in the right lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f5c0860d-3093dd37-0c15ac0b-d95691d6-f31008ab"
+    },
+    {
+        "question_id": 281,
+        "img_id": 28,
+        "img_name": "medvh_28.jpg",
+        "question": "is there evidence of thymoma in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "46c9a439-7d285c26-27ffa164-fcf4bf0a-e279953b"
+    },
+    {
+        "question_id": 282,
+        "img_id": 316,
+        "img_name": "medvh_316.jpg",
+        "question": "is there atelectasis in the upper area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a21dfc93-7dff8c61-e7fe1755-a35f0ad2-01448bab"
+    },
+    {
+        "question_id": 283,
+        "img_id": 501,
+        "img_name": "medvh_501.jpg",
+        "question": "is there pneumothorax in the left lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "df767e0f-d64c9157-2f95a7eb-cb3f2001-4ffd8c4e"
+    },
+    {
+        "question_id": 284,
+        "img_id": 376,
+        "img_name": "medvh_376.jpg",
+        "question": "is there atelectasis in the upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7c139c6a-81f0cd3c-121380cd-614110f2-94e944a4"
+    },
+    {
+        "question_id": 285,
+        "img_id": 544,
+        "img_name": "medvh_544.jpg",
+        "question": "is there pneumonia in the left upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0e201b93-862230fc-e32d6af1-426ee55c-f475cd9e"
+    },
+    {
+        "question_id": 286,
+        "img_id": 304,
+        "img_name": "medvh_304.jpg",
+        "question": "is there edema in the right upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a241d944-0de8ca0c-7927ae48-4ad7fcac-743e083c"
+    },
+    {
+        "question_id": 287,
+        "img_id": 261,
+        "img_name": "medvh_261.jpg",
+        "question": "is there lung opacity in the left basilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "70598077-7560f823-5e0467fe-bfba5451-8621fcdb"
+    },
+    {
+        "question_id": 288,
+        "img_id": 308,
+        "img_name": "medvh_308.jpg",
+        "question": "is there lung opacity in the medial left lung base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "80c1d88e-0a84c04d-30ce809e-9692febe-25a3dc59"
+    },
+    {
+        "question_id": 289,
+        "img_id": 20,
+        "img_name": "medvh_20.jpg",
+        "question": "is there edema?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c8beeb12-e79fca55-643b8d82-233b2a1b-795c08d1"
+    },
+    {
+        "question_id": 290,
+        "img_id": 292,
+        "img_name": "medvh_292.jpg",
+        "question": "is there atelectasis in the left basal area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0407ffe2-5612a303-c03016ae-666c3d06-333c80f0"
+    },
+    {
+        "question_id": 291,
+        "img_id": 303,
+        "img_name": "medvh_303.jpg",
+        "question": "is there lung opacity in the lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0e1e143e-ed961602-79b397a1-d838fda8-f21478a9"
+    },
+    {
+        "question_id": 292,
+        "img_id": 107,
+        "img_name": "medvh_107.jpg",
+        "question": "is there cardiomegaly?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "83d8d070-3cb8823f-3d85767b-cfd0c3db-2715c7c1"
+    },
+    {
+        "question_id": 293,
+        "img_id": 310,
+        "img_name": "medvh_310.jpg",
+        "question": "is there lung opacity in the right middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "de896bf3-a9e14d8e-c82393a7-52f4ad29-7a3db49f"
+    },
+    {
+        "question_id": 294,
+        "img_id": 411,
+        "img_name": "medvh_411.jpg",
+        "question": "is there atelectasis in the right lower lung retrocardiac area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "20d5c0d3-136e0542-0947129c-d34a4111-197be83e"
+    },
+    {
+        "question_id": 295,
+        "img_id": 295,
+        "img_name": "medvh_295.jpg",
+        "question": "is there lung opacity in the right lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "554fad67-08d3ea82-687b0b92-4825e624-b17ef914"
+    },
+    {
+        "question_id": 296,
+        "img_id": 406,
+        "img_name": "medvh_406.jpg",
+        "question": "is there consolidation in the right upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2a899a9f-9bd8a2af-af7dd07a-120ec8bf-97c19466"
+    },
+    {
+        "question_id": 297,
+        "img_id": 165,
+        "img_name": "medvh_165.jpg",
+        "question": "is there lung opacity in the left lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "67298098-c5275e15-72ef2c26-9f205b55-3c12e09b"
+    },
+    {
+        "question_id": 298,
+        "img_id": 113,
+        "img_name": "medvh_113.jpg",
+        "question": "is there lung opacity?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "b044eb92-4b0f8dde-ee4342f1-9b856d21-80e5824c"
+    },
+    {
+        "question_id": 299,
+        "img_id": 182,
+        "img_name": "medvh_182.jpg",
+        "question": "is there infection in the right upper lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "18315628-3130487b-f9644107-0075992c-b38cb4f5"
+    },
+    {
+        "question_id": 300,
+        "img_id": 275,
+        "img_name": "medvh_275.jpg",
+        "question": "is there atelectasis in the middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "486b8826-5994d55e-5af38efe-2a95c544-0d53f667"
+    },
+    {
+        "question_id": 301,
+        "img_id": 37,
+        "img_name": "medvh_37.jpg",
+        "question": "is there evidence of contusion in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "84674ebf-c6d44da8-504d421d-24243efd-0874a4b4"
+    },
+    {
+        "question_id": 302,
+        "img_id": 122,
+        "img_name": "medvh_122.jpg",
+        "question": "is there atelectasis in the left mid lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6da549f3-ffdb1849-c47fac94-c2d45c13-ffd8c3ae"
+    },
+    {
+        "question_id": 303,
+        "img_id": 178,
+        "img_name": "medvh_178.jpg",
+        "question": "is there fracture in the right rib area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6cb4e28c-46090ad1-a5bbd69e-8ef813df-92857626"
+    },
+    {
+        "question_id": 304,
+        "img_id": 521,
+        "img_name": "medvh_521.jpg",
+        "question": "is there lung opacity in the upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f4f1d90b-2d857d5a-cb8fabf4-137ceef0-035aff5f"
+    },
+    {
+        "question_id": 305,
+        "img_id": 259,
+        "img_name": "medvh_259.jpg",
+        "question": "is there edema in the upper lobes?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a45685ce-e96f4997-c9ec409d-7fa9af31-19476b1f"
+    },
+    {
+        "question_id": 306,
+        "img_id": 269,
+        "img_name": "medvh_269.jpg",
+        "question": "is there pleural effusion in the lower and probably also middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e7bcf94d-79194a1c-9bba25e7-99df9b4e-bec23272"
+    },
+    {
+        "question_id": 307,
+        "img_id": 67,
+        "img_name": "medvh_67.jpg",
+        "question": "is there evidence of hypertensive heart disease in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "71499ad7-c88459fc-c863a8a8-ec53342a-781208dc"
+    },
+    {
+        "question_id": 308,
+        "img_id": 506,
+        "img_name": "medvh_506.jpg",
+        "question": "is there lung opacity in the right mid lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a931061a-b7fd3e76-1f420722-39e19a84-d91a46f9"
+    },
+    {
+        "question_id": 309,
+        "img_id": 326,
+        "img_name": "medvh_326.jpg",
+        "question": "is there atelectasis in the right lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "b6a59e8c-3ef5c942-fd5897a8-063ba956-e2fcb384"
+    },
+    {
+        "question_id": 310,
+        "img_id": 556,
+        "img_name": "medvh_556.jpg",
+        "question": "is there lung opacity in the middle to lower left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "50f40914-20fe1b35-273e3e56-d7a619f2-18d0f703"
+    },
+    {
+        "question_id": 311,
+        "img_id": 319,
+        "img_name": "medvh_319.jpg",
+        "question": "is there lung opacity in the left apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3140598d-a025d37e-6783e165-fb877098-0b284bc0"
+    },
+    {
+        "question_id": 312,
+        "img_id": 555,
+        "img_name": "medvh_555.jpg",
+        "question": "is there pleural effusion in the left lower lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7861909a-2ad9b3c5-b2659a5f-fb30aad0-33f56284"
+    },
+    {
+        "question_id": 313,
+        "img_id": 198,
+        "img_name": "medvh_198.jpg",
+        "question": "is there atelectasis in the right lower lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d9990ca9-1c08b993-982d6918-ca9d5d8b-10125af9"
+    },
+    {
+        "question_id": 314,
+        "img_id": 395,
+        "img_name": "medvh_395.jpg",
+        "question": "is there atelectasis in the left upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a3212a6d-f405a537-293c58ed-98c5dcee-cbba920f"
+    },
+    {
+        "question_id": 315,
+        "img_id": 448,
+        "img_name": "medvh_448.jpg",
+        "question": "is there pleural thickening in the left area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "469b3f87-bb9a489b-7b1e873b-346b7304-3f965474"
+    },
+    {
+        "question_id": 316,
+        "img_id": 485,
+        "img_name": "medvh_485.jpg",
+        "question": "is there lung opacity in the left mid to lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "14ea8a37-6e1f2da1-7bd5c4ae-d1b62eb8-8ef3ae60"
+    },
+    {
+        "question_id": 317,
+        "img_id": 386,
+        "img_name": "medvh_386.jpg",
+        "question": "is there lung opacity in the upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "677aee44-df29fa2d-7f44120c-9cf91532-47329e08"
+    },
+    {
+        "question_id": 318,
+        "img_id": 353,
+        "img_name": "medvh_353.jpg",
+        "question": "is there consolidation in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "39b36005-f92d0a00-487e85b1-5b38985e-e2b674dd"
+    },
+    {
+        "question_id": 319,
+        "img_id": 94,
+        "img_name": "medvh_94.jpg",
+        "question": "is there atelectasis in the right lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "bc272d9b-b56dff53-d933d27a-e0b58965-fe261fb7"
+    },
+    {
+        "question_id": 320,
+        "img_id": 130,
+        "img_name": "medvh_130.jpg",
+        "question": "is there lung opacity in the right upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2030167a-03b7ab1f-6028384f-ebcdafe7-081c654f"
+    },
+    {
+        "question_id": 321,
+        "img_id": 299,
+        "img_name": "medvh_299.jpg",
+        "question": "is there atelectasis in the bilateral upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d469e690-0dce09f7-711acdaf-c23a84a8-fbf643f6"
+    },
+    {
+        "question_id": 322,
+        "img_id": 394,
+        "img_name": "medvh_394.jpg",
+        "question": "is there lung opacity in the retrocardiac left upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "847cfee4-2376d835-bffe1e78-7e6e94b8-af161045"
+    },
+    {
+        "question_id": 323,
+        "img_id": 12,
+        "img_name": "medvh_12.jpg",
+        "question": "is there pneumothorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f2fa4780-9112ba22-8c9f15f1-57881337-2070e1cd"
+    },
+    {
+        "question_id": 324,
+        "img_id": 305,
+        "img_name": "medvh_305.jpg",
+        "question": "is there atelectasis in the right mid lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0ed1aaff-84184578-bee23f28-e62e7f29-7a478d32"
+    },
+    {
+        "question_id": 325,
+        "img_id": 68,
+        "img_name": "medvh_68.jpg",
+        "question": "is there lung opacity in the lower lobes?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "231dd795-6e5d23c9-4c501e5b-bdb635ab-4939feb5"
+    },
+    {
+        "question_id": 326,
+        "img_id": 324,
+        "img_name": "medvh_324.jpg",
+        "question": "is there pleural thickening in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a192601f-b191cabb-67c50b28-3623f6d0-623470f8"
+    },
+    {
+        "question_id": 327,
+        "img_id": 323,
+        "img_name": "medvh_323.jpg",
+        "question": "is there lung opacity in the upper lobes?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "51fe5231-ab5287b9-6024c8a5-c5cbbbd8-3d2976cb"
+    },
+    {
+        "question_id": 328,
+        "img_id": 370,
+        "img_name": "medvh_370.jpg",
+        "question": "is there lung opacity in the left lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "dae650d0-2ceef24e-ce2954ca-eefcbe21-ea94c06f"
+    },
+    {
+        "question_id": 329,
+        "img_id": 289,
+        "img_name": "medvh_289.jpg",
+        "question": "is there pneumothorax in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2cc192e5-ca20ff88-0a208ef8-6f367699-a6a9ca4e"
+    },
+    {
+        "question_id": 330,
+        "img_id": 112,
+        "img_name": "medvh_112.jpg",
+        "question": "is there lung opacity?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "287e67ea-a1ed8bb0-8dbe6b91-d4de4a44-0a67f63c"
+    },
+    {
+        "question_id": 331,
+        "img_id": 83,
+        "img_name": "medvh_83.jpg",
+        "question": "is there evidence of air collection in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "eba6b830-20863ac1-a68b40e2-6c28a534-56427d84"
+    },
+    {
+        "question_id": 332,
+        "img_id": 424,
+        "img_name": "medvh_424.jpg",
+        "question": "is there lung opacity in the right upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "11b2368a-f97f5769-a7f77810-6737bd69-7888d36d"
+    },
+    {
+        "question_id": 333,
+        "img_id": 102,
+        "img_name": "medvh_102.jpg",
+        "question": "is there hilar congestion?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "35757805-c477b26a-8d2be3d3-997648a3-4023e3ae"
+    },
+    {
+        "question_id": 334,
+        "img_id": 472,
+        "img_name": "medvh_472.jpg",
+        "question": "is there lung opacity in the apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "51481cf8-5683c0c9-9ad7fea3-14917bde-c5ac20d3"
+    },
+    {
+        "question_id": 335,
+        "img_id": 188,
+        "img_name": "medvh_188.jpg",
+        "question": "is there consolidation in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5561ccba-703863e9-d0da03aa-cb3ba76d-24e96ca4"
+    },
+    {
+        "question_id": 336,
+        "img_id": 301,
+        "img_name": "medvh_301.jpg",
+        "question": "is there pneumothorax in the right basilar area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "78717c1f-a3b8cf1e-25fa9150-19421973-64cb3ec5"
+    },
+    {
+        "question_id": 337,
+        "img_id": 61,
+        "img_name": "medvh_61.jpg",
+        "question": "is there evidence of tortuosity of the thoracic aorta in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3ad9206e-1b1cf4b4-e43d2402-9cc8e26b-70fa7a50"
+    },
+    {
+        "question_id": 338,
+        "img_id": 409,
+        "img_name": "medvh_409.jpg",
+        "question": "is there lung opacity in the right middle to lower hemithorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a692ff1a-cf5ec0ac-b956ae45-655657a8-29585646"
+    },
+    {
+        "question_id": 339,
+        "img_id": 194,
+        "img_name": "medvh_194.jpg",
+        "question": "is there fracture in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ecdf06b5-b06b27ce-08fd933f-80fb4d16-4f03ce9f"
+    },
+    {
+        "question_id": 340,
+        "img_id": 164,
+        "img_name": "medvh_164.jpg",
+        "question": "is there lung opacity in the left lower lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8d51a939-188d3548-d7324a3c-a9f9b386-265e81cd"
+    },
+    {
+        "question_id": 341,
+        "img_id": 377,
+        "img_name": "medvh_377.jpg",
+        "question": "is there lung opacity in the upper right lower area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5ef8849d-534f211f-23206748-0c3b9a8a-8b1d5a13"
+    },
+    {
+        "question_id": 342,
+        "img_id": 338,
+        "img_name": "medvh_338.jpg",
+        "question": "is there lung opacity in the left upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e8aecda5-bf596882-903c16f1-605f17b9-8b9b59f3"
+    },
+    {
+        "question_id": 343,
+        "img_id": 245,
+        "img_name": "medvh_245.jpg",
+        "question": "is there lung opacity in the left mid to lower hemithorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a291f0a3-6bda67de-31eaa390-0a993b02-aa3a0f43"
+    },
+    {
+        "question_id": 344,
+        "img_id": 239,
+        "img_name": "medvh_239.jpg",
+        "question": "is there pneumonia in the left upper area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "84d637cd-c04c8b05-912c4602-5b3497e7-fbe2e056"
+    },
+    {
+        "question_id": 345,
+        "img_id": 27,
+        "img_name": "medvh_27.jpg",
+        "question": "is there evidence of thymoma in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "15ddbdbc-2a026fdd-fe5655fa-fe51dcee-297d43a5"
+    },
+    {
+        "question_id": 346,
+        "img_id": 507,
+        "img_name": "medvh_507.jpg",
+        "question": "is there granuloma in the left upper lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "43bd6eb0-72f5372e-2a7b3c69-f929c824-cc48d714"
+    },
+    {
+        "question_id": 347,
+        "img_id": 272,
+        "img_name": "medvh_272.jpg",
+        "question": "is there lung opacity in the right middle lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e2d866b4-4b807f8f-e8a966ff-89e5dfdb-e6619e59"
+    },
+    {
+        "question_id": 348,
+        "img_id": 147,
+        "img_name": "medvh_147.jpg",
+        "question": "is there lung opacity in the medial right lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ab60c671-b3e1c564-d63092aa-f0bd7a98-7dd1dd91"
+    },
+    {
+        "question_id": 349,
+        "img_id": 413,
+        "img_name": "medvh_413.jpg",
+        "question": "is there lung opacity in the right lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "644e7bf9-3b672a53-3ac26c85-467ed6da-918cfd20"
+    },
+    {
+        "question_id": 350,
+        "img_id": 47,
+        "img_name": "medvh_47.jpg",
+        "question": "is there evidence of atelectasis in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9d1f2896-e5b892ed-26da1990-9e02dd22-1e8ff27f"
+    },
+    {
+        "question_id": 351,
+        "img_id": 36,
+        "img_name": "medvh_36.jpg",
+        "question": "is there evidence of emphysema in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "668168bb-d505142b-df37a7a6-f4d12e0f-ba63c1f6"
+    },
+    {
+        "question_id": 352,
+        "img_id": 29,
+        "img_name": "medvh_29.jpg",
+        "question": "is there vascular congestion?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "afa5079a-5cc91414-a41160a3-79a310d1-c95b9d73"
+    },
+    {
+        "question_id": 353,
+        "img_id": 380,
+        "img_name": "medvh_380.jpg",
+        "question": "is there consolidation in the left middle lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "109882f9-b6c503b4-7869edc0-53905e8e-a360951f"
+    },
+    {
+        "question_id": 354,
+        "img_id": 9,
+        "img_name": "medvh_9.jpg",
+        "question": "is there pneumonia?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "73e4cff3-083409da-4ba52772-c65d4fca-b75a0a75"
+    },
+    {
+        "question_id": 355,
+        "img_id": 133,
+        "img_name": "medvh_133.jpg",
+        "question": "is there tortuosity of the thoracic aorta?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "4e3ef702-d4d68153-3b777ca0-8007a5fb-0ced6c5f"
+    },
+    {
+        "question_id": 356,
+        "img_id": 419,
+        "img_name": "medvh_419.jpg",
+        "question": "is there lung opacity in the upper lungs?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ce33c3db-902fc78d-79772a56-fffa62a1-a78a177a"
+    },
+    {
+        "question_id": 357,
+        "img_id": 402,
+        "img_name": "medvh_402.jpg",
+        "question": "is there consolidation in the right lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1b5f8333-d79ed388-a33863b5-75b2b01b-d28f59da"
+    },
+    {
+        "question_id": 358,
+        "img_id": 361,
+        "img_name": "medvh_361.jpg",
+        "question": "is there atelectasis in the right upper lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "864eeeeb-263b2911-3e22d875-3cf5df2b-d9e365a2"
+    },
+    {
+        "question_id": 359,
+        "img_id": 254,
+        "img_name": "medvh_254.jpg",
+        "question": "is there fracture in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1e00c4d5-b70666a1-b4cab5b5-642a99b6-3af170b1"
+    },
+    {
+        "question_id": 360,
+        "img_id": 135,
+        "img_name": "medvh_135.jpg",
+        "question": "is there pleural thickening?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "abc03d60-58d118ed-71272c56-76cb6e97-3ed03b0f"
+    },
+    {
+        "question_id": 361,
+        "img_id": 181,
+        "img_name": "medvh_181.jpg",
+        "question": "is there hypertensive heart disease?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c4ecd6b2-d956973b-e91d6113-73e7fb5e-d7daf3e8"
+    },
+    {
+        "question_id": 362,
+        "img_id": 279,
+        "img_name": "medvh_279.jpg",
+        "question": "is there consolidation in the left middle lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2176cabf-0857888a-1b41e47d-07e5d03c-504add6e"
+    },
+    {
+        "question_id": 363,
+        "img_id": 311,
+        "img_name": "medvh_311.jpg",
+        "question": "is there lung opacity in the right upper area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1bf3a57e-57e36ac9-97210d0b-6c756e79-aabac9d9"
+    },
+    {
+        "question_id": 364,
+        "img_id": 196,
+        "img_name": "medvh_196.jpg",
+        "question": "is there lung opacity in the right mid to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1401fb14-c670351a-f2302a85-3eaab9e6-e2b07a1a"
+    },
+    {
+        "question_id": 365,
+        "img_id": 81,
+        "img_name": "medvh_81.jpg",
+        "question": "is there evidence of scoliosis in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f581454b-2d3eb193-1608f49f-4462c07b-85ab4f66"
+    },
+    {
+        "question_id": 366,
+        "img_id": 169,
+        "img_name": "medvh_169.jpg",
+        "question": "is there lung opacity in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "500ccb45-747f7726-d338a293-1d80f10d-ecddc7e9"
+    },
+    {
+        "question_id": 367,
+        "img_id": 400,
+        "img_name": "medvh_400.jpg",
+        "question": "is there consolidation in the lower lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "22014432-031b0db3-08b36479-a3a0cdce-ea528050"
+    },
+    {
+        "question_id": 368,
+        "img_id": 42,
+        "img_name": "medvh_42.jpg",
+        "question": "is there atelectasis in the right basal area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e7e91535-8c9fe519-72aa50f8-69731229-b363dfa6"
+    },
+    {
+        "question_id": 369,
+        "img_id": 111,
+        "img_name": "medvh_111.jpg",
+        "question": "is there evidence of pneumomediastinum in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "23c869bd-db05bfde-36694fc3-59e6f709-12c784dd"
+    },
+    {
+        "question_id": 370,
+        "img_id": 82,
+        "img_name": "medvh_82.jpg",
+        "question": "is there evidence of air collection in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c2299f31-ee817da3-3459ebaa-936528af-37fe8101"
+    },
+    {
+        "question_id": 371,
+        "img_id": 230,
+        "img_name": "medvh_230.jpg",
+        "question": "is there hematoma?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ab83b58b-d2f47914-d925540c-4bc2bc3f-b030252a"
+    },
+    {
+        "question_id": 372,
+        "img_id": 564,
+        "img_name": "medvh_564.jpg",
+        "question": "is there consolidation in the left upper lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ed8e8cb1-2b234072-1f5174c3-0f8a5214-de8023fa"
+    },
+    {
+        "question_id": 373,
+        "img_id": 537,
+        "img_name": "medvh_537.jpg",
+        "question": "is there infection in the left middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "11c8586f-bb723c37-41b6ceb6-c8fce2fe-81977bdf"
+    },
+    {
+        "question_id": 374,
+        "img_id": 207,
+        "img_name": "medvh_207.jpg",
+        "question": "is there lung opacity in the lower lungs?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a7fcd6d0-752c7684-68e5c60f-7edfe721-3ffdec19"
+    },
+    {
+        "question_id": 375,
+        "img_id": 273,
+        "img_name": "medvh_273.jpg",
+        "question": "is there atelectasis in the upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "e8d8d61f-cb0ef685-0c00f971-978952ea-0d43ea94"
+    },
+    {
+        "question_id": 376,
+        "img_id": 85,
+        "img_name": "medvh_85.jpg",
+        "question": "is there evidence of cardiomegaly in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "69d2a988-8c000cec-039b5315-3fd2c9cd-c33e3e8e"
+    },
+    {
+        "question_id": 377,
+        "img_id": 346,
+        "img_name": "medvh_346.jpg",
+        "question": "is there lung opacity in the left middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ec9ba479-e38c21fd-eec4148d-f410b83d-aec4e901"
+    },
+    {
+        "question_id": 378,
+        "img_id": 330,
+        "img_name": "medvh_330.jpg",
+        "question": "is there lung opacity in the apical region?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "efc4247a-f9026e42-af5b0512-aadabbbe-83f5d971"
+    },
+    {
+        "question_id": 379,
+        "img_id": 434,
+        "img_name": "medvh_434.jpg",
+        "question": "is there lung opacity in the bilateral upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0376246f-23f2c8fc-a81edb55-c1c0f1e3-80f87081"
+    },
+    {
+        "question_id": 380,
+        "img_id": 179,
+        "img_name": "medvh_179.jpg",
+        "question": "is there fracture in the right rib area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "784f9a50-5c74e6ed-7de7b394-c82f85c1-388a32f3"
+    },
+    {
+        "question_id": 381,
+        "img_id": 210,
+        "img_name": "medvh_210.jpg",
+        "question": "is there atelectasis in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "80da9ecb-9f0bbb4d-5045d149-8dc999f9-ad1b412e"
+    },
+    {
+        "question_id": 382,
+        "img_id": 4,
+        "img_name": "medvh_4.jpg",
+        "question": "is there hypoxemia?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8b07bd6c-f268f51e-f2ecd978-cc7c765f-6b6a539e"
+    },
+    {
+        "question_id": 383,
+        "img_id": 157,
+        "img_name": "medvh_157.jpg",
+        "question": "is there pneumothorax in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "611c0b54-c089a246-27adb2f0-4294be3b-0632de6e"
+    },
+    {
+        "question_id": 384,
+        "img_id": 384,
+        "img_name": "medvh_384.jpg",
+        "question": "is there atelectasis in the right mid to lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "db3b344f-cab65061-5bc9df30-b929e6c1-44ec3c41"
+    },
+    {
+        "question_id": 385,
+        "img_id": 481,
+        "img_name": "medvh_481.jpg",
+        "question": "is there atelectasis in the right lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3591040e-6c7b6547-9f861e2f-b2ef7492-6c363b77"
+    },
+    {
+        "question_id": 386,
+        "img_id": 313,
+        "img_name": "medvh_313.jpg",
+        "question": "is there atelectasis in the right upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "454377ae-ae0d3fac-ebaeb60e-422ca554-deae42b3"
+    },
+    {
+        "question_id": 387,
+        "img_id": 189,
+        "img_name": "medvh_189.jpg",
+        "question": "is there pneumonia in the lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "cf27bfef-ccfb6336-9d160f52-2173177f-ab975f3b"
+    },
+    {
+        "question_id": 388,
+        "img_id": 79,
+        "img_name": "medvh_79.jpg",
+        "question": "is there lung opacity in the lung bases?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2f571d65-2397a948-f4155968-283a021d-487ba2c3"
+    },
+    {
+        "question_id": 389,
+        "img_id": 491,
+        "img_name": "medvh_491.jpg",
+        "question": "is there lung opacity in the left retrocardiac area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "4ec69a3d-c26ee4b8-99157c7d-cad8faaf-4b0fc113"
+    },
+    {
+        "question_id": 390,
+        "img_id": 26,
+        "img_name": "medvh_26.jpg",
+        "question": "is there atelectasis in the lower lobes?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "baded39d-398cb917-578734e0-08487eef-bdd9f1b4"
+    },
+    {
+        "question_id": 391,
+        "img_id": 225,
+        "img_name": "medvh_225.jpg",
+        "question": "is there lung opacity in the left apical region?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8c7c8953-d6a40eae-a5bfd48b-9562cacb-10a38e8a"
+    },
+    {
+        "question_id": 392,
+        "img_id": 249,
+        "img_name": "medvh_249.jpg",
+        "question": "is there pneumothorax in the left apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d05d382f-4dda4bd7-db9978a4-072f4c4a-ad12f010"
+    },
+    {
+        "question_id": 393,
+        "img_id": 89,
+        "img_name": "medvh_89.jpg",
+        "question": "is there emphysema?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f6047205-321472c3-f31ac300-e527930c-9b882ce6"
+    },
+    {
+        "question_id": 394,
+        "img_id": 41,
+        "img_name": "medvh_41.jpg",
+        "question": "is there atelectasis in the right basal area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7bda3602-0c770eed-48effe8a-03aa8271-b80d5388"
+    },
+    {
+        "question_id": 395,
+        "img_id": 516,
+        "img_name": "medvh_516.jpg",
+        "question": "is there lung opacity in the right apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f73fe48c-52f46ceb-fc6bdbfb-f030e2b9-cccf00a7"
+    },
+    {
+        "question_id": 396,
+        "img_id": 369,
+        "img_name": "medvh_369.jpg",
+        "question": "is there atelectasis in the left base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "09500b82-34161e06-c4fa04b2-ad13d022-02393e1a"
+    },
+    {
+        "question_id": 397,
+        "img_id": 368,
+        "img_name": "medvh_368.jpg",
+        "question": "is there atelectasis in the left base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "45321efe-f12f22e7-662e4bf6-40cb1e5a-ff5028d9"
+    },
+    {
+        "question_id": 398,
+        "img_id": 439,
+        "img_name": "medvh_439.jpg",
+        "question": "is there atelectasis in the left mid lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "055e07b4-38475fe6-14888306-a38bb847-713949ee"
+    },
+    {
+        "question_id": 399,
+        "img_id": 333,
+        "img_name": "medvh_333.jpg",
+        "question": "is there atelectasis in the left middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6f5e5cf7-dd64113e-c5beed99-567844b5-c2020d84"
+    },
+    {
+        "question_id": 400,
+        "img_id": 123,
+        "img_name": "medvh_123.jpg",
+        "question": "is there granuloma in the left middle lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "aea4a39e-2ecce197-e8bdd15c-428435b3-843e84f2"
+    },
+    {
+        "question_id": 401,
+        "img_id": 410,
+        "img_name": "medvh_410.jpg",
+        "question": "is there lung opacity in the upper area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "26e7df39-f7dabbf7-6266667d-95aac0e4-cf65db2b"
+    },
+    {
+        "question_id": 402,
+        "img_id": 25,
+        "img_name": "medvh_25.jpg",
+        "question": "is there atelectasis in the lower lobes?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f90fa8aa-21bf9488-59a6d7a0-4950c37f-9803d9d3"
+    },
+    {
+        "question_id": 403,
+        "img_id": 532,
+        "img_name": "medvh_532.jpg",
+        "question": "is there pneumonia in the lung bases?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "fa5f2918-2b549316-ff75afe6-63a1065a-0a5c8a2a"
+    },
+    {
+        "question_id": 404,
+        "img_id": 203,
+        "img_name": "medvh_203.jpg",
+        "question": "is there emphysema in the lower lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "b6a0aaf5-4ade63cc-4b9c3a05-7fa40110-e301cf30"
+    },
+    {
+        "question_id": 405,
+        "img_id": 116,
+        "img_name": "medvh_116.jpg",
+        "question": "is there evidence of blunting of the costophrenic angle in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ac5ca302-69d8e784-780b6ed5-431ebdb9-d51685c0"
+    },
+    {
+        "question_id": 406,
+        "img_id": 325,
+        "img_name": "medvh_325.jpg",
+        "question": "is there pleural thickening in the right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "44920c2b-25aecacf-8f2432f6-26de2817-2cbaf607"
+    },
+    {
+        "question_id": 407,
+        "img_id": 75,
+        "img_name": "medvh_75.jpg",
+        "question": "is there lung opacity in the right mid lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9bff8b82-71a2afa0-e6a30683-40b63c4d-efb8a272"
+    },
+    {
+        "question_id": 408,
+        "img_id": 57,
+        "img_name": "medvh_57.jpg",
+        "question": "is there evidence of consolidation in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c61ef12e-61e51c5c-f8b5ab11-7124789a-8d88fd95"
+    },
+    {
+        "question_id": 409,
+        "img_id": 403,
+        "img_name": "medvh_403.jpg",
+        "question": "is there edema in the lower and probably also middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a15d798c-0e0fdbaa-a41ac2e2-48fb10f9-fee06815"
+    },
+    {
+        "question_id": 410,
+        "img_id": 404,
+        "img_name": "medvh_404.jpg",
+        "question": "is there lung opacity in the left middle to lower hemithorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3e678e49-6ec5a9c3-e441bd20-78437f93-022ef2eb"
+    },
+    {
+        "question_id": 411,
+        "img_id": 466,
+        "img_name": "medvh_466.jpg",
+        "question": "is there lung opacity in the left upper lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6614735e-aed954dc-7ca0e659-ee75fa38-e000782a"
+    },
+    {
+        "question_id": 412,
+        "img_id": 59,
+        "img_name": "medvh_59.jpg",
+        "question": "is there thymoma?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ef967840-10988405-d08d673e-e46fa050-f6705f00"
+    },
+    {
+        "question_id": 413,
+        "img_id": 296,
+        "img_name": "medvh_296.jpg",
+        "question": "is there lung opacity in the left mid lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d8a656ef-21f15997-459800a0-5d6f4b41-9340d5f9"
+    },
+    {
+        "question_id": 414,
+        "img_id": 158,
+        "img_name": "medvh_158.jpg",
+        "question": "is there pneumothorax in the right area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "421ab059-b0e8822b-c2df86cf-621d723b-9051c39d"
+    },
+    {
+        "question_id": 415,
+        "img_id": 396,
+        "img_name": "medvh_396.jpg",
+        "question": "is there atelectasis in the left upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0f9694dc-6a63d5d6-e8081f53-33350c03-09563bde"
+    },
+    {
+        "question_id": 416,
+        "img_id": 332,
+        "img_name": "medvh_332.jpg",
+        "question": "is there atelectasis in the middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6a469d31-f181ed35-ac411594-a8810e63-b3e575ac"
+    },
+    {
+        "question_id": 417,
+        "img_id": 35,
+        "img_name": "medvh_35.jpg",
+        "question": "is there evidence of emphysema in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "07c0592a-bc3baefa-28389609-07e86c43-08649a8b"
+    },
+    {
+        "question_id": 418,
+        "img_id": 477,
+        "img_name": "medvh_477.jpg",
+        "question": "is there atelectasis in the right base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "fd105a5d-78eef20b-46cebe59-5e012188-70453429"
+    },
+    {
+        "question_id": 419,
+        "img_id": 46,
+        "img_name": "medvh_46.jpg",
+        "question": "is there evidence of atelectasis in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "28f8d728-10cd6f9b-655e496f-657e7c8a-bef55923"
+    },
+    {
+        "question_id": 420,
+        "img_id": 280,
+        "img_name": "medvh_280.jpg",
+        "question": "is there atelectasis in the upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7821c4cc-c01a7134-de1519ec-9e0a21a0-55b695f0"
+    },
+    {
+        "question_id": 421,
+        "img_id": 167,
+        "img_name": "medvh_167.jpg",
+        "question": "is there air collection?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "680bb2c1-88726576-2bad0b9c-48a98ec4-620e61b5"
+    },
+    {
+        "question_id": 422,
+        "img_id": 247,
+        "img_name": "medvh_247.jpg",
+        "question": "is there atelectasis in the left middle lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f73e6a43-f6ec9972-190a4db6-83b00895-bd737150"
+    },
+    {
+        "question_id": 423,
+        "img_id": 176,
+        "img_name": "medvh_176.jpg",
+        "question": "is there lung opacity in the left basal area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ca7e18a6-6df6f889-7d2cb7a8-397ef86f-93c2957f"
+    },
+    {
+        "question_id": 424,
+        "img_id": 71,
+        "img_name": "medvh_71.jpg",
+        "question": "is there lung opacity in the lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "17b65f1c-bcd90629-b2dc7f50-a2f9ba41-3db0ca91"
+    },
+    {
+        "question_id": 425,
+        "img_id": 512,
+        "img_name": "medvh_512.jpg",
+        "question": "is there pneumothorax in the basal right area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9ca6cbb5-f39d3d6c-db89ee41-068baaa4-28034938"
+    },
+    {
+        "question_id": 426,
+        "img_id": 195,
+        "img_name": "medvh_195.jpg",
+        "question": "is there lung opacity in the right mid to lower hemithorax?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "657955d6-cbf69068-542b13d3-62f4a0fb-6629c098"
+    },
+    {
+        "question_id": 427,
+        "img_id": 244,
+        "img_name": "medvh_244.jpg",
+        "question": "is there lung opacity in the left mid to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "60d5c56d-0cf1adca-fcffd0cb-96dccb9e-592386ee"
+    },
+    {
+        "question_id": 428,
+        "img_id": 215,
+        "img_name": "medvh_215.jpg",
+        "question": "is there lung opacity in the left mid lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "713f5b0c-4f60bb16-5eb48a81-6ca47a30-3e3cdcc8"
+    },
+    {
+        "question_id": 429,
+        "img_id": 519,
+        "img_name": "medvh_519.jpg",
+        "question": "is there emphysema in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "27e72425-265cdfbc-7adbe6af-95f51a32-c1fd0fe6"
+    },
+    {
+        "question_id": 430,
+        "img_id": 257,
+        "img_name": "medvh_257.jpg",
+        "question": "is there atelectasis in the apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "77936e6a-39076007-9f14609e-4d6f7430-a57f80c0"
+    },
+    {
+        "question_id": 431,
+        "img_id": 469,
+        "img_name": "medvh_469.jpg",
+        "question": "is there consolidation in the left basal area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8b695d65-946ae937-7f2524c3-848cb389-39370cb3"
+    },
+    {
+        "question_id": 432,
+        "img_id": 309,
+        "img_name": "medvh_309.jpg",
+        "question": "is there lung opacity in the right middle to lower lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c8d36878-b164a2b3-f8cb9a63-b5cf2aba-9b60c954"
+    },
+    {
+        "question_id": 433,
+        "img_id": 499,
+        "img_name": "medvh_499.jpg",
+        "question": "is there consolidation in the right retrocardiac area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "07fb5a5d-90d1c643-cb365f8e-b210a286-54ad5591"
+    },
+    {
+        "question_id": 434,
+        "img_id": 32,
+        "img_name": "medvh_32.jpg",
+        "question": "is there scoliosis?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "28a99217-3da4caa7-7999bc28-061eb18a-f95feaa0"
+    },
+    {
+        "question_id": 435,
+        "img_id": 124,
+        "img_name": "medvh_124.jpg",
+        "question": "is there atelectasis in the soft tissues?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "5aa09abd-27220574-a018d74e-06f6dae9-4360f8f5"
+    },
+    {
+        "question_id": 436,
+        "img_id": 321,
+        "img_name": "medvh_321.jpg",
+        "question": "is there edema in the lower and probably also middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f9862a85-307bb2f9-b50af90f-f7429420-b0ec682c"
+    },
+    {
+        "question_id": 437,
+        "img_id": 358,
+        "img_name": "medvh_358.jpg",
+        "question": "is there lung opacity in the middle upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "96a7ceb1-6f8a0368-64e43706-7728d155-52cf00a2"
+    },
+    {
+        "question_id": 438,
+        "img_id": 453,
+        "img_name": "medvh_453.jpg",
+        "question": "is there atelectasis in the medial right lung base?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7f9ab55b-bc37fe6d-2706bf80-95d732d8-9ac1b902"
+    },
+    {
+        "question_id": 439,
+        "img_id": 278,
+        "img_name": "medvh_278.jpg",
+        "question": "is there consolidation in the left middle lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d87643ef-ba00f573-62614bb7-a1e47047-4ed81aeb"
+    },
+    {
+        "question_id": 440,
+        "img_id": 354,
+        "img_name": "medvh_354.jpg",
+        "question": "is there pneumonia in the left lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0f8305f1-cd594759-db902af8-9cb79673-2d76799a"
+    },
+    {
+        "question_id": 441,
+        "img_id": 565,
+        "img_name": "medvh_565.jpg",
+        "question": "is there atelectasis in the right right basal area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6b5be8ff-bbf40c9a-21c20fb9-f29f4e7b-7b554382"
+    },
+    {
+        "question_id": 442,
+        "img_id": 120,
+        "img_name": "medvh_120.jpg",
+        "question": "is there heart failure?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "ad33862b-5e7127aa-bbdd027f-0007e723-6b36c188"
+    },
+    {
+        "question_id": 443,
+        "img_id": 290,
+        "img_name": "medvh_290.jpg",
+        "question": "is there pneumothorax in the left area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8b2e7507-359b39b1-f2b2b8ed-f3f03385-26ba0097"
+    },
+    {
+        "question_id": 444,
+        "img_id": 99,
+        "img_name": "medvh_99.jpg",
+        "question": "is there evidence of granuloma in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "18987b78-0485a11e-b5858c2d-d4e7e7b6-2e301800"
+    },
+    {
+        "question_id": 445,
+        "img_id": 108,
+        "img_name": "medvh_108.jpg",
+        "question": "is there lung opacity in the left upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2e78d1f5-916e55ff-1e5b6b70-9ab7cdca-cdc8c8d0"
+    },
+    {
+        "question_id": 446,
+        "img_id": 197,
+        "img_name": "medvh_197.jpg",
+        "question": "is there atelectasis in the right lower lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c256d82d-fc280de0-88024785-c41583fe-5ae61fed"
+    },
+    {
+        "question_id": 447,
+        "img_id": 371,
+        "img_name": "medvh_371.jpg",
+        "question": "is there lung opacity in the left lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1f8b1297-bc671d44-d10d3ba4-124adc1c-16f7e3b4"
+    },
+    {
+        "question_id": 448,
+        "img_id": 121,
+        "img_name": "medvh_121.jpg",
+        "question": "is there heart failure?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "670e2050-f4bdbbd1-167d1355-8843f33a-f0a4ad4e"
+    },
+    {
+        "question_id": 449,
+        "img_id": 177,
+        "img_name": "medvh_177.jpg",
+        "question": "is there lung opacity in the left basal area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "080f198d-c174168e-6d790a23-1a11cf07-a46916ac"
+    },
+    {
+        "question_id": 450,
+        "img_id": 288,
+        "img_name": "medvh_288.jpg",
+        "question": "is there atelectasis in the right apical area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9f70c76a-dd816285-88e4d49d-ecbc1133-ce080074"
+    },
+    {
+        "question_id": 451,
+        "img_id": 297,
+        "img_name": "medvh_297.jpg",
+        "question": "is there lung opacity in the left mid lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "df34d9a9-b115e036-172ff729-bd2488e7-22ea99aa"
+    },
+    {
+        "question_id": 452,
+        "img_id": 105,
+        "img_name": "medvh_105.jpg",
+        "question": "is there pneumomediastinum?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a6d21c78-91aa7afd-e79982c1-75ad474d-93138f42"
+    },
+    {
+        "question_id": 453,
+        "img_id": 50,
+        "img_name": "medvh_50.jpg",
+        "question": "is there consolidation?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7df34a0f-7a0e09b4-1cfab0aa-9c66a08a-387278b7"
+    },
+    {
+        "question_id": 454,
+        "img_id": 106,
+        "img_name": "medvh_106.jpg",
+        "question": "is there cardiomegaly?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "66ba148f-07dea8a8-cfbc9fe1-25ba1a6b-537bc7c4"
+    },
+    {
+        "question_id": 455,
+        "img_id": 233,
+        "img_name": "medvh_233.jpg",
+        "question": "is there atelectasis in the lower and probably also middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "62edae2b-e1b6f277-ff159857-77a9cb5d-36078a89"
+    },
+    {
+        "question_id": 456,
+        "img_id": 471,
+        "img_name": "medvh_471.jpg",
+        "question": "is there lung opacity in the apical area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "87cbc305-4a84418a-97a7ab39-c09933ea-62341993"
+    },
+    {
+        "question_id": 457,
+        "img_id": 150,
+        "img_name": "medvh_150.jpg",
+        "question": "is there pneumonia in the left lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2f359258-011c05df-2c3becf0-7c7465b2-79918262"
+    },
+    {
+        "question_id": 458,
+        "img_id": 77,
+        "img_name": "medvh_77.jpg",
+        "question": "is there atelectasis in the left area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f7c3c7eb-bc9d1777-2d8761ee-7b39a223-019d5f05"
+    },
+    {
+        "question_id": 459,
+        "img_id": 152,
+        "img_name": "medvh_152.jpg",
+        "question": "is there lung opacity in the soft tissues?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "2ea9a1d3-66746243-2ca7645b-19c4d1d6-4613b472"
+    },
+    {
+        "question_id": 460,
+        "img_id": 39,
+        "img_name": "medvh_39.jpg",
+        "question": "is there pleural effusion?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "aa2ebf54-2597bc8a-2e909c43-5568abcc-d6112ce6"
+    },
+    {
+        "question_id": 461,
+        "img_id": 22,
+        "img_name": "medvh_22.jpg",
+        "question": "is there evidence of hernia in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d7a5eab6-358e9a4c-cd7b0297-b850ab22-4f66c767"
+    },
+    {
+        "question_id": 462,
+        "img_id": 554,
+        "img_name": "medvh_554.jpg",
+        "question": "is there pleural effusion in the medial right lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "37497b15-e7c3a01d-b9b7395d-1c4e255d-070535a7"
+    },
+    {
+        "question_id": 463,
+        "img_id": 69,
+        "img_name": "medvh_69.jpg",
+        "question": "is there lung opacity in the lower lobes?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "db72043c-3d943f05-95ab5eba-2d571011-df0cffb6"
+    },
+    {
+        "question_id": 464,
+        "img_id": 490,
+        "img_name": "medvh_490.jpg",
+        "question": "is there lung opacity in the left retrocardiac area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "66cbbc3c-2b821e9f-d1477f73-d2a83961-b1b990ca"
+    },
+    {
+        "question_id": 465,
+        "img_id": 560,
+        "img_name": "medvh_560.jpg",
+        "question": "is there pneumonia in the upper lungs?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "123ee7f8-ed7c17a1-ac48a151-3d3fa96a-632765de"
+    },
+    {
+        "question_id": 466,
+        "img_id": 425,
+        "img_name": "medvh_425.jpg",
+        "question": "is there lung opacity in the right upper lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "040934ad-cbfe95be-18533681-b63e466a-58ae48eb"
+    },
+    {
+        "question_id": 467,
+        "img_id": 92,
+        "img_name": "medvh_92.jpg",
+        "question": "is there atelectasis?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "d672a9d4-541b52c8-8186b245-0d80a145-5eb92d05"
+    },
+    {
+        "question_id": 468,
+        "img_id": 508,
+        "img_name": "medvh_508.jpg",
+        "question": "is there granuloma in the left lower lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1ec57cd9-d2178781-2f11bbd1-d58ac70d-711162fa"
+    },
+    {
+        "question_id": 469,
+        "img_id": 2,
+        "img_name": "medvh_2.jpg",
+        "question": "is there consolidation in the right lower lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "df235750-ae86759f-79e68a05-3d754ba6-445ac19c"
+    },
+    {
+        "question_id": 470,
+        "img_id": 429,
+        "img_name": "medvh_429.jpg",
+        "question": "is there consolidation in the right middle to lower hemithorax?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3f339a93-71edf820-a9c7a9a3-27e3a29a-3554b979"
+    },
+    {
+        "question_id": 471,
+        "img_id": 31,
+        "img_name": "medvh_31.jpg",
+        "question": "is there scoliosis?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "80fe93af-03b7be06-c41c26e4-0f96c0d3-55c4d392"
+    },
+    {
+        "question_id": 472,
+        "img_id": 432,
+        "img_name": "medvh_432.jpg",
+        "question": "is there pleural effusion in the upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "7dbd8ba9-3690eaaf-274fe368-ea2122d0-3716ea69"
+    },
+    {
+        "question_id": 473,
+        "img_id": 334,
+        "img_name": "medvh_334.jpg",
+        "question": "is there atelectasis in the right middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6d5b0227-4100a864-caee4d86-96ec6d96-cd3d77a5"
+    },
+    {
+        "question_id": 474,
+        "img_id": 450,
+        "img_name": "medvh_450.jpg",
+        "question": "is there pneumonia in the upper lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "39829cb1-7ca19902-1999373b-bdad7f62-f359cf95"
+    },
+    {
+        "question_id": 475,
+        "img_id": 238,
+        "img_name": "medvh_238.jpg",
+        "question": "is there calcification?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "722efffe-4360bff8-31952ff3-a29fe69f-84fbcb6e"
+    },
+    {
+        "question_id": 476,
+        "img_id": 509,
+        "img_name": "medvh_509.jpg",
+        "question": "is there granuloma in the medial left lung base?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8ac36897-94a14c10-954a5187-b92bb719-312a8248"
+    },
+    {
+        "question_id": 477,
+        "img_id": 5,
+        "img_name": "medvh_5.jpg",
+        "question": "is there evidence of pneumothorax in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "94e8bb16-341c5600-964226f4-cd358d19-4a4a72f2"
+    },
+    {
+        "question_id": 478,
+        "img_id": 465,
+        "img_name": "medvh_465.jpg",
+        "question": "is there atelectasis in the left middle lung?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c680bf94-764e3a50-f1080e06-0930448c-c15e555b"
+    },
+    {
+        "question_id": 479,
+        "img_id": 103,
+        "img_name": "medvh_103.jpg",
+        "question": "is there hilar congestion?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "f5f55202-5f3849b9-75277442-0176eb33-43872ccb"
+    },
+    {
+        "question_id": 480,
+        "img_id": 496,
+        "img_name": "medvh_496.jpg",
+        "question": "is there consolidation in the upper lung?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "bd09acd6-6af38a26-ae1c703c-e40f3952-c5d9f2c5"
+    },
+    {
+        "question_id": 481,
+        "img_id": 340,
+        "img_name": "medvh_340.jpg",
+        "question": "is there consolidation in the soft tissues?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "106c5aa1-4a0f5bca-530ba4da-0768fcff-035440cc"
+    },
+    {
+        "question_id": 482,
+        "img_id": 206,
+        "img_name": "medvh_206.jpg",
+        "question": "is there lung opacity in the lower lungs?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "119a8ef0-0b5c0cae-bc45376c-3b8e900b-9f281b25"
+    },
+    {
+        "question_id": 483,
+        "img_id": 151,
+        "img_name": "medvh_151.jpg",
+        "question": "is there lung opacity in the soft tissues?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9c96c9f0-935e5fc8-2a0a5666-eb3b4648-6280d2a8"
+    },
+    {
+        "question_id": 484,
+        "img_id": 140,
+        "img_name": "medvh_140.jpg",
+        "question": "is there evidence of tortuosity of the descending aorta  in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "be8be9df-ec203950-f140ae9c-8c0a4473-dd80bc69"
+    },
+    {
+        "question_id": 485,
+        "img_id": 528,
+        "img_name": "medvh_528.jpg",
+        "question": "is there lung opacity in the left middle lung area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c3822723-6d9a46f4-bfd53990-0fee1734-74a608ed"
+    },
+    {
+        "question_id": 486,
+        "img_id": 365,
+        "img_name": "medvh_365.jpg",
+        "question": "is there pleural effusion in the right right bilateral area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "1ccec7de-5ea11c21-ad785d7c-734dd4d7-974a0ed9"
+    },
+    {
+        "question_id": 487,
+        "img_id": 208,
+        "img_name": "medvh_208.jpg",
+        "question": "is there evidence of hypoxemia in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "73c36bea-9c34a16f-ec726892-eced48b9-e67da6e1"
+    },
+    {
+        "question_id": 488,
+        "img_id": 141,
+        "img_name": "medvh_141.jpg",
+        "question": "is there fracture in the left rib area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "efce183a-3b9d9d25-d98f9010-94eebd5c-1622193d"
+    },
+    {
+        "question_id": 489,
+        "img_id": 441,
+        "img_name": "medvh_441.jpg",
+        "question": "is there lung opacity in the left middle lobe?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "fe0814ff-4e6fc884-a1484d52-b7a86fb9-32eae19b"
+    },
+    {
+        "question_id": 490,
+        "img_id": 143,
+        "img_name": "medvh_143.jpg",
+        "question": "is there evidence of hematoma in this image?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "9b20601f-f7edc0b9-05b2df7e-4e4ea074-2bb66f13"
+    },
+    {
+        "question_id": 491,
+        "img_id": 184,
+        "img_name": "medvh_184.jpg",
+        "question": "is there atelectasis in the left apical region?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "0be68d35-20de77ec-c3084173-758ce5d7-425605e6"
+    },
+    {
+        "question_id": 492,
+        "img_id": 142,
+        "img_name": "medvh_142.jpg",
+        "question": "is there fracture in the left rib area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "716f6317-5288a680-c3fd6564-f560f55b-3dd14280"
+    },
+    {
+        "question_id": 493,
+        "img_id": 246,
+        "img_name": "medvh_246.jpg",
+        "question": "is there atelectasis in the left bibasilar area?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "41cd0cf2-1993dfdd-7f6bf2e5-a1f49826-59bd4a84"
+    },
+    {
+        "question_id": 494,
+        "img_id": 93,
+        "img_name": "medvh_93.jpg",
+        "question": "is there atelectasis?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "3e6ed978-720834b7-d9329964-436c9ef2-708d438c"
+    },
+    {
+        "question_id": 495,
+        "img_id": 517,
+        "img_name": "medvh_517.jpg",
+        "question": "is there pleural effusion in the right lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "82b067e7-65e0a1d9-12b89d18-db925c52-06a1b19c"
+    },
+    {
+        "question_id": 496,
+        "img_id": 456,
+        "img_name": "medvh_456.jpg",
+        "question": "is there lung opacity in the lower and probably also middle lobe?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "c45a6581-eb41ea48-690342cd-6dc89bb5-ea1b92be"
+    },
+    {
+        "question_id": 497,
+        "img_id": 359,
+        "img_name": "medvh_359.jpg",
+        "question": "is there lung opacity in the left middle lower lung area?",
+        "choices": "A: no, B: yes",
+        "gt": "A",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "8b80445f-30e2e8a7-c21ca29a-133f5b56-ff9f52ec"
+    },
+    {
+        "question_id": 498,
+        "img_id": 87,
+        "img_name": "medvh_87.jpg",
+        "question": "is there evidence of enlargement of the cardiac silhouette in this image?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "6c0de909-1d44d453-1a47d09f-6511c10c-52607e92"
+    },
+    {
+        "question_id": 499,
+        "img_id": 237,
+        "img_name": "medvh_237.jpg",
+        "question": "is there calcification?",
+        "choices": "A: yes, B: no",
+        "gt": "B",
+        "img_source": "Medical-Diff-VQA",
+        "ori_id": "a395a167-cea1d1bc-0654d892-6e325c7c-99f06e2d"
+    }
+]

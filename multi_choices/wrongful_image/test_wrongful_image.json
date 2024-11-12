@@ -1,0 +1,4002 @@
+[
+    {
+        "question_id": 0,
+        "img_id": 957,
+        "img_name": "medvh_957.jpg",
+        "question": "Can nodule be observed on the upper right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 1,
+        "img_id": 719,
+        "img_name": "medvh_719.jpg",
+        "question": "Is/Are there abnormalities in the patient's right lung?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 2,
+        "img_id": 751,
+        "img_name": "medvh_751.jpg",
+        "question": "Where is the atelectasis in this image?",
+        "choices": "A: Lower Right Lung. B: Lower Left Lung. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 3,
+        "img_id": 742,
+        "img_name": "medvh_742.jpg",
+        "question": "Is the lung normal appearing?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 4,
+        "img_id": 1328,
+        "img_name": "medvh_1328.jpg",
+        "question": "What part of the lung is the pneumothorax located in?",
+        "choices": "A: Upper Left Lung. B: Upper Right Lung. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 5,
+        "img_id": 718,
+        "img_name": "medvh_718.jpg",
+        "question": "What is the main cause of the disease on the lower left of the lung in the picture?",
+        "choices": "A: Chest injury, lung disease, bullae. B: Inflammation, malignant tumor, trauma, etc. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 6,
+        "img_id": 1218,
+        "img_name": "medvh_1218.jpg",
+        "question": "Can infiltration be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 7,
+        "img_id": 971,
+        "img_name": "medvh_971.jpg",
+        "question": "Where is the abnormality in this image?",
+        "choices": "A: Lower Left Lung. B: Heart. C: Upper Right Lung. D: Lower Right Lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 8,
+        "img_id": 734,
+        "img_name": "medvh_734.jpg",
+        "question": "Can atelectasis be observed on the upper right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 9,
+        "img_id": 1237,
+        "img_name": "medvh_1237.jpg",
+        "question": "Is the lung healthy?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 10,
+        "img_id": 1283,
+        "img_name": "medvh_1283.jpg",
+        "question": "Is/Are there abnormalities in the patient's left lung?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 11,
+        "img_id": 1290,
+        "img_name": "medvh_1290.jpg",
+        "question": "How to prevent the occurrence of the disease on the lower left lobe of lung in this image?",
+        "choices": "A: Live healthy, enhance physical fitness. B: Keep healthy. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 12,
+        "img_id": 1284,
+        "img_name": "medvh_1284.jpg",
+        "question": "Can mass be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 13,
+        "img_id": 801,
+        "img_name": "medvh_801.jpg",
+        "question": "What diseases are included in the picture?",
+        "choices": "A: Atelectasis, Mass. B: None. C: Cardiomegaly. D: Pleural Effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 14,
+        "img_id": 983,
+        "img_name": "medvh_983.jpg",
+        "question": "Can pneumonia be observed on the right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 15,
+        "img_id": 822,
+        "img_name": "medvh_822.jpg",
+        "question": "Does the lung look healthy?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 16,
+        "img_id": 1115,
+        "img_name": "medvh_1115.jpg",
+        "question": "Where is the pneumonia in the lung?",
+        "choices": "A: Lower Right Lung. B: Right Lung. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 17,
+        "img_id": 965,
+        "img_name": "medvh_965.jpg",
+        "question": "How to treat the disease located on the lower left of lung in this image?",
+        "choices": "A: Medical treatment, surgical treatment. B: Medical therapy, supportive therapy. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 18,
+        "img_id": 1368,
+        "img_name": "medvh_1368.jpg",
+        "question": "Can effusion be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 19,
+        "img_id": 1396,
+        "img_name": "medvh_1396.jpg",
+        "question": "Can atelectasis be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 20,
+        "img_id": 1329,
+        "img_name": "medvh_1329.jpg",
+        "question": "Can pneumonia be observed on the upper right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 21,
+        "img_id": 1336,
+        "img_name": "medvh_1336.jpg",
+        "question": "Which side of lung is abnormal in this image,left or right?",
+        "choices": "A: Left. B: Right. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 22,
+        "img_id": 981,
+        "img_name": "medvh_981.jpg",
+        "question": "Can cardiomegaly be observed on the heart in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 23,
+        "img_id": 1241,
+        "img_name": "medvh_1241.jpg",
+        "question": "What part of the lung is the pneumonia located in?",
+        "choices": "A: Upper Right Lung. B: Lower Left Lung. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 24,
+        "img_id": 857,
+        "img_name": "medvh_857.jpg",
+        "question": "Can nodule be observed on the lower right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 25,
+        "img_id": 391,
+        "img_name": "medvh_391.jpg",
+        "question": "Can pulmonary infiltration be observed on the upper right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 26,
+        "img_id": 320,
+        "img_name": "medvh_320.jpg",
+        "question": "Can infiltration be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 27,
+        "img_id": 253,
+        "img_name": "medvh_253.jpg",
+        "question": "Does the lung look healthy?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 28,
+        "img_id": 549,
+        "img_name": "medvh_549.jpg",
+        "question": "How to treat the disease located on the lower left of lung in this image?",
+        "choices": "A: Medical treatment, surgical treatment. B: Medical therapy, supportive therapy. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 29,
+        "img_id": 461,
+        "img_name": "medvh_461.jpg",
+        "question": "Where is the abnormality in this image?",
+        "choices": "A: Upper Right Lung. B: Lower Right Lung. C: Left Lung. D: Upper Left Lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 30,
+        "img_id": 136,
+        "img_name": "medvh_136.jpg",
+        "question": "Can pneumonia be observed on the lower right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 31,
+        "img_id": 700,
+        "img_name": "medvh_700.jpg",
+        "question": "Can pneumonia be observed on the upper right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 32,
+        "img_id": 626,
+        "img_name": "medvh_626.jpg",
+        "question": "Can atelectasis be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 33,
+        "img_id": 427,
+        "img_name": "medvh_427.jpg",
+        "question": "Which side of lung is abnormal in this image?",
+        "choices": "A: Left. B: Right. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 34,
+        "img_id": 46,
+        "img_name": "medvh_46.jpg",
+        "question": "Can nodule be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 35,
+        "img_id": 180,
+        "img_name": "medvh_180.jpg",
+        "question": "Where is the pneumonia in the lung?",
+        "choices": "A: Lower Right Lung. B: Right Lung. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 36,
+        "img_id": 401,
+        "img_name": "medvh_401.jpg",
+        "question": "What kind of symptoms will the disease on the lower left of lung bring to the patient?",
+        "choices": "A: Chest pain, cough, expectoration. B: Chest tightness, dyspnea, chest pain. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 37,
+        "img_id": 256,
+        "img_name": "medvh_256.jpg",
+        "question": "Can pneumonia be observed on the right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 38,
+        "img_id": 656,
+        "img_name": "medvh_656.jpg",
+        "question": "Where is the atelectasis in this image?",
+        "choices": "A: Lower Right Lung. B: Lower Left Lung. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 39,
+        "img_id": 364,
+        "img_name": "medvh_364.jpg",
+        "question": "Can effusion be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 40,
+        "img_id": 369,
+        "img_name": "medvh_369.jpg",
+        "question": "What disease is/are shown on the right of lung?",
+        "choices": "A: Atelectasis. B: Pneumonia. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 41,
+        "img_id": 59,
+        "img_name": "medvh_59.jpg",
+        "question": "Is/Are there abnormalities in the patient's right lung?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 42,
+        "img_id": 26,
+        "img_name": "medvh_26.jpg",
+        "question": "Can nodule be observed on the lower right lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 43,
+        "img_id": 484,
+        "img_name": "medvh_484.jpg",
+        "question": "Which side of lung is abnormal in this image,left or right?",
+        "choices": "A: Left. B: Right. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 44,
+        "img_id": 498,
+        "img_name": "medvh_498.jpg",
+        "question": "Can pneumothorax be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 45,
+        "img_id": 349,
+        "img_name": "medvh_349.jpg",
+        "question": "Is the lung normal appearing?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 46,
+        "img_id": 198,
+        "img_name": "medvh_198.jpg",
+        "question": "Can mass be observed on the lower left lung in this picture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 47,
+        "img_id": 599,
+        "img_name": "medvh_599.jpg",
+        "question": "How to prevent the occurrence of the disease on the lower left lobe of lung in this image?",
+        "choices": "A: Live healthy, enhance physical fitness. B: Keep healthy. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 48,
+        "img_id": 612,
+        "img_name": "medvh_612.jpg",
+        "question": "What diseases are included in the picture?",
+        "choices": "A: Nodule. B: Pneumothorax. C: Atelectasis, Mass. D: None. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 49,
+        "img_id": 482,
+        "img_name": "medvh_482.jpg",
+        "question": "What part of the lung is the pneumothorax located in?",
+        "choices": "A: Upper Left Lung. B: Upper Right Lung. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 50,
+        "img_id": 102,
+        "img_name": "medvh_102.jpg",
+        "question": "Is there evidence of an aortic aneurysm?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 51,
+        "img_id": 1131,
+        "img_name": "medvh_1131.jpg",
+        "question": "Is there a left apical pneumothorax?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 52,
+        "img_id": 462,
+        "img_name": "medvh_462.jpg",
+        "question": "Are the bronchial airways enlarged?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 53,
+        "img_id": 900,
+        "img_name": "medvh_900.jpg",
+        "question": "Is there a rib fracture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 54,
+        "img_id": 1387,
+        "img_name": "medvh_1387.jpg",
+        "question": "Is the image study normal?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 55,
+        "img_id": 454,
+        "img_name": "medvh_454.jpg",
+        "question": "Are the borders of the heart clearly visualized?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 56,
+        "img_id": 910,
+        "img_name": "medvh_910.jpg",
+        "question": "Is there a pneumothorax present?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 57,
+        "img_id": 503,
+        "img_name": "medvh_503.jpg",
+        "question": "Is there free air in the supraclavicular fossae?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 58,
+        "img_id": 635,
+        "img_name": "medvh_635.jpg",
+        "question": "Is there hilar lymphadenopathy?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 59,
+        "img_id": 370,
+        "img_name": "medvh_370.jpg",
+        "question": "Is the cardiac silhouette less than half the lateral diameter of the chest wall?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 60,
+        "img_id": 1216,
+        "img_name": "medvh_1216.jpg",
+        "question": "does this represent adequate inspiratory effort?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 61,
+        "img_id": 1016,
+        "img_name": "medvh_1016.jpg",
+        "question": "Do you see cardiomegaly?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 62,
+        "img_id": 646,
+        "img_name": "medvh_646.jpg",
+        "question": "is there a mass",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 63,
+        "img_id": 1045,
+        "img_name": "medvh_1045.jpg",
+        "question": "Is a pneumothorax present in the left apex?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 64,
+        "img_id": 501,
+        "img_name": "medvh_501.jpg",
+        "question": "Are there clearly defined cardiac borders in this image?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 65,
+        "img_id": 1096,
+        "img_name": "medvh_1096.jpg",
+        "question": "Is there any intraparenchymal abnormalities in the lung fields?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 66,
+        "img_id": 954,
+        "img_name": "medvh_954.jpg",
+        "question": "Is there fluid in the lung?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 67,
+        "img_id": 881,
+        "img_name": "medvh_881.jpg",
+        "question": "Are the costophrenic angles preserved?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 68,
+        "img_id": 702,
+        "img_name": "medvh_702.jpg",
+        "question": "Is the heart abnormally large?",
+        "choices": "A: no. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 69,
+        "img_id": 1053,
+        "img_name": "medvh_1053.jpg",
+        "question": "Is there a mediastinal shift?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 70,
+        "img_id": 624,
+        "img_name": "medvh_624.jpg",
+        "question": "Are the clavicles fractured?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 71,
+        "img_id": 928,
+        "img_name": "medvh_928.jpg",
+        "question": "Do you see hylar lymphadenopathy in this image?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 72,
+        "img_id": 929,
+        "img_name": "medvh_929.jpg",
+        "question": "Is there flattening of the left hemidiaphragm?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 73,
+        "img_id": 1274,
+        "img_name": "medvh_1274.jpg",
+        "question": "Are the vascular markings increased?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 74,
+        "img_id": 339,
+        "img_name": "medvh_339.jpg",
+        "question": "Is there enlargement of the pulmonary vasculature?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 75,
+        "img_id": 470,
+        "img_name": "medvh_470.jpg",
+        "question": "Is there a rib fracture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 76,
+        "img_id": 88,
+        "img_name": "medvh_88.jpg",
+        "question": "Is there a chest tube placed?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 77,
+        "img_id": 685,
+        "img_name": "medvh_685.jpg",
+        "question": "Is there a pneumothorax present?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 78,
+        "img_id": 81,
+        "img_name": "medvh_81.jpg",
+        "question": "Is the outline of visceral pleura visible in the upper left lung field?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 79,
+        "img_id": 911,
+        "img_name": "medvh_911.jpg",
+        "question": "Do you see hylar lymphadenopathy in this image?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 80,
+        "img_id": 241,
+        "img_name": "medvh_241.jpg",
+        "question": "Is this a normal x ray?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 81,
+        "img_id": 243,
+        "img_name": "medvh_243.jpg",
+        "question": "Is the image study normal?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 82,
+        "img_id": 296,
+        "img_name": "medvh_296.jpg",
+        "question": "Is the cardiac silhouette less than half the lateral diameter of the chest wall?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 83,
+        "img_id": 44,
+        "img_name": "medvh_44.jpg",
+        "question": "Is the heart wider than more than half the width of the thorax?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 84,
+        "img_id": 774,
+        "img_name": "medvh_774.jpg",
+        "question": "Is there flattening of the left hemidiaphragm?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 85,
+        "img_id": 1370,
+        "img_name": "medvh_1370.jpg",
+        "question": "Are the nodules well circumscribed?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 86,
+        "img_id": 992,
+        "img_name": "medvh_992.jpg",
+        "question": "is the cardiac silhouette small/stretched",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 87,
+        "img_id": 735,
+        "img_name": "medvh_735.jpg",
+        "question": "Is there a rib fracture?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 88,
+        "img_id": 1381,
+        "img_name": "medvh_1381.jpg",
+        "question": "Is there cardiomyopathy?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 89,
+        "img_id": 416,
+        "img_name": "medvh_416.jpg",
+        "question": "are there increased vascular markings",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 90,
+        "img_id": 612,
+        "img_name": "medvh_612.jpg",
+        "question": "Is this a pleural effusion",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 91,
+        "img_id": 1275,
+        "img_name": "medvh_1275.jpg",
+        "question": "Is the right diaphragm visualized?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 92,
+        "img_id": 826,
+        "img_name": "medvh_826.jpg",
+        "question": "Is there any abnormality in the lungs?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 93,
+        "img_id": 1347,
+        "img_name": "medvh_1347.jpg",
+        "question": "Does this patient have a pneumothorax?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 94,
+        "img_id": 705,
+        "img_name": "medvh_705.jpg",
+        "question": "Are the nodules well circumscribed?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 95,
+        "img_id": 579,
+        "img_name": "medvh_579.jpg",
+        "question": "Is the diaphragm obscured?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 96,
+        "img_id": 631,
+        "img_name": "medvh_631.jpg",
+        "question": "Are there pulmonary findings?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 97,
+        "img_id": 1403,
+        "img_name": "medvh_1403.jpg",
+        "question": "Is the outline of visceral pleura visible in the upper left lung field?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 98,
+        "img_id": 506,
+        "img_name": "medvh_506.jpg",
+        "question": "Is there airspace consolidation on the left side?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 99,
+        "img_id": 95,
+        "img_name": "medvh_95.jpg",
+        "question": "Are there EKG leads on this patient?",
+        "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 100,
+        "img_id": 933,
+        "img_name": "medvh_933.jpg",
+        "question": " What is the imaging finding in the lungs of patient 1? ",
+        "choices": "A:  Elevation of the left hemidiaphragm and atelectasis in left upper lobe. B:  Elevation of the right hemidiaphragm and atelectasis in the right lower lobe. C:  Elevation of the right hemidiaphragm and atelectasis in the left lower lobe. D:  Elevation of the left hemidiaphragm and atelectasis in right upper lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 101,
+        "img_id": 1053,
+        "img_name": "medvh_1053.jpg",
+        "question": "What is visible on the right lung? ",
+        "choices": "A:  A hypermetabolic left lung mass. B:  A hypermetabolic right lung mass. C:  A hypometabolic left lung mass. D:  A hypometabolic right lung mass. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 102,
+        "img_id": 976,
+        "img_name": "medvh_976.jpg",
+        "question": " What part of the lung is involved in this case? ",
+        "choices": "A: Left lung. B: Right lung. C: Both lungs. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 103,
+        "img_id": 1357,
+        "img_name": "medvh_1357.jpg",
+        "question": " How many lungs are affected by the lesions/infiltrates in this image? ",
+        "choices": "A:  One. B:  Two. C:  Three. D:  Four. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 104,
+        "img_id": 1106,
+        "img_name": "medvh_1106.jpg",
+        "question": " Is the cavitary lesion visible in the left lung? ",
+        "choices": "A:  Yes. B:  Both lungs have cavitary lesions. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 105,
+        "img_id": 890,
+        "img_name": "medvh_890.jpg",
+        "question": " Which lung is affected in the patient? ",
+        "choices": "A:  Right. B:  Left. C:  Both. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 106,
+        "img_id": 819,
+        "img_name": "medvh_819.jpg",
+        "question": " Which term accurately describes the appearance of the lung in the left panel of the image? ",
+        "choices": "A:  Clear. B:  Consolidated. C:  Normal. D:  Atelectatic. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 107,
+        "img_id": 1338,
+        "img_name": "medvh_1338.jpg",
+        "question": "What is the extent of the lung parenchyma affected in the image? ",
+        "choices": "A: Less than 25% . B: 25%-50% . C: 50%-75% . D: More than 75%. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 108,
+        "img_id": 928,
+        "img_name": "medvh_928.jpg",
+        "question": "How many images of the patient's lungs were taken in the CT scan? ",
+        "choices": "A:  One. B:  Three. C:  Five. D:  Ten. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 109,
+        "img_id": 825,
+        "img_name": "medvh_825.jpg",
+        "question": " Which lung lobe is affected in the scan mentioned in the article? ",
+        "choices": "A:  Left lower lobe. B:  Left upper lobe. C:  Right middle lobe. D:  Right lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 110,
+        "img_id": 1235,
+        "img_name": "medvh_1235.jpg",
+        "question": " What areas of the lung are highlighted in red? ",
+        "choices": "A: Areas with cancer cells. B:  Areas with high density of air. C:  Areas with and under \u2212950 HU. D:  Areas with and under \u2212750 HU. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 111,
+        "img_id": 1050,
+        "img_name": "medvh_1050.jpg",
+        "question": " In which lobe of the lung is the cavitary lesion located? ",
+        "choices": "A:  Left upper lobe  . B:  Right upper lobe . C:  Left lower lobe . D:  Right middle lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 112,
+        "img_id": 1140,
+        "img_name": "medvh_1140.jpg",
+        "question": " Which lung lobe is affected in the image? ",
+        "choices": "A:  Right lower lobe. B:  Left upper lobe. C:  Right upper lobe. D:  Left lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 113,
+        "img_id": 1384,
+        "img_name": "medvh_1384.jpg",
+        "question": " Where is the location of the lung nodule? ",
+        "choices": "A:  Posterior left upper lobe. B:  Anterior left upper lobe. C:  Posterior right upper lobe. D:  Anterior right upper lob. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 114,
+        "img_id": 959,
+        "img_name": "medvh_959.jpg",
+        "question": " What does the axial lung window CT image show? ",
+        "choices": "A:  Clear lung fields.. B:  Bilateral pleural thickening.. C:  Ground-glass opacities in both lungs and septal thickening.. D:  Bilateral bronchial dilation.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 115,
+        "img_id": 925,
+        "img_name": "medvh_925.jpg",
+        "question": " Which CT scan section was used to indicate the lung lesion? ",
+        "choices": "A:  Sagittal section. B:  Transverse section. C:  Frontal section. D:  Axial section. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 116,
+        "img_id": 1171,
+        "img_name": "medvh_1171.jpg",
+        "question": " Which lobe of the right lung is affected by the obstruction shown in the scan? ",
+        "choices": "A:  Upper lobe. B:  Middle lobe. C:  Lower lobe. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 117,
+        "img_id": 903,
+        "img_name": "medvh_903.jpg",
+        "question": " Which column of images shows the missed lung basilar anatomy? ",
+        "choices": "A:  First column. B:  Second column. C:  Both columns. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 118,
+        "img_id": 964,
+        "img_name": "medvh_964.jpg",
+        "question": " Which part of the lung was mostly expanded in the patient's CT scan? ",
+        "choices": "A:  Left lung. B:  Right lung. C:  Upper lobe. D:  Lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 119,
+        "img_id": 1268,
+        "img_name": "medvh_1268.jpg",
+        "question": " What part of the lung is affected by the infarction indicated by the arrow? ",
+        "choices": "A: Apex. B: Base. C: Middle. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 120,
+        "img_id": 1142,
+        "img_name": "medvh_1142.jpg",
+        "question": "What was observed in the left lung in the imaging studies? ",
+        "choices": "A: Marked asymmetrical involvement with infiltrates. B: Marked symmetrical involvement with infiltrates. C: Only the upper lobe involvement. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 121,
+        "img_id": 747,
+        "img_name": "medvh_747.jpg",
+        "question": " What was the finding of the CT scan on the basal lung zone? ",
+        "choices": "A: Sub-pleural ground-glass patch. B: Consolidative atelectatic patch. C: Both A and B. D: Normal lung parenchyma. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 122,
+        "img_id": 1397,
+        "img_name": "medvh_1397.jpg",
+        "question": "What region(s) of the lung is affected in the presented case? ",
+        "choices": "A: Right lung. B:  Left lung. C:  Both lungs. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 123,
+        "img_id": 735,
+        "img_name": "medvh_735.jpg",
+        "question": "What other lung abnormality was observed in the patient of Figure 1 besides interstitial pneumonia? ",
+        "choices": "A: Masses. B: Ground-glass opacities. C: Pleural effusion. D: Pleural thickening. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 124,
+        "img_id": 996,
+        "img_name": "medvh_996.jpg",
+        "question": " How did the diminished right lung field appear on the X-ray? ",
+        "choices": "A:  Bright white. B:  Completely black. C:  Greyish. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 125,
+        "img_id": 1087,
+        "img_name": "medvh_1087.jpg",
+        "question": "Which lung lobe shows a solid nodule in the example? ",
+        "choices": "A: Right lower lobe. B: Right upper lobe. C: Left lower lobe. D: Left upper lobe . E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 126,
+        "img_id": 1003,
+        "img_name": "medvh_1003.jpg",
+        "question": "What do the white patches on the lung CT scans indicate for patient 1? ",
+        "choices": "A:  Normal lung tissue. B:  Blood clots. C:  Fluid buildup. D:  Damaged lung tissue. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 127,
+        "img_id": 1285,
+        "img_name": "medvh_1285.jpg",
+        "question": " What did the biopsy show about the lung architecture? ",
+        "choices": "A: Normal. B: Emphysematous. C: Destroyed. D: Plaque-filled. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 128,
+        "img_id": 727,
+        "img_name": "medvh_727.jpg",
+        "question": " Which area of the lung was affected in this imaging? ",
+        "choices": "A: Left hilum. B: Right lung. C: Left lung. D: Right hilum. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 129,
+        "img_id": 740,
+        "img_name": "medvh_740.jpg",
+        "question": " Which plane of the CT 3D reconstruction example shows the patient's lung from front to back? ",
+        "choices": "A:  Axial plane. B:  Coronal plane. C:  Sagittal plane. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 130,
+        "img_id": 1217,
+        "img_name": "medvh_1217.jpg",
+        "question": " In which lung lobe was the consolidation located in panel A? ",
+        "choices": "A:  Upper lobe. B:  Middle lobe. C:  Inferior lobe. D:  Superior lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 131,
+        "img_id": 1230,
+        "img_name": "medvh_1230.jpg",
+        "question": " Which lung has an increased mass on the CT scan? ",
+        "choices": "A:  Right lung. B:  Left lung. C:  Both lungs. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 132,
+        "img_id": 924,
+        "img_name": "medvh_924.jpg",
+        "question": " What was indicated by the black arrows in the gross morphology images of mouse lungs? ",
+        "choices": "A:  Hemorrhagic lesions. B:  The migration route of AC L3. C:  Normal lung tissue. D:  AC L3 infection sites. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 133,
+        "img_id": 715,
+        "img_name": "medvh_715.jpg",
+        "question": " What is the texture of the mass found in the lung? ",
+        "choices": "A: Homogeneous. B: Heterogeneous. C: Hyperdense. D: Hypodense. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 134,
+        "img_id": 1306,
+        "img_name": "medvh_1306.jpg",
+        "question": " What color circle corresponds to the left pulmonary nodule at the base of the left lung in the images? ",
+        "choices": "A:  Blue. B:  Green. C:  Red. D:  Yellow.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 135,
+        "img_id": 730,
+        "img_name": "medvh_730.jpg",
+        "question": " Which side of the lung is affected in the given scenario? ",
+        "choices": "A: Right. B: Left. C: Both. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 136,
+        "img_id": 1040,
+        "img_name": "medvh_1040.jpg",
+        "question": " In which specific part of the lung does the computed tomography show flaky exudation on HD7? ",
+        "choices": "A:  Anterior basal segment of the left lower lobe. B:  Posterior basal segment of the left lower lobe. C:  Apical segment of the left upper lobe. D:  Middle lobe of the right lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 137,
+        "img_id": 878,
+        "img_name": "medvh_878.jpg",
+        "question": " Which part of the patient's lung showed cavitation in the second CT scan? ",
+        "choices": "A: Left upper lobe. B: Right upper lobe. C: Right middle lobe. D: Right lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 138,
+        "img_id": 732,
+        "img_name": "medvh_732.jpg",
+        "question": "What did the chest X-ray show about the right upper lung lesion in the later stage? ",
+        "choices": "A: Irregular opacity. B: Decreased opacity. C: Disappeared . D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 139,
+        "img_id": 1002,
+        "img_name": "medvh_1002.jpg",
+        "question": "What part of the lung is affected in the scan? ",
+        "choices": "A:  Lower left lobe. B:  Upper right lobe. C:  Lower right lobe. D:  Upper left lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 140,
+        "img_id": 1190,
+        "img_name": "medvh_1190.jpg",
+        "question": " Where was the lung nodule located on the CXR? ",
+        "choices": "A:  Left upper lobe. B:  Left lower lobe. C:  Right upper lobe. D:  Right lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 141,
+        "img_id": 782,
+        "img_name": "medvh_782.jpg",
+        "question": " Which part of the lung was affected by the nodule? ",
+        "choices": "A:  Left lower lobe. B:  Right lower lobe. C:  Left upper lobe. D:  Right upper lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 142,
+        "img_id": 1194,
+        "img_name": "medvh_1194.jpg",
+        "question": " What is shown in the computed tomography pulmonary angiogram on lung windows? ",
+        "choices": "A: dissection flap. B: dilated aortic root. C: pleural effusions. D: pulmonary edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 143,
+        "img_id": 945,
+        "img_name": "medvh_945.jpg",
+        "question": "What is the yellow arrow in the lung sample pointing to? ",
+        "choices": "A: Infiltrating mononuclear cells. B: Ballooning vacuolation of keratinocytes. C: Consolidated focus. D: Nuclear debris . E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 144,
+        "img_id": 715,
+        "img_name": "medvh_715.jpg",
+        "question": " In what part of the lung were the cavitary opacities found? ",
+        "choices": "A: Right lower lobe. B: Left lower lobe. C: Right upper lobe. D: Left upper lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 145,
+        "img_id": 1397,
+        "img_name": "medvh_1397.jpg",
+        "question": " How many lung lobes were affected in the initial radiographic presentation? ",
+        "choices": "A: Two. B: Three. C: Four. D: Five. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 146,
+        "img_id": 1228,
+        "img_name": "medvh_1228.jpg",
+        "question": " Which lobe of the patient's lung has a nodule? ",
+        "choices": "A:  Right upper lobe. B:  Right lower lobe. C:  Left upper lobe. D:  Left lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 147,
+        "img_id": 1114,
+        "img_name": "medvh_1114.jpg",
+        "question": " What is the result of the CT scan of the lungs? ",
+        "choices": "A:  Normal. B:  Stripe-shaped shadows in bilateral lungs. C:  Nodular lesions in the skull. D:  Bone mass destruction in the spine. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 148,
+        "img_id": 1281,
+        "img_name": "medvh_1281.jpg",
+        "question": " What window was used to assess the lungs? ",
+        "choices": "A: Coronal. B: Sagittal. C: Axial. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 149,
+        "img_id": 828,
+        "img_name": "medvh_828.jpg",
+        "question": "What imaging test(s) did the patient undergo to examine their lungs? ",
+        "choices": "A: Pulmonary CT on December 5, 2018. B: Pulmonary CT on January 22, 2019. C: Pulmonary CT on April 23, 2019. D: MRI of the brain on December 22, 2018. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 150,
+        "img_id": 835,
+        "img_name": "medvh_835.jpg",
+        "question": "What can be seen in the left lung of the patient? ",
+        "choices": "A:  Pleural effusion. B:  Pneumothorax. C:  Hemothorax. D:  Bronchitis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 151,
+        "img_id": 1246,
+        "img_name": "medvh_1246.jpg",
+        "question": " Which lung zone is the cavitary lesion described in? ",
+        "choices": "A: Left lower zone. B: Right lower zone. C: Left upper zone. D: Right upper zone. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 152,
+        "img_id": 1203,
+        "img_name": "medvh_1203.jpg",
+        "question": "Where were the nodular lesions found in the left lung? ",
+        "choices": "A: S8. B: S9. C: S10. D: S11. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 153,
+        "img_id": 1064,
+        "img_name": "medvh_1064.jpg",
+        "question": " In which chest radiograph is consolidation observed over both lungs? ",
+        "choices": "A:  The film showing diffuse alveolar process over bilateral lung field, especially right lower lung field just after ECMO setup. B:  The film taken on the day before removing ECMO, demonstrating fibrotic change as lung field in (B). C:  The film taken after the successful weaning off of ECMO. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 154,
+        "img_id": 905,
+        "img_name": "medvh_905.jpg",
+        "question": "What is the color coding for the left and right lung in the scan? ",
+        "choices": "A: Red is for left and blue is for right.. B: Red is for right and blue is for left.. C: Green is for right and blue is for left.. D: Green is for left and blue is for right.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 155,
+        "img_id": 1323,
+        "img_name": "medvh_1323.jpg",
+        "question": "What color appears on the X-ray for the air spaces in the lungs? ",
+        "choices": "A: Black. B: White. C: Gray. D: Red. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 156,
+        "img_id": 893,
+        "img_name": "medvh_893.jpg",
+        "question": "In which part of the lung is the ground glass shadow found? ",
+        "choices": "A: Right lung S3. B: Left lung S3. C: Right lung S1. D: Left lung S1. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 157,
+        "img_id": 1005,
+        "img_name": "medvh_1005.jpg",
+        "question": " What is the color representation of the foregut and lung in the figure? ",
+        "choices": "A:  Yellow and Green. B: Red and Blue. C: Red and Green. D: Yellow and Red. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 158,
+        "img_id": 835,
+        "img_name": "medvh_835.jpg",
+        "question": " Which lung segment is the nodule located in? ",
+        "choices": "A:  S8 segment of the left upper lobe.. B:  S6 segment of the right lower lobe.. C:  S1 segment of the left lower lobe.. D:  Apical segment of the right upper lobe.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 159,
+        "img_id": 1244,
+        "img_name": "medvh_1244.jpg",
+        "question": " Which arrow indicates lung metastasis? ",
+        "choices": "A:  Yellow arrow. B:  Red arrow. C:  Blue arrow. D:  White arrow. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 160,
+        "img_id": 1368,
+        "img_name": "medvh_1368.jpg",
+        "question": "What view was used to examine the lung lesions? ",
+        "choices": "A: Sagittal. B: Axial. C:  Coronal. D:  Oblique. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 161,
+        "img_id": 1285,
+        "img_name": "medvh_1285.jpg",
+        "question": " What did the X-ray show in the lungs fields? ",
+        "choices": "A:  Normal. B:  Abnormal. C:  Unclear. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 162,
+        "img_id": 1119,
+        "img_name": "medvh_1119.jpg",
+        "question": " What is the color of the lung in the veterinarian annotation? ",
+        "choices": "A: pink. B: purple. C: brown. D: orange. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 163,
+        "img_id": 1363,
+        "img_name": "medvh_1363.jpg",
+        "question": " How many lung zones are affected in the first example chest X-ray image? ",
+        "choices": "A: 1-2. B: 2-3. C: 3-4. D: 4-5. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 164,
+        "img_id": 832,
+        "img_name": "medvh_832.jpg",
+        "question": "In which part of the lung was the mass found? ",
+        "choices": "A: Right upper lung. B: Left upper lung. C: Right lower lung. D: Left lower lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 165,
+        "img_id": 1083,
+        "img_name": "medvh_1083.jpg",
+        "question": " What type of damage is observed in the lungs of recipient minks shown in panels G and H? ",
+        "choices": "A: Interstitial damage. B: Alveolar damage. C: Bronchiolar damage. D: Pleural damage. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 166,
+        "img_id": 727,
+        "img_name": "medvh_727.jpg",
+        "question": " Is the perfusion defect present on the left or right lung? ",
+        "choices": "A: Left lung. B: Right lung. C: Both lungs. D: Can't be determined. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 167,
+        "img_id": 836,
+        "img_name": "medvh_836.jpg",
+        "question": " Which part of the lung shows numerous end-on vessels in Chest X-ray? ",
+        "choices": "A: Left lung. B: Right lung. C: Upper lobe. D: Lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 168,
+        "img_id": 865,
+        "img_name": "medvh_865.jpg",
+        "question": " Which type of image was used for the biopsy of the lung lesion? ",
+        "choices": "A:  MRI. B:  CT scan. C:  X-Ray. D:  Ultrasound. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 169,
+        "img_id": 1270,
+        "img_name": "medvh_1270.jpg",
+        "question": "Which imaging technique shows the spiculated lung nodule C? ",
+        "choices": "A: X-ray. B: CT scan. C: Mammography. D: PET/CT. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 170,
+        "img_id": 1271,
+        "img_name": "medvh_1271.jpg",
+        "question": " What did the initial CT scan of the chest show in addition to the pleural based lung mass in the left upper lobe? ",
+        "choices": "A:  Multiple nodules in left lung. B:  Multiple masses and nodules in both lungs. C:  Pleural based mass in right upper lobe. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 171,
+        "img_id": 1131,
+        "img_name": "medvh_1131.jpg",
+        "question": "Which segment of the lung displays the male patient's tumors in the MRI results? ",
+        "choices": "A: Left lung. B: Right lung. C: Anterior lung. D: Posterior lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 172,
+        "img_id": 961,
+        "img_name": "medvh_961.jpg",
+        "question": " What did the CT images show in the lung of the patient (ID 6) at baseline? ",
+        "choices": "A: secondary lesion. B: primary lesion. C: metastatic lesion. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 173,
+        "img_id": 894,
+        "img_name": "medvh_894.jpg",
+        "question": " Which lung was affected in the scan image? ",
+        "choices": "A: Right lung. B: Left lung. C: Both lungs. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 174,
+        "img_id": 1198,
+        "img_name": "medvh_1198.jpg",
+        "question": " Which lung is showing good expansion on the X-ray? ",
+        "choices": "A: Left lung. B: Right lung. C: Both lungs. D: Neither lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 175,
+        "img_id": 236,
+        "img_name": "medvh_236.jpg",
+        "question": " Which lung is affected in the patient? ",
+        "choices": "A:  Right. B:  Left. C:  Both. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 176,
+        "img_id": 230,
+        "img_name": "medvh_230.jpg",
+        "question": " What is the result of the CT scan of the lungs? ",
+        "choices": "A:  Normal. B:  Stripe-shaped shadows in bilateral lungs. C:  Nodular lesions in the skull. D:  Bone mass destruction in the spine. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 177,
+        "img_id": 600,
+        "img_name": "medvh_600.jpg",
+        "question": "What is indicated by circles in the lung ultrasonography? ",
+        "choices": "A:  aerial bronchogram. B:  consolidation. C:  coalescent B-lines. D:  pleural line. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 178,
+        "img_id": 225,
+        "img_name": "medvh_225.jpg",
+        "question": " Which side of the lung was predominantly affected? ",
+        "choices": "A: Left lung. B: Right lung. C: Both lungs equally. D: It varies. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 179,
+        "img_id": 220,
+        "img_name": "medvh_220.jpg",
+        "question": " What did the radiograph show about the alveolar pattern of Dog 2's lungs? ",
+        "choices": "A:  Moderate alveolar pattern. B:  Severe alveolar pattern. C:  Mild alveolar pattern. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 180,
+        "img_id": 131,
+        "img_name": "medvh_131.jpg",
+        "question": " What can be observed in both lungs in A-C images? ",
+        "choices": "A: Multiple clockwork shadows. B: Tiny nodules. C: Interstitial changes. D: Reduced ground glass shadows. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 181,
+        "img_id": 584,
+        "img_name": "medvh_584.jpg",
+        "question": "What was observed in the left lung in the imaging studies? ",
+        "choices": "A: Marked asymmetrical involvement with infiltrates. B: Marked symmetrical involvement with infiltrates. C: Only the upper lobe involvement. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 182,
+        "img_id": 707,
+        "img_name": "medvh_707.jpg",
+        "question": " what does the black arrow indicate in the lung section? ",
+        "choices": "A:  infiltration of inflammatory cells. B:  fibrosis. C:  degeneration of bronchiolar epithelium. D:  foamy/alveolar macrophages.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 183,
+        "img_id": 459,
+        "img_name": "medvh_459.jpg",
+        "question": " How many lung zones are affected in the first example chest X-ray image? ",
+        "choices": "A: 1-2. B: 2-3. C: 3-4. D: 4-5. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 184,
+        "img_id": 147,
+        "img_name": "medvh_147.jpg",
+        "question": " What did the biopsy show about the lung architecture? ",
+        "choices": "A: Normal. B: Emphysematous. C: Destroyed. D: Plaque-filled. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 185,
+        "img_id": 147,
+        "img_name": "medvh_147.jpg",
+        "question": " What window was used to assess the lungs? ",
+        "choices": "A: Coronal. B: Sagittal. C: Axial. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 186,
+        "img_id": 145,
+        "img_name": "medvh_145.jpg",
+        "question": "What is the yellow arrow in the lung sample pointing to? ",
+        "choices": "A: Infiltrating mononuclear cells. B: Ballooning vacuolation of keratinocytes. C: Consolidated focus. D: Nuclear debris . E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 187,
+        "img_id": 317,
+        "img_name": "medvh_317.jpg",
+        "question": "What type of cancer has metastasized to the lung tissue in the image? ",
+        "choices": "A: Breast cancer. B: Colon cancer. C: Lung cancer. D: Prostate cancer. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 188,
+        "img_id": 156,
+        "img_name": "medvh_156.jpg",
+        "question": "What do the white patches on the lung CT scans indicate for patient 1? ",
+        "choices": "A:  Normal lung tissue. B:  Blood clots. C:  Fluid buildup. D:  Damaged lung tissue. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 189,
+        "img_id": 536,
+        "img_name": "medvh_536.jpg",
+        "question": " In which lobe of the lung is the cavitary lesion located? ",
+        "choices": "A:  Left upper lobe  . B:  Right upper lobe . C:  Left lower lobe . D:  Right middle lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 190,
+        "img_id": 515,
+        "img_name": "medvh_515.jpg",
+        "question": "Which imaging technique shows the spiculated lung nodule C? ",
+        "choices": "A: X-ray. B: CT scan. C: Mammography. D: PET/CT. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 191,
+        "img_id": 680,
+        "img_name": "medvh_680.jpg",
+        "question": " Which lobe of the lung is affected in this case? ",
+        "choices": "A:  Left lower lobe. B:  Right middle lobe. C:  Left upper lobe. D:  Right lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 192,
+        "img_id": 454,
+        "img_name": "medvh_454.jpg",
+        "question": "What other lung abnormality was observed in the patient of Figure 1 besides interstitial pneumonia? ",
+        "choices": "A: Masses. B: Ground-glass opacities. C: Pleural effusion. D: Pleural thickening. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 193,
+        "img_id": 598,
+        "img_name": "medvh_598.jpg",
+        "question": "Where were the nodular lesions found in the left lung? ",
+        "choices": "A: S8. B: S9. C: S10. D: S11. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 194,
+        "img_id": 124,
+        "img_name": "medvh_124.jpg",
+        "question": " Which lung lobe was affected in this case? ",
+        "choices": "A: Left upper lobe. B: Right lower lobe. C: Left lower lobe. D: Right upper lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 195,
+        "img_id": 183,
+        "img_name": "medvh_183.jpg",
+        "question": " What type of shadows are observed in the left lower lung field? ",
+        "choices": "A:  Nodular shadows. B:  Ground-glass shadows. C:  Reticular shadows. D:  Infiltrative shadows. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 196,
+        "img_id": 22,
+        "img_name": "medvh_22.jpg",
+        "question": " Which lung is affected more in the image? ",
+        "choices": "A:  Right lung. B:  Left lung. C:  Both lungs equally. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 197,
+        "img_id": 664,
+        "img_name": "medvh_664.jpg",
+        "question": " What was indicated by the black arrows in the gross morphology images of mouse lungs? ",
+        "choices": "A:  Hemorrhagic lesions. B:  The migration route of AC L3. C:  Normal lung tissue. D:  AC L3 infection sites. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 198,
+        "img_id": 160,
+        "img_name": "medvh_160.jpg",
+        "question": " Which lung lobe is affected in the image? ",
+        "choices": "A:  left lower lobe. B:  left upper lobe. C:  right lower lobe. D:  right upper lobe . E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 199,
+        "img_id": 400,
+        "img_name": "medvh_400.jpg",
+        "question": "Which part of the lungs is shown in the image? ",
+        "choices": "A: Left lung. B: Right lung. C: Upper lobe. D: Lower lobe . E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 200,
+        "img_id": 705,
+        "img_name": "medvh_705.jpg",
+        "question": " Is the cavitary lesion visible in the left lung? ",
+        "choices": "A:  Yes. B:  Both lungs have cavitary lesions. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 201,
+        "img_id": 657,
+        "img_name": "medvh_657.jpg",
+        "question": " What color circle corresponds to the left pulmonary nodule at the base of the left lung in the images? ",
+        "choices": "A:  Blue. B:  Green. C:  Red. D:  Yellow.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 202,
+        "img_id": 70,
+        "img_name": "medvh_70.jpg",
+        "question": " Is the perfusion defect present on the left or right lung? ",
+        "choices": "A: Left lung. B: Right lung. C: Both lungs. D: Can't be determined. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 203,
+        "img_id": 531,
+        "img_name": "medvh_531.jpg",
+        "question": "Which lung lobe shows a solid nodule in the example? ",
+        "choices": "A: Right lower lobe. B: Right upper lobe. C: Left lower lobe. D: Left upper lobe . E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 204,
+        "img_id": 623,
+        "img_name": "medvh_623.jpg",
+        "question": " Which part of the lung was affected by the nodule? ",
+        "choices": "A:  Left lower lobe. B:  Right lower lobe. C:  Left upper lobe. D:  Right upper lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 205,
+        "img_id": 598,
+        "img_name": "medvh_598.jpg",
+        "question": " What is the status of the lungs on Chest x-ray obtained on February 16 in Case 3? ",
+        "choices": "A:  Improved. B:  Unchanged. C:  Worse. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 206,
+        "img_id": 253,
+        "img_name": "medvh_253.jpg",
+        "question": "What did the chest X-ray show about the right upper lung lesion in the later stage? ",
+        "choices": "A: Irregular opacity. B: Decreased opacity. C: Disappeared . D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 207,
+        "img_id": 333,
+        "img_name": "medvh_333.jpg",
+        "question": "What imaging modality was used to visualize the patient's lungs? ",
+        "choices": "A: X-ray. B: CT scan. C: Ultrasound. D: MRI. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 208,
+        "img_id": 557,
+        "img_name": "medvh_557.jpg",
+        "question": " What is the difference between the pleural thickness in the axial CT images on the portal venous phase and the lung window in the upper panels? ",
+        "choices": "A:  Both images show the same pleural thickness.. B:  The axial CT images show more pleural thickness compared to the lung window.. C:  The lung window shows more pleural thickness compared to the axial CT images.. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 209,
+        "img_id": 353,
+        "img_name": "medvh_353.jpg",
+        "question": " What is the condition of the right lung? ",
+        "choices": "A: Increased size. B: Normal size. C: Decreased size. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 210,
+        "img_id": 541,
+        "img_name": "medvh_541.jpg",
+        "question": "What does the parenchyma in the lungs appear as? ",
+        "choices": "A: Edematous. B: Hemorrhagic. C: Atypical. D: Normal. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 211,
+        "img_id": 633,
+        "img_name": "medvh_633.jpg",
+        "question": " In which lung lobe was the consolidation located in panel A? ",
+        "choices": "A:  Upper lobe. B:  Middle lobe. C:  Inferior lobe. D:  Superior lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 212,
+        "img_id": 6,
+        "img_name": "medvh_6.jpg",
+        "question": " Which lung segment is the nodule located in? ",
+        "choices": "A:  S8 segment of the left upper lobe.. B:  S6 segment of the right lower lobe.. C:  S1 segment of the left lower lobe.. D:  Apical segment of the right upper lobe.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 213,
+        "img_id": 197,
+        "img_name": "medvh_197.jpg",
+        "question": " What region of the lung is shown in the image? ",
+        "choices": "A:  Anterior region in transversal scan. B:  Posterior region in sagittal scan. C:  Lateral region in coronal scan. D:  superior region in longitudinal scan. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 214,
+        "img_id": 43,
+        "img_name": "medvh_43.jpg",
+        "question": " Is there any abnormality in the upper left lobe of the lung? ",
+        "choices": "A:  No, there is none.. B:  Yes, there is a complete collapse of the upper left lobe.. C:  Yes, there is mild compression of the left upper lobe.. D:  Yes, there is a large pleural effusion.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 215,
+        "img_id": 186,
+        "img_name": "medvh_186.jpg",
+        "question": "What color appears on the X-ray for the air spaces in the lungs? ",
+        "choices": "A: Black. B: White. C: Gray. D: Red. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 216,
+        "img_id": 299,
+        "img_name": "medvh_299.jpg",
+        "question": " What did the CT images show in the lung of the patient (ID 6) at baseline? ",
+        "choices": "A: secondary lesion. B: primary lesion. C: metastatic lesion. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 217,
+        "img_id": 84,
+        "img_name": "medvh_84.jpg",
+        "question": "In which part of the lung was the mass found? ",
+        "choices": "A: Right upper lung. B: Left upper lung. C: Right lower lung. D: Left lower lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 218,
+        "img_id": 680,
+        "img_name": "medvh_680.jpg",
+        "question": " What was the finding of the CT scan on the basal lung zone? ",
+        "choices": "A: Sub-pleural ground-glass patch. B: Consolidative atelectatic patch. C: Both A and B. D: Normal lung parenchyma. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 219,
+        "img_id": 423,
+        "img_name": "medvh_423.jpg",
+        "question": "What part of the lung was the primary lesion observed in? ",
+        "choices": "A:  Right upper lobe. B:  Left upper lobe. C:  Right lower lobe. D:  Left lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 220,
+        "img_id": 514,
+        "img_name": "medvh_514.jpg",
+        "question": " Which lung was affected in the presented patient? ",
+        "choices": "A:  Right lung. B:  Left lung. C:  Both lungs. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 221,
+        "img_id": 224,
+        "img_name": "medvh_224.jpg",
+        "question": " How did the diminished right lung field appear on the X-ray? ",
+        "choices": "A:  Bright white. B:  Completely black. C:  Greyish. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 222,
+        "img_id": 704,
+        "img_name": "medvh_704.jpg",
+        "question": "What part of the lung was the ground-glass opacity located in? ",
+        "choices": "A: Right S5a subsegment. B: Left S2a subsegment. C: Left S5a subsegment. D: Right S2a subsegment. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 223,
+        "img_id": 502,
+        "img_name": "medvh_502.jpg",
+        "question": "What is the finding in the Day 5 CXR regarding the lungs? ",
+        "choices": "A: Worsening of patchy opacification. B: Improvement in bilateral extensive consolidation. C: Bilateral patchy opacification. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 224,
+        "img_id": 168,
+        "img_name": "medvh_168.jpg",
+        "question": " What does the axial lung window of the chest CT taken 2 months after radiotherapy and chemotherapy show? ",
+        "choices": "A:  Mass on the right main bronchus.. B:  Pulmonary embolism.. C:  Aortic aneurysm.. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 225,
+        "img_id": 196,
+        "img_name": "medvh_196.jpg",
+        "question": " What specific type of lung disease is shown in the CT angiogram? ",
+        "choices": "A:  Bronchitis. B:  Tuberculosis. C:  Emphysema. D:  Pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 226,
+        "img_id": 556,
+        "img_name": "medvh_556.jpg",
+        "question": " What is the location of the irregular staining in the lungs? ",
+        "choices": "A:  Upper lobe. B:  Lower lobe. C:  Middle lobe. D:  Whole lung . E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 227,
+        "img_id": 235,
+        "img_name": "medvh_235.jpg",
+        "question": " Do the lungs appear in the image? ",
+        "choices": "A:  Yes. B: Not a suitable question for the image.",
+        "gt": "B"
+    },
+    {
+        "question_id": 228,
+        "img_id": 384,
+        "img_name": "medvh_384.jpg",
+        "question": " Which lung has an increased mass on the CT scan? ",
+        "choices": "A:  Right lung. B:  Left lung. C:  Both lungs. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 229,
+        "img_id": 207,
+        "img_name": "medvh_207.jpg",
+        "question": " Which part of the lung shows numerous end-on vessels in Chest X-ray? ",
+        "choices": "A: Left lung. B: Right lung. C: Upper lobe. D: Lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 230,
+        "img_id": 360,
+        "img_name": "medvh_360.jpg",
+        "question": " Which plane of the CT 3D reconstruction example shows the patient's lung from front to back? ",
+        "choices": "A:  Axial plane. B:  Coronal plane. C:  Sagittal plane. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 231,
+        "img_id": 200,
+        "img_name": "medvh_200.jpg",
+        "question": " Which CXR showed reticulations on the right lower lung? ",
+        "choices": "A:  Initial CXR. B:  Worst CXR. C:  Final CXR. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 232,
+        "img_id": 260,
+        "img_name": "medvh_260.jpg",
+        "question": "What did the right lung show on X-rays? ",
+        "choices": "A:  An unaffected lung. B:  Herniation into the middle mediastinum. C:  Herniation into the left side of the thorax. D:  Herniation into the right thorax. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 233,
+        "img_id": 42,
+        "img_name": "medvh_42.jpg",
+        "question": "How many bullae are seen in the ventral aspect of the left caudal lung lobe? ",
+        "choices": "A:  One. B:  Two. C:  Three. D:  Four. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 234,
+        "img_id": 351,
+        "img_name": "medvh_351.jpg",
+        "question": " In which specific part of the lung does the computed tomography show flaky exudation on HD7? ",
+        "choices": "A:  Anterior basal segment of the left lower lobe. B:  Posterior basal segment of the left lower lobe. C:  Apical segment of the left upper lobe. D:  Middle lobe of the right lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 235,
+        "img_id": 615,
+        "img_name": "medvh_615.jpg",
+        "question": " In this image, what do the infiltrates on the lung indicate? ",
+        "choices": "A: Normal lungs. B: Abnormal lungs. C: Cancerous lungs. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 236,
+        "img_id": 188,
+        "img_name": "medvh_188.jpg",
+        "question": " What part of the lung were the reticulations located in the patient described previously? ",
+        "choices": "A:  Perihilar zone. B:  Mediastinum. C:  Subpleural zone. D:  Lung apex. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 237,
+        "img_id": 662,
+        "img_name": "medvh_662.jpg",
+        "question": " Which part of the lungs is affected in the image? ",
+        "choices": "A:  Upper lobes. B:  Lower lobes. C:  Middle lobes. D:  Entire lungs. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 238,
+        "img_id": 306,
+        "img_name": "medvh_306.jpg",
+        "question": " What was the imaging feature of the patient's lungs? ",
+        "choices": "A:  Blurred texture and large patchy shadows. B:  Increased texture and blurred texture. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 239,
+        "img_id": 313,
+        "img_name": "medvh_313.jpg",
+        "question": " Which type of image was used for the biopsy of the lung lesion? ",
+        "choices": "A:  MRI. B:  CT scan. C:  X-Ray. D:  Ultrasound. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 240,
+        "img_id": 631,
+        "img_name": "medvh_631.jpg",
+        "question": " What is the texture of the lung in Case 2? ",
+        "choices": "A:  Soft and mushy. B:  Smooth and even. C:  Firm. D:  Grainy and uneven. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 241,
+        "img_id": 47,
+        "img_name": "medvh_47.jpg",
+        "question": " Which side of the lung is affected in the given scenario? ",
+        "choices": "A: Right. B: Left. C: Both. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 242,
+        "img_id": 211,
+        "img_name": "medvh_211.jpg",
+        "question": "Which side of the lung is being examined in this image? ",
+        "choices": "A:  Right lobe. B:  Left lobe. C:  Upper lobe. D:  Lower lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 243,
+        "img_id": 485,
+        "img_name": "medvh_485.jpg",
+        "question": " In what part of the lung were the cavitary opacities found? ",
+        "choices": "A: Right lower lobe. B: Left lower lobe. C: Right upper lobe. D: Left upper lobe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 244,
+        "img_id": 146,
+        "img_name": "medvh_146.jpg",
+        "question": " What is shown in the computed tomography pulmonary angiogram on lung windows? ",
+        "choices": "A: dissection flap. B: dilated aortic root. C: pleural effusions. D: pulmonary edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 245,
+        "img_id": 72,
+        "img_name": "medvh_72.jpg",
+        "question": "What is the color coding for the left and right lung in the scan? ",
+        "choices": "A: Red is for left and blue is for right.. B: Red is for right and blue is for left.. C: Green is for right and blue is for left.. D: Green is for left and blue is for right.. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 246,
+        "img_id": 143,
+        "img_name": "medvh_143.jpg",
+        "question": " Which arrow indicates lung metastasis? ",
+        "choices": "A:  Yellow arrow. B:  Red arrow. C:  Blue arrow. D:  White arrow. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 247,
+        "img_id": 379,
+        "img_name": "medvh_379.jpg",
+        "question": " What did the 18F-FDG PET/CT show in the patient's left lung? ",
+        "choices": "A:  A highly active nodule. B:  A completely inactive nodule. C:  A nodule with mild activity. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 248,
+        "img_id": 26,
+        "img_name": "medvh_26.jpg",
+        "question": " What does the photomicrograph of an IPF patient's lung tissue show? ",
+        "choices": "A:  Plasma cells. B:  Inflammatory cells, primarily lymphocytes. C:  Macrophages. D:  Neutrophils. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 249,
+        "img_id": 268,
+        "img_name": "medvh_268.jpg",
+        "question": "What did the CT show in the lungs? ",
+        "choices": "A: A single nodule. B:  Multiple nodules. C:  A cavity. D:  Consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 250,
+        "img_id": 709,
+        "img_name": "medvh_709.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, atelectasis. B: lung opacity, emphysema. C: enlargement of the cardiac silhouette. D: cardiomegaly, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 251,
+        "img_id": 1381,
+        "img_name": "medvh_1381.jpg",
+        "question": "where in the image is the pneumonia located?",
+        "choices": "A: left lower lung area. B: left area. C: left lower area. D: mid area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 252,
+        "img_id": 1212,
+        "img_name": "medvh_1212.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, fracture. B: lung opacity, calcification, pleural effusion, atelectasis, consolidation. C: edema, atelectasis, cardiomegaly. D: pneumothorax, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 253,
+        "img_id": 1356,
+        "img_name": "medvh_1356.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, consolidation, lung opacity, cardiomegaly, edema, calcification, atelectasis, infection, pneumonia. B: pleural effusion, edema, cardiomegaly. C: edema, pneumonia, consolidation, pleural effusion. D: emphysema, lung opacity, pneumothorax. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 254,
+        "img_id": 826,
+        "img_name": "medvh_826.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumonia. B: pleural effusion, atelectasis, pleural thickening. C: pleural effusion, pleural thickening, atelectasis. D: atelectasis, pneumothorax. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 255,
+        "img_id": 1385,
+        "img_name": "medvh_1385.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: left area. B: left lower lung area and bibasilar area. C: right lung area. D: retrocardiac area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 256,
+        "img_id": 1374,
+        "img_name": "medvh_1374.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, atelectasis, lung opacity, infection, cardiomegaly. B: granuloma, atelectasis, pleural effusion. C: lung opacity, hematoma, pleural effusion. D: lung opacity, consolidation, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 257,
+        "img_id": 1404,
+        "img_name": "medvh_1404.jpg",
+        "question": "where in the image is the pleural thickening located?",
+        "choices": "A: left area. B: left basilar area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 258,
+        "img_id": 960,
+        "img_name": "medvh_960.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, edema. B: cardiomegaly, edema, heart failure, pleural effusion, atelectasis, emphysema. C: edema, lung opacity, atelectasis, pleural effusion. D: edema, calcification. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 259,
+        "img_id": 872,
+        "img_name": "medvh_872.jpg",
+        "question": "what level is the blunting of the costophrenic angle?",
+        "choices": "A: mild. B: minimal. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 260,
+        "img_id": 1091,
+        "img_name": "medvh_1091.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: consolidation, pneumothorax, lung opacity. B: cardiomegaly, pleural effusion, consolidation. C: fracture, scoliosis. D: pneumothorax, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 261,
+        "img_id": 1194,
+        "img_name": "medvh_1194.jpg",
+        "question": "what level is the edema?",
+        "choices": "A: moderate. B: severe. C: minimal. D: mild to moderate. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 262,
+        "img_id": 1111,
+        "img_name": "medvh_1111.jpg",
+        "question": "where is the consolidation?",
+        "choices": "A: left lower lung area. B: area area. C: right middle lung area. D: retrocardiac area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 263,
+        "img_id": 842,
+        "img_name": "medvh_842.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, lung opacity, hematoma. B: lung opacity, atelectasis, edema. C: edema, lung opacity, atelectasis, cardiomegaly. D: cardiomegaly, edema, pleural effusion, atelectasis, consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 264,
+        "img_id": 1225,
+        "img_name": "medvh_1225.jpg",
+        "question": "what level is the fracture?",
+        "choices": "A: mild. B: moderate. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 265,
+        "img_id": 1183,
+        "img_name": "medvh_1183.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: the right lung base. B: the lung bases. C: left upper lung area. D: right upper lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 266,
+        "img_id": 1076,
+        "img_name": "medvh_1076.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: the left upper lung. B: the lung bases. C: middle lower right lung area. D: basilar area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 267,
+        "img_id": 1028,
+        "img_name": "medvh_1028.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, pleural effusion, atelectasis. B: atelectasis, pleural effusion. C: edema. D: lung opacity, pneumonia, calcification. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 268,
+        "img_id": 1029,
+        "img_name": "medvh_1029.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: left basal area. B: basal area. C: the right lower lung. D: left lower lung area and right lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 269,
+        "img_id": 859,
+        "img_name": "medvh_859.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, vascular congestion, lung opacity, pleural effusion, atelectasis. B: edema, pleural effusion, atelectasis, lung opacity. C: blunting of the costophrenic angle. D: cardiomegaly, heart failure. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 270,
+        "img_id": 853,
+        "img_name": "medvh_853.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, lung opacity, infection, pleural effusion. B: pneumonia, lung opacity, calcification. C: consolidation, cardiomegaly. D: heart failure, edema, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 271,
+        "img_id": 1365,
+        "img_name": "medvh_1365.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumonia, emphysema. B: calcification, pleural effusion, edema, heart failure. C: pneumonia, edema, lung opacity. D: calcification, atelectasis, lung opacity, infection. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 272,
+        "img_id": 1345,
+        "img_name": "medvh_1345.jpg",
+        "question": "what abnormalities are seen in the left lung base?",
+        "choices": "A: lung opacity. B: atelectasis. C: pleural effusion. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 273,
+        "img_id": 1157,
+        "img_name": "medvh_1157.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumothorax, calcification, lung opacity. B: pneumomediastinum, lung opacity, cardiomegaly. C: edema, lung opacity, pneumonia, pleural effusion. D: edema, vascular congestion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 274,
+        "img_id": 1351,
+        "img_name": "medvh_1351.jpg",
+        "question": "where in the image is the pleural effusion located?",
+        "choices": "A: left area and right area. B: bilateral area and right area. C: lung left area. D: bilateral area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 275,
+        "img_id": 1166,
+        "img_name": "medvh_1166.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, vascular congestion, pleural effusion, atelectasis, lung opacity. B: edema, vascular congestion, lung opacity, pleural effusion. C: pleural effusion, vascular congestion, cardiomegaly. D: pleural effusion, edema, vascular congestion, cardiomegaly, calcification. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 276,
+        "img_id": 1367,
+        "img_name": "medvh_1367.jpg",
+        "question": "where in the image is the cardiomegaly located?",
+        "choices": "A: the left upper lung. B: bilateral area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 277,
+        "img_id": 1209,
+        "img_name": "medvh_1209.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, lung opacity. B: edema, pleural effusion, atelectasis, lung opacity, pneumonia, consolidation, cardiomegaly, heart failure. C: atelectasis, lung opacity, pneumonia, pleural effusion, pleural thickening. D: cardiomegaly, edema, consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 278,
+        "img_id": 1304,
+        "img_name": "medvh_1304.jpg",
+        "question": "what type is the atelectasis?",
+        "choices": "A: multifocal. B: focal. C: scattered. D: patchy. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 279,
+        "img_id": 1350,
+        "img_name": "medvh_1350.jpg",
+        "question": "what level is the enlargement of the cardiac silhouette?",
+        "choices": "A: moderate. B: mild. C: severe. D: massive. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 280,
+        "img_id": 717,
+        "img_name": "medvh_717.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: right basal area. B: right lower lung area and left basal area. C: the left lung base. D: bilateral area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 281,
+        "img_id": 1309,
+        "img_name": "medvh_1309.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, pleural effusion, vascular congestion. B: emphysema, atelectasis, lung opacity. C: atelectasis, lung opacity, pneumonia. D: pleural effusion, atelectasis, contusion, fracture. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 282,
+        "img_id": 1143,
+        "img_name": "medvh_1143.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumothorax, cardiomegaly, pleural effusion, lung opacity, atelectasis, edema. B: pneumonia, consolidation, pleural effusion. C: pleural effusion, atelectasis, cardiomegaly. D: cardiomegaly, edema, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 283,
+        "img_id": 1350,
+        "img_name": "medvh_1350.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, edema, vascular congestion, enlargement of the cardiac silhouette, consolidation. B: pleural effusion, atelectasis, enlargement of the cardiac silhouette, lung opacity. C: edema, lung opacity, consolidation, granuloma, atelectasis, pleural effusion. D: atelectasis, edema, consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 284,
+        "img_id": 1119,
+        "img_name": "medvh_1119.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, pneumonia, atelectasis. B: atelectasis, pleural thickening, edema. C: pleural effusion, atelectasis, lung opacity, edema, pneumonia. D: pleural effusion, atelectasis, air collection. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 285,
+        "img_id": 1082,
+        "img_name": "medvh_1082.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: right basilar area. B: the right lower lung. C: left basal area. D: left basilar area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 286,
+        "img_id": 1133,
+        "img_name": "medvh_1133.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: right lower lung area. B: bilateral lower lung area. C: left upper lung area. D: lower area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 287,
+        "img_id": 798,
+        "img_name": "medvh_798.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: hernia, atelectasis, lung opacity. B: enlargement of the cardiac silhouette, lung opacity. C: cardiomegaly, lung opacity, edema. D: cardiomegaly, calcification, atelectasis, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 288,
+        "img_id": 1202,
+        "img_name": "medvh_1202.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, atelectasis, emphysema. B: cardiomegaly, vascular congestion. C: pleural effusion, pneumonia. D: atelectasis, vascular congestion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 289,
+        "img_id": 1103,
+        "img_name": "medvh_1103.jpg",
+        "question": "what abnormalities are seen in the right upper lung?",
+        "choices": "A: granuloma. B: lung opacity. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 290,
+        "img_id": 952,
+        "img_name": "medvh_952.jpg",
+        "question": "what level is the atelectasis?",
+        "choices": "A: mild to moderate. B: moderate. C: mild. D: increasing. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 291,
+        "img_id": 961,
+        "img_name": "medvh_961.jpg",
+        "question": "where is the pneumonia?",
+        "choices": "A: right upper lung area. B: right area. C: left lower lung area. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 292,
+        "img_id": 790,
+        "img_name": "medvh_790.jpg",
+        "question": "what level is the heart failure?",
+        "choices": "A: mild. B: acute. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 293,
+        "img_id": 1160,
+        "img_name": "medvh_1160.jpg",
+        "question": "what abnormalities are seen in the right lower lung?",
+        "choices": "A: consolidation. B: lung opacity. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 294,
+        "img_id": 858,
+        "img_name": "medvh_858.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: emphysema, lung opacity, calcification. B: edema, lung opacity, infection. C: pleural effusion, atelectasis, lung opacity, pneumonia, cardiomegaly. D: edema, consolidation, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 295,
+        "img_id": 863,
+        "img_name": "medvh_863.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: the right upper lung. B: the left middle to lower lung. C: lower lung area. D: right lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 296,
+        "img_id": 1343,
+        "img_name": "medvh_1343.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, edema, lung opacity, infection. B: lung opacity, pleural effusion, atelectasis, infection. C: scoliosis. D: pneumonia, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 297,
+        "img_id": 1252,
+        "img_name": "medvh_1252.jpg",
+        "question": "where in the image is the granuloma located?",
+        "choices": "A: left lung area. B: left basal area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 298,
+        "img_id": 871,
+        "img_name": "medvh_871.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: the left lower lung. B: left basilar area. C: lower lung area. D: right lower area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 299,
+        "img_id": 1049,
+        "img_name": "medvh_1049.jpg",
+        "question": "is the pleural effusion located on the left side or right side?",
+        "choices": "A: right side. B: left side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 300,
+        "img_id": 914,
+        "img_name": "medvh_914.jpg",
+        "question": "where is the edema?",
+        "choices": "A: bilateral area. B: left lung area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 301,
+        "img_id": 1168,
+        "img_name": "medvh_1168.jpg",
+        "question": "is the atelectasis located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 302,
+        "img_id": 1001,
+        "img_name": "medvh_1001.jpg",
+        "question": "what type is the atelectasis?",
+        "choices": "A: linear. B: plate-like. C: parenchymal. D: patchy linear. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 303,
+        "img_id": 1109,
+        "img_name": "medvh_1109.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: consolidation, lung opacity. B: fracture. C: granuloma. D: lung opacity, pneumonia, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 304,
+        "img_id": 1362,
+        "img_name": "medvh_1362.jpg",
+        "question": "what level is the cardiomegaly?",
+        "choices": "A: mild to moderate. B: moderate. C: moderately severe. D: severe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 305,
+        "img_id": 871,
+        "img_name": "medvh_871.jpg",
+        "question": "what type is the lung opacity?",
+        "choices": "A: patchy linear. B: multifocal. C: multifocal parenchymal. D: ground-glass. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 306,
+        "img_id": 1372,
+        "img_name": "medvh_1372.jpg",
+        "question": "what type is the lung opacity?",
+        "choices": "A: interstitial. B: focal linear. C: focal. D: parenchymal. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 307,
+        "img_id": 750,
+        "img_name": "medvh_750.jpg",
+        "question": "is the consolidation located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 308,
+        "img_id": 793,
+        "img_name": "medvh_793.jpg",
+        "question": "what level is the scoliosis?",
+        "choices": "A: severe. B: mild. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 309,
+        "img_id": 862,
+        "img_name": "medvh_862.jpg",
+        "question": "is the pneumothorax located on the left side or right side?",
+        "choices": "A: right side. B: left side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 310,
+        "img_id": 1355,
+        "img_name": "medvh_1355.jpg",
+        "question": "where is the pleural effusion?",
+        "choices": "A: middle to lower right lung area. B: left lung area. C: left area. D: bilateral area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 311,
+        "img_id": 739,
+        "img_name": "medvh_739.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: lung bibasilar area. B: right area. C: the right lung base. D: basilar area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 312,
+        "img_id": 866,
+        "img_name": "medvh_866.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, lung opacity, consolidation. B: hernia, lung opacity, consolidation. C: edema, consolidation, infection. D: vascular congestion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 313,
+        "img_id": 950,
+        "img_name": "medvh_950.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: left retrocardiac area. B: right lower upper lung area. C: the lower lung. D: the right lung base. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 314,
+        "img_id": 1219,
+        "img_name": "medvh_1219.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: left lower area. B: left lower lung area. C: basilar area. D: the right lower lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 315,
+        "img_id": 971,
+        "img_name": "medvh_971.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, cardiomegaly, lung opacity. B: lung opacity, atelectasis, pleural effusion, pneumonia. C: pleural effusion, atelectasis, consolidation, cardiomegaly. D: pleural effusion, atelectasis, lung opacity, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 316,
+        "img_id": 948,
+        "img_name": "medvh_948.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, pneumothorax. B: pleural effusion, edema, lung opacity, atelectasis, pneumonia. C: pleural effusion, edema, lung opacity, atelectasis. D: lung opacity, edema, pneumonia, cardiomegaly, pleural effusion, scoliosis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 317,
+        "img_id": 917,
+        "img_name": "medvh_917.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, lung opacity, pleural effusion. B: cardiomegaly, edema, pleural effusion, atelectasis, lung opacity. C: lung opacity. D: lung opacity, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 318,
+        "img_id": 800,
+        "img_name": "medvh_800.jpg",
+        "question": "is the pneumonia located on the left side or right side?",
+        "choices": "A: right side. B: left side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 319,
+        "img_id": 1254,
+        "img_name": "medvh_1254.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, pneumonia, edema, pleural effusion. B: calcification. C: atelectasis, pleural effusion, blunting of the costophrenic angle. D: enlargement of the cardiac silhouette, hernia, edema, pleural effusion, atelectasis, blunting of the costophrenic angle, lung opacity, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 320,
+        "img_id": 1101,
+        "img_name": "medvh_1101.jpg",
+        "question": "where in the image is the pneumonia located?",
+        "choices": "A: left middle lower lung area. B: right upper lower lung area. C: lower lung area. D: right lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 321,
+        "img_id": 1114,
+        "img_name": "medvh_1114.jpg",
+        "question": "what level is the consolidation?",
+        "choices": "A: mild. B: small. C: severe. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 322,
+        "img_id": 1202,
+        "img_name": "medvh_1202.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, pleural effusion, atelectasis, lung opacity, pneumonia. B: pneumothorax, cardiomegaly. C: pleural effusion, emphysema, edema, cardiomegaly. D: pneumothorax, pleural effusion, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 323,
+        "img_id": 1341,
+        "img_name": "medvh_1341.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, cardiomegaly, edema. B: cardiomegaly, edema, vascular congestion. C: edema, lung opacity, infection, pneumonia. D: edema, cardiomegaly, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 324,
+        "img_id": 1145,
+        "img_name": "medvh_1145.jpg",
+        "question": "what type is the consolidation?",
+        "choices": "A: dense. B: parenchymal. C: focal. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 325,
+        "img_id": 764,
+        "img_name": "medvh_764.jpg",
+        "question": "what level is the pleural effusion?",
+        "choices": "A: mild. B: decreasing. C: moderate small. D: moderate. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 326,
+        "img_id": 1314,
+        "img_name": "medvh_1314.jpg",
+        "question": "where is the consolidation?",
+        "choices": "A: the lower lung. B: right area. C: right lower lung area. D: right upper lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 327,
+        "img_id": 913,
+        "img_name": "medvh_913.jpg",
+        "question": "is the fracture located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 328,
+        "img_id": 932,
+        "img_name": "medvh_932.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly. B: pneumonia, consolidation. C: vascular congestion, atelectasis, lung opacity, pleural effusion. D: edema, cardiomegaly, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 329,
+        "img_id": 911,
+        "img_name": "medvh_911.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, lung opacity, hematoma, consolidation. B: cardiomegaly, lung opacity, atelectasis, edema. C: lung opacity, infection. D: pleural effusion, lung opacity, pneumonia, atelectasis, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 330,
+        "img_id": 1305,
+        "img_name": "medvh_1305.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, cardiomegaly. B: pleural effusion, edema, atelectasis. C: edema, vascular congestion, atelectasis, lung opacity. D: heart failure. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 331,
+        "img_id": 937,
+        "img_name": "medvh_937.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, atelectasis, pneumonia. B: lung opacity, atelectasis, infection. C: lung opacity, pleural effusion, atelectasis, pneumonia. D: pleural effusion, cardiomegaly, edema, vascular congestion, atelectasis, lung opacity, consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 332,
+        "img_id": 1309,
+        "img_name": "medvh_1309.jpg",
+        "question": "what abnormalities are seen in the right middle lung?",
+        "choices": "A: atelectasis. B: consolidation. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 333,
+        "img_id": 943,
+        "img_name": "medvh_943.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, pleural effusion. B: edema, pleural effusion. C: enlargement of the cardiac silhouette, pleural effusion, atelectasis. D: pneumonia, consolidation, atelectasis, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 334,
+        "img_id": 950,
+        "img_name": "medvh_950.jpg",
+        "question": "what level is the lung opacity?",
+        "choices": "A: mild. B: mild to moderate. C: minimal. D: severe. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 335,
+        "img_id": 905,
+        "img_name": "medvh_905.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, lung opacity, cardiomegaly, scoliosis. B: pneumothorax. C: edema, atelectasis. D: edema, lung opacity, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 336,
+        "img_id": 729,
+        "img_name": "medvh_729.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: emphysema, atelectasis, lung opacity, pleural effusion. B: pneumothorax, atelectasis. C: atelectasis, lung opacity. D: atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 337,
+        "img_id": 969,
+        "img_name": "medvh_969.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: bibasilar area. B: bibasilar area and right area. C: left retrocardiac area. D: retrocardiac area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 338,
+        "img_id": 907,
+        "img_name": "medvh_907.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, calcification. B: lung opacity, pneumonia, consolidation. C: pleural effusion, edema, pneumonia, consolidation, vascular congestion, lung opacity. D: edema, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 339,
+        "img_id": 1162,
+        "img_name": "medvh_1162.jpg",
+        "question": "what level is the pleural effusion?",
+        "choices": "A: small. B: minimally. C: small moderate. D: moderate to large small. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 340,
+        "img_id": 1232,
+        "img_name": "medvh_1232.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: lung bibasilar area. B: bibasilar area. C: lower lung area. D: lower middle lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 341,
+        "img_id": 1034,
+        "img_name": "medvh_1034.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: left area. B: lung area. C: left lung area. D: the left lung base. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 342,
+        "img_id": 853,
+        "img_name": "medvh_853.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, pneumothorax, atelectasis, cardiomegaly. B: pleural effusion, consolidation, vascular congestion. C: lung opacity, edema. D: consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 343,
+        "img_id": 1297,
+        "img_name": "medvh_1297.jpg",
+        "question": "where in the image is the vascular congestion located?",
+        "choices": "A: right area. B: lung area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 344,
+        "img_id": 1118,
+        "img_name": "medvh_1118.jpg",
+        "question": "where in the image is the fracture located?",
+        "choices": "A: rib area. B: left rib area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 345,
+        "img_id": 1288,
+        "img_name": "medvh_1288.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, pleural effusion, cardiomegaly. B: lung opacity, vascular congestion, infection. C: atelectasis, fracture, vascular congestion. D: pleural effusion, hypertensive heart disease. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 346,
+        "img_id": 1030,
+        "img_name": "medvh_1030.jpg",
+        "question": "where in the image is the calcification located?",
+        "choices": "A: area area. B: pericardial area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 347,
+        "img_id": 1016,
+        "img_name": "medvh_1016.jpg",
+        "question": "where is the pneumothorax?",
+        "choices": "A: left apical area. B: right apical area. C: left area. D: right area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 348,
+        "img_id": 967,
+        "img_name": "medvh_967.jpg",
+        "question": "where is the emphysema?",
+        "choices": "A: right area. B: upper lung area. C: upper area. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 349,
+        "img_id": 965,
+        "img_name": "medvh_965.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: bilateral lung area. B: right area. C: right lower lung area. D: lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 350,
+        "img_id": 992,
+        "img_name": "medvh_992.jpg",
+        "question": "what level is the vascular congestion?",
+        "choices": "A: mild to moderate. B: mild. C: moderate. D: minimal. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 351,
+        "img_id": 1080,
+        "img_name": "medvh_1080.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumonia, consolidation, cardiomegaly, edema. B: pneumonia, atelectasis. C: pneumothorax, edema, vascular congestion, atelectasis, pleural effusion. D: edema, pleural effusion, lung opacity, consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 352,
+        "img_id": 1072,
+        "img_name": "medvh_1072.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, consolidation, atelectasis, pneumonia. B: cardiomegaly, emphysema. C: pleural effusion, cardiomegaly, edema. D: pleural effusion, cardiomegaly, vascular congestion, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 353,
+        "img_id": 744,
+        "img_name": "medvh_744.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: emphysema. B: pleural effusion, pleural thickening. C: lung opacity, atelectasis, contusion, consolidation. D: pleural effusion, pneumonia, consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 354,
+        "img_id": 958,
+        "img_name": "medvh_958.jpg",
+        "question": "what abnormalities are seen in the left lower lung?",
+        "choices": "A: consolidation. B: atelectasis. C: lung opacity. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 355,
+        "img_id": 1398,
+        "img_name": "medvh_1398.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, fracture, calcification. B: pleural effusion, consolidation. C: pleural effusion, lung opacity. D: cardiomegaly, pleural effusion, fracture. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 356,
+        "img_id": 1098,
+        "img_name": "medvh_1098.jpg",
+        "question": "where in the image is the pneumothorax located?",
+        "choices": "A: left apical area. B: left area. C: basilar apical area. D: right apical area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 357,
+        "img_id": 1403,
+        "img_name": "medvh_1403.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: the left lung base. B: the right upper lung. C: bilateral lower lung area. D: left lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 358,
+        "img_id": 1268,
+        "img_name": "medvh_1268.jpg",
+        "question": "is the emphysema located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 359,
+        "img_id": 1182,
+        "img_name": "medvh_1182.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, vascular congestion, pleural effusion, atelectasis. B: pleural effusion, atelectasis, lung opacity, blunting of the costophrenic angle. C: vascular congestion, pleural effusion, cardiomegaly. D: pleural effusion, atelectasis, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 360,
+        "img_id": 833,
+        "img_name": "medvh_833.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, pneumonia, consolidation. B: pleural effusion, edema, consolidation, pneumonia, cardiomegaly. C: pleural effusion, consolidation, edema, emphysema. D: pleural effusion, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 361,
+        "img_id": 1112,
+        "img_name": "medvh_1112.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: consolidation, pneumothorax, pleural effusion, hernia. B: hernia. C: pneumomediastinum, atelectasis. D: atelectasis, scoliosis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 362,
+        "img_id": 1290,
+        "img_name": "medvh_1290.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: right lung area. B: right area. C: left lower lung area. D: right lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 363,
+        "img_id": 800,
+        "img_name": "medvh_800.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumothorax, atelectasis, lung opacity, pleural effusion. B: atelectasis, fracture. C: atelectasis, edema. D: pneumonia, cardiomegaly, pleural effusion, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 364,
+        "img_id": 752,
+        "img_name": "medvh_752.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: the right apical area. B: bibasilar area. C: bilateral area. D: left lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 365,
+        "img_id": 920,
+        "img_name": "medvh_920.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, vascular congestion, cardiomegaly, atelectasis, lung opacity, consolidation. B: vascular congestion, cardiomegaly. C: pneumothorax, atelectasis, edema. D: cardiomegaly, vascular congestion, lung opacity, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 366,
+        "img_id": 815,
+        "img_name": "medvh_815.jpg",
+        "question": "where in the image is the pleural effusion located?",
+        "choices": "A: left area. B: right area. C: bilateral area and left area. D: pericardial area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 367,
+        "img_id": 1201,
+        "img_name": "medvh_1201.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, atelectasis, vascular congestion. B: edema, lung opacity, cardiomegaly. C: lung opacity, pleural effusion, atelectasis, infection, consolidation, edema. D: pleural effusion, atelectasis, vascular congestion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 368,
+        "img_id": 1201,
+        "img_name": "medvh_1201.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: the left middle lung. B: right area. C: the lung bases. D: left basal area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 369,
+        "img_id": 1161,
+        "img_name": "medvh_1161.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: enlargement of the cardiac silhouette, atelectasis, pleural effusion, blunting of the costophrenic angle. B: emphysema, pneumothorax, pneumomediastinum, lung opacity, infection. C: edema, vascular congestion, lung opacity, infection, pleural effusion. D: pleural effusion, fracture. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 370,
+        "img_id": 851,
+        "img_name": "medvh_851.jpg",
+        "question": "what level is the pleural effusion?",
+        "choices": "A: moderately. B: moderate to large. C: minimally moderate. D: subtle small. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 371,
+        "img_id": 883,
+        "img_name": "medvh_883.jpg",
+        "question": "what level is the calcification?",
+        "choices": "A: minimal. B: mild. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 372,
+        "img_id": 1148,
+        "img_name": "medvh_1148.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: left basilar retrocardiac area. B: the lower lungs. C: left apical area. D: the left lower lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 373,
+        "img_id": 1291,
+        "img_name": "medvh_1291.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, lung opacity, atelectasis, pneumonia. B: cardiomegaly, lung opacity. C: vascular congestion, pleural effusion, atelectasis, lung opacity. D: atelectasis, edema, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 374,
+        "img_id": 1330,
+        "img_name": "medvh_1330.jpg",
+        "question": "where is the fracture?",
+        "choices": "A: right rib area. B: left rib area. C: bilateral rib area. D: rib area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 375,
+        "img_id": 523,
+        "img_name": "medvh_523.jpg",
+        "question": "where is the pneumothorax?",
+        "choices": "A: left apical area. B: right apical area. C: left area. D: right area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 376,
+        "img_id": 617,
+        "img_name": "medvh_617.jpg",
+        "question": "where in the image is the fracture located?",
+        "choices": "A: rib area. B: left rib area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 377,
+        "img_id": 173,
+        "img_name": "medvh_173.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: the right upper lung. B: right middle lung area. C: left apical area. D: right lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 378,
+        "img_id": 214,
+        "img_name": "medvh_214.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, atelectasis, edema, vascular congestion, lung opacity, consolidation, pleural effusion, pneumonia. B: cardiomegaly, calcification. C: lung opacity, pneumonia, consolidation. D: pleural effusion, edema, pneumonia, consolidation, vascular congestion, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 379,
+        "img_id": 210,
+        "img_name": "medvh_210.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, cardiomegaly. B: lung opacity, edema, vascular congestion, enlargement of the cardiac silhouette, consolidation. C: pleural effusion, atelectasis, enlargement of the cardiac silhouette, lung opacity. D: edema, lung opacity, consolidation, granuloma, atelectasis, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 380,
+        "img_id": 34,
+        "img_name": "medvh_34.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, vascular congestion. B: lung opacity, pleural effusion. C: edema, pleural effusion. D: enlargement of the cardiac silhouette, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 381,
+        "img_id": 707,
+        "img_name": "medvh_707.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: left basilar area. B: lung bibasilar area. C: right area. D: the right lung base. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 382,
+        "img_id": 519,
+        "img_name": "medvh_519.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumothorax, pleural effusion, cardiomegaly. B: pleural effusion, atelectasis, lung opacity, hematoma, consolidation. C: cardiomegaly, lung opacity, atelectasis, edema. D: lung opacity, infection. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 383,
+        "img_id": 514,
+        "img_name": "medvh_514.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: consolidation, pneumonia. B: atelectasis, cardiomegaly. C: consolidation, pleural effusion, atelectasis, lung opacity, pneumonia. D: pleural effusion, atelectasis, lung opacity, infection. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 384,
+        "img_id": 698,
+        "img_name": "medvh_698.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: left lung area. B: the left lung base. C: the left middle lung. D: right area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 385,
+        "img_id": 421,
+        "img_name": "medvh_421.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: the left lower lung. B: left area. C: left lower lung area and bibasilar area. D: right lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 386,
+        "img_id": 398,
+        "img_name": "medvh_398.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, cardiomegaly, edema, vascular congestion, atelectasis, lung opacity, consolidation. B: pleural effusion, atelectasis, cardiomegaly, edema. C: cardiomegaly, edema, vascular congestion. D: edema, lung opacity, infection, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 387,
+        "img_id": 289,
+        "img_name": "medvh_289.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, edema, pneumonia. B: emphysema, atelectasis, lung opacity, pleural effusion. C: pneumothorax, atelectasis. D: atelectasis, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 388,
+        "img_id": 79,
+        "img_name": "medvh_79.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: enlargement of the cardiac silhouette, hernia, edema, pleural effusion, atelectasis, blunting of the costophrenic angle, lung opacity, pneumonia. B: pleural effusion, atelectasis, pneumonia, consolidation. C: pleural effusion, edema, consolidation, pneumonia, cardiomegaly. D: pleural effusion, consolidation, edema, emphysema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 389,
+        "img_id": 331,
+        "img_name": "medvh_331.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, calcification, atelectasis, lung opacity. B: pleural effusion, edema. C: cardiomegaly, edema, pleural effusion, heart failure. D: edema, vascular congestion, atelectasis, lung opacity, pneumonia, gastric distention. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 390,
+        "img_id": 32,
+        "img_name": "medvh_32.jpg",
+        "question": "is the pneumothorax located on the left side or right side?",
+        "choices": "A: right side. B: left side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 391,
+        "img_id": 362,
+        "img_name": "medvh_362.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, pleural effusion. B: pneumonia, consolidation, cardiomegaly, edema. C: pneumonia, atelectasis. D: pneumothorax, edema, vascular congestion, atelectasis, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 392,
+        "img_id": 34,
+        "img_name": "medvh_34.jpg",
+        "question": "where is the pleural effusion?",
+        "choices": "A: right area and bilateral area. B: left area and bilateral area. C: bilateral bibasilar area. D: left area and right area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 393,
+        "img_id": 72,
+        "img_name": "medvh_72.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, pneumothorax. B: consolidation, pneumothorax, lung opacity. C: cardiomegaly, pleural effusion, consolidation. D: fracture, scoliosis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 394,
+        "img_id": 182,
+        "img_name": "medvh_182.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, cardiomegaly, vascular congestion, edema. B: pleural effusion, lung opacity, cardiomegaly, scoliosis. C: pneumothorax. D: edema, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 395,
+        "img_id": 516,
+        "img_name": "medvh_516.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: lower lung area. B: lower middle lung area. C: right lower lung area. D: bilateral lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 396,
+        "img_id": 154,
+        "img_name": "medvh_154.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, edema, consolidation. B: atelectasis, lung opacity, hematoma. C: lung opacity, atelectasis, edema. D: edema, lung opacity, atelectasis, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 397,
+        "img_id": 583,
+        "img_name": "medvh_583.jpg",
+        "question": "what level is the calcification?",
+        "choices": "A: minimal. B: mild. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 398,
+        "img_id": 591,
+        "img_name": "medvh_591.jpg",
+        "question": "what abnormalities are seen in the lung bases?",
+        "choices": "A: atelectasis. B: lung opacity. C: consolidation. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 399,
+        "img_id": 688,
+        "img_name": "medvh_688.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumonia, pleural effusion. B: cardiomegaly, atelectasis, emphysema. C: cardiomegaly, vascular congestion. D: pleural effusion, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 400,
+        "img_id": 467,
+        "img_name": "medvh_467.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, vascular congestion. B: lung opacity, atelectasis, pneumonia. C: lung opacity, atelectasis, infection. D: lung opacity, pleural effusion, atelectasis, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 401,
+        "img_id": 396,
+        "img_name": "medvh_396.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumonia, consolidation, atelectasis, pleural effusion. B: enlargement of the cardiac silhouette, atelectasis, pleural effusion, blunting of the costophrenic angle. C: emphysema, pneumothorax, pneumomediastinum, lung opacity, infection. D: edema, vascular congestion, lung opacity, infection, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 402,
+        "img_id": 445,
+        "img_name": "medvh_445.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: vascular congestion. B: pleural effusion, pneumothorax. C: pleural effusion, edema, lung opacity, atelectasis, pneumonia. D: pleural effusion, edema, lung opacity, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 403,
+        "img_id": 174,
+        "img_name": "medvh_174.jpg",
+        "question": "what level is the vascular congestion?",
+        "choices": "A: mild. B: moderate. C: minimal. D: mildly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 404,
+        "img_id": 421,
+        "img_name": "medvh_421.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: heart failure, edema, atelectasis. B: pneumothorax, atelectasis, lung opacity, pleural effusion. C: atelectasis, fracture. D: atelectasis, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 405,
+        "img_id": 268,
+        "img_name": "medvh_268.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, pleural effusion, lung opacity, consolidation. B: cardiomegaly, atelectasis, vascular congestion. C: edema, lung opacity, cardiomegaly. D: lung opacity, pleural effusion, atelectasis, infection, consolidation, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 406,
+        "img_id": 141,
+        "img_name": "medvh_141.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis. B: pleural effusion, atelectasis, consolidation. C: lung opacity, pneumonia. D: lung opacity, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 407,
+        "img_id": 129,
+        "img_name": "medvh_129.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, consolidation, pneumonia. B: atelectasis, lung opacity, pleural effusion. C: cardiomegaly, edema, pleural effusion, atelectasis, lung opacity. D: lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 408,
+        "img_id": 27,
+        "img_name": "medvh_27.jpg",
+        "question": "what type is the atelectasis?",
+        "choices": "A: plate-like. B: parenchymal. C: patchy linear. D: compressive. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 409,
+        "img_id": 437,
+        "img_name": "medvh_437.jpg",
+        "question": "what level is the scoliosis?",
+        "choices": "A: severe. B: mild. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 410,
+        "img_id": 321,
+        "img_name": "medvh_321.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, pneumonia, pleural effusion. B: edema, vascular congestion, pleural effusion, atelectasis, lung opacity. C: edema, vascular congestion, lung opacity, pleural effusion. D: pleural effusion, vascular congestion, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 411,
+        "img_id": 176,
+        "img_name": "medvh_176.jpg",
+        "question": "what level is the blunting of the costophrenic angle?",
+        "choices": "A: mild. B: minimal. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 412,
+        "img_id": 379,
+        "img_name": "medvh_379.jpg",
+        "question": "is the edema located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 413,
+        "img_id": 125,
+        "img_name": "medvh_125.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, air collection. B: emphysema, pleural effusion, atelectasis, lung opacity, infection. C: cardiomegaly, pleural effusion, atelectasis, edema. D: edema, atelectasis, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 414,
+        "img_id": 116,
+        "img_name": "medvh_116.jpg",
+        "question": "where in the image is the pleural effusion located?",
+        "choices": "A: lung left area. B: bilateral area. C: right area and left area. D: the right lung base. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 415,
+        "img_id": 329,
+        "img_name": "medvh_329.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, lung opacity, pleural effusion, atelectasis. B: pleural effusion, atelectasis, lung opacity, consolidation. C: hernia, lung opacity, consolidation. D: edema, consolidation, infection. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 416,
+        "img_id": 377,
+        "img_name": "medvh_377.jpg",
+        "question": "where is the edema?",
+        "choices": "A: bilateral area. B: left lung area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 417,
+        "img_id": 49,
+        "img_name": "medvh_49.jpg",
+        "question": "is the consolidation located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 418,
+        "img_id": 561,
+        "img_name": "medvh_561.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: middle lower right lung area. B: basilar area. C: left area. D: lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 419,
+        "img_id": 296,
+        "img_name": "medvh_296.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, lung opacity, atelectasis, infection. B: edema, vascular congestion, lung opacity, pleural effusion, atelectasis. C: edema, pleural effusion, atelectasis, lung opacity. D: blunting of the costophrenic angle. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 420,
+        "img_id": 167,
+        "img_name": "medvh_167.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: bibasilar retrocardiac area. B: right basilar area. C: the right lower lung. D: left basal area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 421,
+        "img_id": 319,
+        "img_name": "medvh_319.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, calcification. B: pleural effusion, atelectasis, fracture. C: lung opacity, calcification, pleural effusion, atelectasis, consolidation. D: edema, atelectasis, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 422,
+        "img_id": 346,
+        "img_name": "medvh_346.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: retrocardiac area. B: middle to lower right lung area. C: basal area. D: left lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 423,
+        "img_id": 389,
+        "img_name": "medvh_389.jpg",
+        "question": "what level is the edema?",
+        "choices": "A: minimal. B: mild to moderate. C: mild. D: mildly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 424,
+        "img_id": 82,
+        "img_name": "medvh_82.jpg",
+        "question": "what level is the pneumothorax?",
+        "choices": "A: small. B: massive. C: mild. D: moderate. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 425,
+        "img_id": 252,
+        "img_name": "medvh_252.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: right upper lung area. B: left basilar area. C: right basilar area. D: retrocardiac area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 426,
+        "img_id": 457,
+        "img_name": "medvh_457.jpg",
+        "question": "what abnormalities are seen in the right middle lung?",
+        "choices": "A: atelectasis. B: consolidation. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 427,
+        "img_id": 617,
+        "img_name": "medvh_617.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: bilateral lower lung area. B: left lung area. C: the left upper lung. D: the lung bases. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 428,
+        "img_id": 100,
+        "img_name": "medvh_100.jpg",
+        "question": "what level is the heart failure?",
+        "choices": "A: mild. B: acute. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 429,
+        "img_id": 223,
+        "img_name": "medvh_223.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, edema, pleural effusion, atelectasis, consolidation. B: consolidation, pneumothorax, pleural effusion, hernia. C: hernia. D: pneumomediastinum, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 430,
+        "img_id": 582,
+        "img_name": "medvh_582.jpg",
+        "question": "where is the fracture?",
+        "choices": "A: right rib area. B: left rib area. C: bilateral rib area. D: rib area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 431,
+        "img_id": 421,
+        "img_name": "medvh_421.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, pneumonia. B: edema, vascular congestion, cardiomegaly, atelectasis, lung opacity, consolidation. C: vascular congestion, cardiomegaly. D: pneumothorax, atelectasis, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 432,
+        "img_id": 402,
+        "img_name": "medvh_402.jpg",
+        "question": "where in the image is the pneumonia located?",
+        "choices": "A: left lower lung area. B: left area. C: left lower area. D: mid area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 433,
+        "img_id": 394,
+        "img_name": "medvh_394.jpg",
+        "question": "what level is the atelectasis?",
+        "choices": "A: increasing. B: severe. C: minimal. D: small. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 434,
+        "img_id": 432,
+        "img_name": "medvh_432.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: the lung bases. B: left basal area. C: left lower area. D: left lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 435,
+        "img_id": 34,
+        "img_name": "medvh_34.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: calcification, atelectasis, lung opacity, infection. B: pleural effusion, atelectasis, edema, lung opacity, infection. C: lung opacity, pleural effusion, atelectasis, infection. D: scoliosis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 436,
+        "img_id": 694,
+        "img_name": "medvh_694.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: the right upper lung. B: right basilar area. C: left basilar area. D: the right lung base. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 437,
+        "img_id": 187,
+        "img_name": "medvh_187.jpg",
+        "question": "what level is the enlargement of the cardiac silhouette?",
+        "choices": "A: moderate. B: mild. C: severe. D: massive. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 438,
+        "img_id": 7,
+        "img_name": "medvh_7.jpg",
+        "question": "what type is the lung opacity?",
+        "choices": "A: ground-glass. B: interstitial. C: focal linear. D: focal. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 439,
+        "img_id": 139,
+        "img_name": "medvh_139.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: consolidation. B: atelectasis, cardiomegaly, lung opacity. C: lung opacity, atelectasis, pleural effusion, pneumonia. D: pleural effusion, atelectasis, consolidation, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 440,
+        "img_id": 76,
+        "img_name": "medvh_76.jpg",
+        "question": "what abnormalities are seen in the right lower lung?",
+        "choices": "A: consolidation. B: lung opacity. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 441,
+        "img_id": 93,
+        "img_name": "medvh_93.jpg",
+        "question": "where in the image is the calcification located?",
+        "choices": "A: area area. B: pericardial area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 442,
+        "img_id": 423,
+        "img_name": "medvh_423.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, pleural effusion, fracture. B: pleural effusion, consolidation, lung opacity, cardiomegaly, edema, calcification, atelectasis, infection, pneumonia. C: pleural effusion, edema, cardiomegaly. D: edema, pneumonia, consolidation, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 443,
+        "img_id": 453,
+        "img_name": "medvh_453.jpg",
+        "question": "is the pleural effusion located on the left side or right side?",
+        "choices": "A: right side. B: left side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 444,
+        "img_id": 703,
+        "img_name": "medvh_703.jpg",
+        "question": "where is the consolidation?",
+        "choices": "A: left lower lung area. B: area area. C: right middle lung area. D: retrocardiac area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 445,
+        "img_id": 375,
+        "img_name": "medvh_375.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: left basilar area. B: lower lung area. C: right lower area. D: right basal area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 446,
+        "img_id": 531,
+        "img_name": "medvh_531.jpg",
+        "question": "what level is the emphysema?",
+        "choices": "A: severe. B: decreasing. C: minimal. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 447,
+        "img_id": 417,
+        "img_name": "medvh_417.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, fracture. B: hernia, atelectasis, lung opacity. C: enlargement of the cardiac silhouette, lung opacity. D: cardiomegaly, lung opacity, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 448,
+        "img_id": 246,
+        "img_name": "medvh_246.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, hypertensive heart disease. B: pleural effusion, atelectasis, lung opacity. C: edema, pleural effusion, atelectasis, lung opacity, pneumonia, consolidation, cardiomegaly, heart failure. D: atelectasis, lung opacity, pneumonia, pleural effusion, pleural thickening. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 449,
+        "img_id": 193,
+        "img_name": "medvh_193.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumothorax, lung opacity. B: pneumothorax, cardiomegaly, pleural effusion, lung opacity, atelectasis, edema. C: pneumonia, consolidation, pleural effusion. D: pleural effusion, atelectasis, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 450,
+        "img_id": 232,
+        "img_name": "medvh_232.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: calcification, atelectasis, lung opacity, pneumonia, pleural effusion. B: edema, pleural effusion, atelectasis. C: atelectasis, pleural effusion. D: edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 451,
+        "img_id": 616,
+        "img_name": "medvh_616.jpg",
+        "question": "what level is the pleural effusion?",
+        "choices": "A: moderate. B: small. C: minimally. D: small moderate. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 452,
+        "img_id": 706,
+        "img_name": "medvh_706.jpg",
+        "question": "is the atelectasis located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 453,
+        "img_id": 150,
+        "img_name": "medvh_150.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: the lung bases. B: left upper lung area. C: right upper lung area. D: bibasilar area and left lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 454,
+        "img_id": 596,
+        "img_name": "medvh_596.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, lung opacity, pneumonia. B: edema, pleural effusion, cardiomegaly. C: lung opacity, vascular congestion, infection. D: atelectasis, fracture, vascular congestion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 455,
+        "img_id": 154,
+        "img_name": "medvh_154.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: right lower lung area. B: lung area. C: left basilar retrocardiac area. D: the lower lungs. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 456,
+        "img_id": 24,
+        "img_name": "medvh_24.jpg",
+        "question": "is the lung opacity located on the left side or right side?",
+        "choices": "A: right side. B: left side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 457,
+        "img_id": 511,
+        "img_name": "medvh_511.jpg",
+        "question": "where in the image is the atelectasis located?",
+        "choices": "A: basilar area. B: the right upper lung. C: the left middle to lower lung. D: lower lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 458,
+        "img_id": 20,
+        "img_name": "medvh_20.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, contusion, fracture. B: lung opacity, granuloma, calcification. C: calcification, tortuosity of the thoracic aorta , atelectasis, lung opacity. D: enlargement of the cardiac silhouette, edema, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 459,
+        "img_id": 154,
+        "img_name": "medvh_154.jpg",
+        "question": "where is the pleural effusion?",
+        "choices": "A: bilateral area. B: pericardial area. C: right area and left area. D: right area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 460,
+        "img_id": 284,
+        "img_name": "medvh_284.jpg",
+        "question": "what level is the hernia?",
+        "choices": "A: subtle. B: moderate. C: small. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 461,
+        "img_id": 252,
+        "img_name": "medvh_252.jpg",
+        "question": "is the pneumonia located on the left side or right side?",
+        "choices": "A: right side. B: left side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 462,
+        "img_id": 129,
+        "img_name": "medvh_129.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: cardiomegaly, vascular congestion, lung opacity, pleural effusion, atelectasis. B: lung opacity, pneumonia, atelectasis. C: atelectasis, pleural thickening, edema. D: pleural effusion, atelectasis, lung opacity, edema, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 463,
+        "img_id": 125,
+        "img_name": "medvh_125.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumothorax, pleural effusion, atelectasis. B: pleural effusion, pneumothorax, atelectasis, cardiomegaly. C: pleural effusion, consolidation, vascular congestion. D: lung opacity, edema. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 464,
+        "img_id": 136,
+        "img_name": "medvh_136.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, edema, pneumonia, enlargement of the cardiac silhouette. B: cardiomegaly. C: pneumonia, consolidation. D: vascular congestion, atelectasis, lung opacity, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 465,
+        "img_id": 430,
+        "img_name": "medvh_430.jpg",
+        "question": "where in the image is the pneumothorax located?",
+        "choices": "A: left area. B: basilar apical area. C: right apical area. D: right area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 466,
+        "img_id": 370,
+        "img_name": "medvh_370.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: bibasilar area and right area. B: left retrocardiac area. C: retrocardiac area. D: right basilar area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 467,
+        "img_id": 31,
+        "img_name": "medvh_31.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, lung opacity, pneumonia, atelectasis, edema. B: pneumonia, emphysema. C: calcification, pleural effusion, edema, heart failure. D: pneumonia, edema, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 468,
+        "img_id": 78,
+        "img_name": "medvh_78.jpg",
+        "question": "what level is the consolidation?",
+        "choices": "A: mild. B: small. C: severe. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 469,
+        "img_id": 525,
+        "img_name": "medvh_525.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: right lower lung area and left basal area. B: the left lung base. C: bilateral area. D: left basal area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 470,
+        "img_id": 257,
+        "img_name": "medvh_257.jpg",
+        "question": "what level is the pleural effusion?",
+        "choices": "A: subtle small. B: mild. C: decreasing. D: moderate small. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 471,
+        "img_id": 229,
+        "img_name": "medvh_229.jpg",
+        "question": "where in the image is the cardiomegaly located?",
+        "choices": "A: the left upper lung. B: bilateral area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 472,
+        "img_id": 420,
+        "img_name": "medvh_420.jpg",
+        "question": "where in the image is the consolidation located?",
+        "choices": "A: right upper lung area. B: right apicolateral area. C: right lower lung area. D: bibasilar area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 473,
+        "img_id": 239,
+        "img_name": "medvh_239.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, lung opacity. B: pleural effusion, lung opacity, emphysema, fracture. C: cardiomegaly, edema, vascular congestion, lung opacity, pleural effusion. D: atelectasis, lung opacity, consolidation, edema, pneumonia. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 474,
+        "img_id": 281,
+        "img_name": "medvh_281.jpg",
+        "question": "what abnormalities are seen in the right upper lung?",
+        "choices": "A: granuloma. B: lung opacity. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 475,
+        "img_id": 348,
+        "img_name": "medvh_348.jpg",
+        "question": "where in the image is the vascular congestion located?",
+        "choices": "A: right area. B: lung area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 476,
+        "img_id": 318,
+        "img_name": "medvh_318.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, cardiomegaly, atelectasis. B: consolidation, lung opacity. C: fracture. D: granuloma. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 477,
+        "img_id": 464,
+        "img_name": "medvh_464.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, atelectasis, vascular congestion. B: emphysema. C: pleural effusion, pleural thickening. D: lung opacity, atelectasis, contusion, consolidation. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 478,
+        "img_id": 196,
+        "img_name": "medvh_196.jpg",
+        "question": "what level is the pleural effusion?",
+        "choices": "A: moderate to large small. B: increasing. C: minimal. D: moderate to large moderate. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 479,
+        "img_id": 341,
+        "img_name": "medvh_341.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, edema, vascular congestion, cardiomegaly, calcification. B: edema, atelectasis, lung opacity, infection, cardiomegaly. C: granuloma, atelectasis, pleural effusion. D: lung opacity, hematoma, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 480,
+        "img_id": 226,
+        "img_name": "medvh_226.jpg",
+        "question": "is the fracture located on the left side or right side?",
+        "choices": "A: left side. B: right side. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 481,
+        "img_id": 129,
+        "img_name": "medvh_129.jpg",
+        "question": "where is the consolidation?",
+        "choices": "A: the lower lung. B: right area. C: right lower lung area. D: right upper lung area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 482,
+        "img_id": 226,
+        "img_name": "medvh_226.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, atelectasis. B: emphysema, lung opacity, calcification. C: edema, lung opacity, infection. D: pleural effusion, atelectasis, lung opacity, pneumonia, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 483,
+        "img_id": 217,
+        "img_name": "medvh_217.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: atelectasis, scoliosis. B: lung opacity, pneumonia, edema, pleural effusion. C: calcification. D: atelectasis, pleural effusion, blunting of the costophrenic angle. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 484,
+        "img_id": 14,
+        "img_name": "medvh_14.jpg",
+        "question": "where in the image is the granuloma located?",
+        "choices": "A: left lung area. B: left basal area. C: Not a suitable question for the image.",
+        "gt": "C"
+    },
+    {
+        "question_id": 485,
+        "img_id": 253,
+        "img_name": "medvh_253.jpg",
+        "question": "where is the pneumonia?",
+        "choices": "A: right upper lung area. B: right area. C: left lower lung area. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 486,
+        "img_id": 682,
+        "img_name": "medvh_682.jpg",
+        "question": "where is the lung opacity?",
+        "choices": "A: the lower lung. B: the right lung base. C: the left lung base. D: the right upper lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 487,
+        "img_id": 622,
+        "img_name": "medvh_622.jpg",
+        "question": "where is the emphysema?",
+        "choices": "A: right area. B: upper lung area. C: upper area. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 488,
+        "img_id": 23,
+        "img_name": "medvh_23.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, consolidation, pleural effusion. B: edema, lung opacity, atelectasis, pneumonia. C: cardiomegaly, lung opacity. D: vascular congestion, pleural effusion, atelectasis, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 489,
+        "img_id": 405,
+        "img_name": "medvh_405.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pleural effusion, pneumonia, consolidation. B: pleural effusion. C: pleural effusion, edema, lung opacity, infection. D: cardiomegaly, pleural effusion, atelectasis. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 490,
+        "img_id": 554,
+        "img_name": "medvh_554.jpg",
+        "question": "where is the atelectasis?",
+        "choices": "A: basilar area. B: the right lower lung. C: the left lower lung. D: retrocardiac area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 491,
+        "img_id": 625,
+        "img_name": "medvh_625.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: pneumonia, cardiomegaly, pleural effusion, edema. B: cardiomegaly, edema. C: cardiomegaly, edema, heart failure, pleural effusion, atelectasis, emphysema. D: edema, lung opacity, atelectasis, pleural effusion. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 492,
+        "img_id": 682,
+        "img_name": "medvh_682.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: lung opacity, pneumonia, calcification. B: pleural effusion, atelectasis, fracture, calcification. C: pleural effusion, consolidation. D: pleural effusion, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 493,
+        "img_id": 469,
+        "img_name": "medvh_469.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: heart failure. B: atelectasis, lung opacity, infection, pleural effusion. C: pneumonia, lung opacity, calcification. D: consolidation, cardiomegaly. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 494,
+        "img_id": 315,
+        "img_name": "medvh_315.jpg",
+        "question": "what level is the lung opacity?",
+        "choices": "A: severe. B: increasing. C: subtle. D: small. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 495,
+        "img_id": 365,
+        "img_name": "medvh_365.jpg",
+        "question": "what abnormalities are seen in this image?",
+        "choices": "A: edema, cardiomegaly, pleural effusion. B: edema, cardiomegaly. C: pleural effusion, edema, atelectasis. D: edema, vascular congestion, atelectasis, lung opacity. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 496,
+        "img_id": 10,
+        "img_name": "medvh_10.jpg",
+        "question": "what type is the atelectasis?",
+        "choices": "A: focal. B: scattered. C: patchy. D: linear. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 497,
+        "img_id": 470,
+        "img_name": "medvh_470.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: basal area. B: the right lower lung. C: left lower lung area and right lower lung area. D: bibasilar area. E: Not a suitable question for the image.",
+        "gt": "E"
+    },
+    {
+        "question_id": 498,
+        "img_id": 322,
+        "img_name": "medvh_322.jpg",
+        "question": "what abnormalities are seen in the right lung base?",
+        "choices": "A: lung opacity. B: atelectasis. C: consolidation. D: Not a suitable question for the image.",
+        "gt": "D"
+    },
+    {
+        "question_id": 499,
+        "img_id": 486,
+        "img_name": "medvh_486.jpg",
+        "question": "where in the image is the lung opacity located?",
+        "choices": "A: right area. B: left lower lung area. C: right lower lung area. D: the left lower lung. E: Not a suitable question for the image.",
+        "gt": "E"
+    }
+]

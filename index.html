@@ -183,6 +183,169 @@
   </section>
 
 
+<table>
+    <caption>Performance comparison of all models on all six tasks. We highlight the best performance in each scenario.</caption>
+    <thead>
+        <tr>
+            <th rowspan="2">Model Type</th>
+            <th rowspan="2">LVLM</th>
+            <th colspan="8">Visual and Textual Cross-understanding</th>
+            <th colspan="4">Long Response Generation</th>
+        </tr>
+        <tr>
+            <th colspan="2">Abnormality Detection</th>
+            <th colspan="2">Wrongful Image</th>
+            <th colspan="2">None of the Above</th>
+            <th colspan="2">Clinically Incorrect Questions</th>
+            <th colspan="2">False Confidence Justification</th>
+            <th>Report Generation</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th>acc_h</th>
+            <th>acc_b</th>
+            <th>acc_h</th>
+            <th>acc_b</th>
+            <th>acc_h</th>
+            <th>acc_b</th>
+            <th>acc_h</th>
+            <th>acc_b</th>
+            <th>acc_h</th>
+            <th>acc_b</th>
+            <th>CHAIR</th>
+            <th>F<sub>1</sub></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">General Models</td>
+            <td>GPT-4V</td>
+            <td>0.324</td>
+            <td>0.471</td>
+            <td><strong>0.978</strong></td>
+            <td>0.244</td>
+            <td>0.244</td>
+            <td>0.262</td>
+            <td><strong>0.356</strong></td>
+            <td>0.186</td>
+            <td>0.366</td>
+            <td>0.378</td>
+            <td>0.665</td>
+            <td>0.338</td>
+        </tr>
+        <tr>
+            <td>LLaVa</td>
+            <td>0.044</td>
+            <td>0.500</td>
+            <td>0.014</td>
+            <td>0.344</td>
+            <td><strong>0.478</strong></td>
+            <td>0.280</td>
+            <td>0.020</td>
+            <td>0.366</td>
+            <td>0.250</td>
+            <td>0.360</td>
+            <td>0.760</td>
+            <td>0.194</td>
+        </tr>
+        <tr>
+            <td>MiniGPT</td>
+            <td>0.228</td>
+            <td>0.508</td>
+            <td>0.024</td>
+            <td>0.326</td>
+            <td>0.108</td>
+            <td>0.124</td>
+            <td>0.006</td>
+            <td>0.030</td>
+            <td><strong>0.490</strong></td>
+            <td>0.326</td>
+            <td>0.938</td>
+            <td>0.040</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Medical Models</td>
+            <td>LLaVa-Med</td>
+            <td>0.170</td>
+            <td>0.457</td>
+            <td>0.110</td>
+            <td>0.216</td>
+            <td>0.028</td>
+            <td>0.164</td>
+            <td>0.004</td>
+            <td>0.168</td>
+            <td>0.172</td>
+            <td>0.244</td>
+            <td>0.737</td>
+            <td>0.218</td>
+        </tr>
+        <tr>
+            <td>Med-Flamingo</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>0.831</td>
+            <td>0.133</td>
+        </tr>
+        <tr>
+            <td rowspan="3">CXR Models</td>
+            <td>LLM-CXR</td>
+            <td>0.348</td>
+            <td>0.472</td>
+            <td>0.104</td>
+            <td>0.220</td>
+            <td>0.094</td>
+            <td>0.130</td>
+            <td>0.046</td>
+            <td>0.244</td>
+            <td>0.220</td>
+            <td>0.256</td>
+            <td>0.570</td>
+            <td>0.401</td>
+        </tr>
+        <tr>
+            <td>XrayGPT</td>
+            <td>0.176</td>
+            <td>0.173</td>
+            <td>0.164</td>
+            <td>0.286</td>
+            <td>0.154</td>
+            <td>0.140</td>
+            <td>0.016</td>
+            <td>0.030</td>
+            <td>0.230</td>
+            <td>0.132</td>
+            <td>0.576</td>
+            <td>0.278</td>
+        </tr>
+        <tr>
+            <td>ChxXagent</td>
+            <td><strong>0.378</strong></td>
+            <td><strong>0.526</strong></td>
+            <td>0.154</td>
+            <td><strong>0.410</strong></td>
+            <td>0.258</td>
+            <td><strong>0.458</strong></td>
+            <td>0.182</td>
+            <td><strong>0.540</strong></td>
+            <td>0.094</td>
+            <td><strong>0.462</strong></td>
+            <td><strong>0.461</strong></td>
+            <td><strong>0.506</strong></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
