@@ -183,6 +183,30 @@
   </section>
 
 
+<style>
+    table {
+        border-collapse: collapse;
+        margin: 0 auto;
+    }
+    th, td {
+        border-bottom: 1px solid lightgrey; /* Light grey horizontal borders */
+        padding: 8px 12px;
+        text-align: center;
+        vertical-align: middle; /* Vertically centers the content */
+    }
+    th {
+        white-space: nowrap;
+    }
+    /* Thicker top border */
+    thead tr:first-child th {
+        border-top: 2px solid black;
+    }
+    /* Thicker bottom border */
+    tbody tr:last-child td {
+        border-bottom: 2px solid black;
+    }
+</style>
+
 <table>
     <caption>Performance comparison of all models on all six tasks. We highlight the best performance in each scenario.</caption>
     <thead>
@@ -198,7 +222,7 @@
             <th colspan="2">None of the Above</th>
             <th colspan="2">Clinically Incorrect Questions</th>
             <th colspan="2">False Confidence Justification</th>
-            <th>Report Generation</th>
+            <th colspan="2">Report Generation</th>
         </tr>
         <tr>
             <th></th>
@@ -343,6 +367,10 @@
         </tr>
     </tbody>
 </table>
+
+
+
+
 
 
 
