@@ -37,23 +37,45 @@ Large Vision Language Models (LVLMs) have recently achieved superior performance
 ## How to use
 The questions and the corresponding choices are stored with json files, which can be loaded with python code
 ```python
-data = json.load(open('MedVH/multi_choices/test_wrongful_image.json', 'r'))
+data = json.load(open('MedVH/multi_choices/wrongful_image/test_wrongful_image.json', 'r'))
 ```
 
 Specifically, each question is saved in the following format.
 ```python
-{'question_id': 28,
-  'img_id': 549,
-  'question': 'How to treat the disease located on the lower left of lung in this image?',
-  'img_name': 'medvh_549.jpg',
-  'choices': 'A: Medical treatment, surgical treatment. B: Medical therapy, supportive therapy. C: This is not a suitable question for this image.',
-  'gt': 'C',
-  'correct_answer': 'Medical therapy, supportive therapy',
-  'correct_gt': 'B'}
+{
+    "question_id": 0,
+    "img_id": 957,
+    "img_name": "medvh_957.jpg",
+    "question": "Can nodule be observed on the upper right lung in this picture?",
+    "choices": "A: Yes. B: No. C: Not a suitable question for the image.",
+    "gt": "C"
+    }
 
 ``` 
 
 The 'img_id' is associated with 'img_name' under the corresponding task image directory. 'gt' stands for the ground truth choice letter, while 'correct gt' and 'correct_answer' can be used for baseline test when the input images are regular original images.
+
+There are also tasks utilize images from MIMIC-CXR and Medical-Diff-VQA, where the original images can be accessed through credentialed access granted by PhysioNet. For these tasks, we include a _src file, which provides information about the source of the images associated with the questions, along with the corresponding IDs to identify the images.
+Take _Clinically_ _Incorrect_ _Premise_ task as an example, the included test_cli_src.json file has items like
+
+```python
+{
+    "question_id": 0,
+    "img_id": 0,
+    "img_name": "medvh_0.jpg",
+    "question": "is the air collection located on the left side or right side?",
+    "choices": "A: left side. B: right side. C: this question contains an incorrect clinical statement.",
+    "gt": "C: this question contains an incorrect clinical statement.",
+    "img_source": "Medical-Diff-VQA",
+    "ori_id": "1f9e76a6-f8b7bbd4-4acf666c-855e59f5-79b11f77"
+    },
+
+``` 
+
+Here, the img_source field indicates that the question is derived from Medical-Diff-VQA, and the ori_id field specifies the original DICOM ID.
+
+We have submitted our dataset to PhysioNet for review and expect it to be made available directly in the near future.
+
 
 ## Evaluation
 We share the code for evaluation the GPT model here. Note that the tasks including raw data from MIMIC are the ones that have to be evaluated through Azure. Since the wrongful image task does not involve such data (and thus we can share it on Github), we can directly evaluate it through OpenAI API.
